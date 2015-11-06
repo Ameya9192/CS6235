@@ -10,4 +10,6 @@ Highways: 'highway damaged', 'highway closed', 'highway mud', 'highway blocked',
 
 Run streamTwitter.py and save its output to output.txt
 
-Run tweetToJSON.py to get the data in the required format
+Run tweetToJSON.py and save its output to JSON.txt to get the data in the required format
+
+Run filterData.py on JSON.txt to remove irrelevant tweets
