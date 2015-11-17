@@ -5,7 +5,7 @@ The keywords are:
 
 Bridges: 'bridge collapse', 'bridge damaged', 'bridge closure', 'bridge closed', 'bridge flooded', 'bridge accident'
 
-Highways: 'highway damaged', 'highway closed', 'highway mud', 'highway blocked', 'highway concrete buckled'
+Highways: 'highway damaged', 'highway accident', 'highway closed', 'highway mud', 'highway blocked', 'highway pothole', 'highway snow', 'highway gridlock'
 
 
 Run streamTwitter.py and save its output to output.txt
