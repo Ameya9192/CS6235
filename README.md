@@ -35,12 +35,12 @@ Please follow the steps below:
 
 -- Run twitterGapDownload.py and save the result HTML file in folder TwitterGap
 
--- Run twitterGapParse.py on all keywords related to a particular event- say Bridge Failures. Combine all the text files into a single text file.
+-- Run twitterGapParse.py on all keywords related to a particular event- say Bridge Failures. Combine all the text files into a single text file. The name of this file should be "<infrastructure>_failures.txt", where <infrastructure> can be "bridge", "gas", "highway", "power", "roads", "traffic_lights"
 
--- Run tweetToJSON.py and save its output to _________________ to get the data in the required format. Refer sample_test.txt for the required format. Now divide the text file into two files- sample_test.txt and sample_train.txt (1:1 ratio)
+-- Run tweetToJSON.py and save its output to "<infrastructure>_JSON.txt" to get the data in the required format. Refer sample_test.txt for the required format. Now divide the text file into two files- sample_test.txt and sample_train.txt (1:1 ratio)
 
 -- Run geoNLP.java using sample_test.txt and sample_train.txt as input files. The output of this stage will be test_geo.txt and train_geo.txt
 
--- Run labeling.py on "<name>_geo.txt" (name = train OR test) and save its output to labels.txt. In labels.txt, manually label '1' if relevant or '0' if otherwise, at end of each cell. Refer labels.txt for the exact labelling syntax. Add a tab not a space after ']'
+-- Run labeling.py on "<name>_geo.txt" (<name> = train OR test) and save its output to labels.txt. In labels.txt, manually label '1' if relevant or '0' if otherwise, at end of each cell. Refer labels.txt for the exact labelling syntax. Add a tab not a space after ']'
 
 -- Run annotation.py on labels.txt and save its output to "<name>_labels.txt"
