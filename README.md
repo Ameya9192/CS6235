@@ -1,7 +1,6 @@
 ReadMe
 
 This is the repository for the CS 6235 Class Project- LITMUS for Public Infrastructure Damage.
-
 The damages/failures we have looked at, are:
 
 1) Highway Damages
@@ -18,17 +17,17 @@ The damages/failures we have looked at, are:
 
 The keywords are:
 
-1)Highway Damages: 'highway damaged', 'highway accident', 'highway closed', 'highway mud', 'highway blocked', 'highway pothole', 'highway snow', 'highway gridlock'
+-- Highway Damages: 'highway damaged', 'highway accident', 'highway closed', 'highway mud', 'highway blocked', 'highway pothole', 'highway snow', 'highway gridlock'
 
-2) Bridge Failures: 'bridge collapse', 'bridge damaged', 'bridge closure', 'bridge closed', 'bridge flooded', 'bridge accident'
+-- Bridge Failures: 'bridge collapse', 'bridge damaged', 'bridge closure', 'bridge closed', 'bridge flooded', 'bridge accident'
 
-3) Damages to Roads: 'road crack', 'buckled road', 'road potholes'
+-- Damages to Roads: 'road crack', 'buckled road', 'road potholes'
 
-4) Power Outages: 'power outage'
+-- Power Outages: 'power outage'
 
-5) Traffic Lights Failures: 'traffic lights out', 'traffic lights damaged', 'traffic signals out'
+-- Traffic Lights Failures: 'traffic lights out', 'traffic lights damaged', 'traffic signals out'
 
-6) Gas Leaks: 'gas leak', 'gas line'
+-- Gas Leaks: 'gas leak', 'gas line'
 
 Please follow the steps below:
 
