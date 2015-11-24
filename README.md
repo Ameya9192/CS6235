@@ -4,17 +4,25 @@ This is the repository for the CS 6235 Class Project- LITMUS for Public Infrastr
 
 The damages/failures we have looked at are:
 1) Highway Damages
+
 2) Bridge Failures
+
 3) Damages to Roads- like cracks, buckles, potholes
+
 4) Power Outages
+
 5) Traffic Lights Failures
 
 The keywords are:
 
 1)Highway Damages: 'highway damaged', 'highway accident', 'highway closed', 'highway mud', 'highway blocked', 'highway pothole', 'highway snow', 'highway gridlock'
+
 2) Bridge Failures: 'bridge collapse', 'bridge damaged', 'bridge closure', 'bridge closed', 'bridge flooded', 'bridge accident'
+
 3) Damages to Roads:
+
 4) Power Outages:
+
 5) Traffic Lights Failures:
 
 Please follow the steps below:
