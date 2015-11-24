@@ -43,6 +43,6 @@ Please follow the steps below:
 
 -- Run geoNLP.java using sample_test.txt and sample_train.txt as input files. The output of this stage will be test_geo.txt and train_geo.txt
 
--- Run labeling.py on "<name>_geo.txt" (<name> = train OR test) and save its output to labels.txt. In labels.txt, manually label '1' if relevant or '0' if otherwise, at end of each cell. Refer labels.txt for the exact labelling syntax. Add a tab not a space after ']'
+-- Run labeling.py on "<name>_geo.txt" and save its output to labels.txt. In labels.txt, manually label '1' if relevant or '0' if otherwise, at end of each cell. Refer labels.txt for the exact labelling syntax. Add a tab not a space after ']'
 
 -- Run annotation.py on labels.txt and save its output to "<name>_labels.txt"
