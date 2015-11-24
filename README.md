@@ -15,6 +15,7 @@ The damages/failures we have looked at, are:
 
 6) Gas Leaks
 
+
 The keywords are:
 
 -- Highway Damages: 'highway damaged', 'highway accident', 'highway closed', 'highway mud', 'highway blocked', 'highway pothole', 'highway snow', 'highway gridlock'
@@ -28,6 +29,7 @@ The keywords are:
 -- Traffic Lights Failures: 'traffic lights out', 'traffic lights damaged', 'traffic signals out'
 
 -- Gas Leaks: 'gas leak', 'gas line'
+
 
 Please follow the steps below:
 
