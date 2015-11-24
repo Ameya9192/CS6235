@@ -20,20 +20,24 @@ The keywords are:
 
 2) Bridge Failures: 'bridge collapse', 'bridge damaged', 'bridge closure', 'bridge closed', 'bridge flooded', 'bridge accident'
 
-3) Damages to Roads:
+3) Damages to Roads: 'road crack', 'buckled road', 'road potholes'
 
-4) Power Outages:
+4) Power Outages: 'power outage'
 
-5) Traffic Lights Failures:
+5) Traffic Lights Failures: 'traffic lights out', 'traffic lights damaged', 'traffic signals out'
 
 Please follow the steps below:
 
-Run streamTwitter.py and save its output to output.txt
+-- Modify twitterGapDownload.py and twitterGapParse.py using appropriate keywords
 
-Run tweetToJSON.py and save its output to JSON.txt to get the data in the required format
+-- Run twitterGapDownload.py and save the result HTML file in folder TwitterGap
 
-Run filterData.py on JSON.txt to remove irrelevant tweets
+-- Run twitterGapParse.py on all keywords related to a particular event- say Bridge Failures. Combine all the text files into a single text file.
 
-Run crudeLabelling.py on "<name>_geo.txt" and save its output to crudeLabels.txt. In crudeLabels.txt, manually label at end of each cell. Refer crudeLabels.txt for the exact labelling syntax. Add a tab not a space after ']'
+-- Run tweetToJSON.py and save its output to JSON.txt to get the data in the required format. Refer sample_test.txt for the required format. Now divide the text file into two files- sample_test.txt and sample_train.txt (1:1 ratio)
 
-Run annotation.py on crudeLabel.txt and save its output to "<name>_labels.txt"
+-- Run geoNLP.java using sample_test.txt and sample_train.txt as input files. The output of this stage will be test_geo.txt and train_geo.txt
+
+-- Run labeling.py on "<name>_geo.txt" and save its output to labels.txt. In labels.txt, manually label '1' if relevant or '0' if otherwise, at end of each cell. Refer labels.txt for the exact labelling syntax. Add a tab not a space after ']'
+
+-- Run annotation.py on crudeLabel.txt and save its output to "<name>_labels.txt"
