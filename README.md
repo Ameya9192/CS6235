@@ -7,13 +7,11 @@ The damages/failures we have looked at, are:
 
 2) Bridge Failures
 
-3) Damages to Roads- like cracks, buckles, potholes
+3) Power Outages
 
-4) Power Outages
+4) Traffic Lights Failures
 
-5) Traffic Lights Failures
-
-6) Gas Leaks
+5) Gas Leaks
 
 
 The keywords used for Twitter Search are:
@@ -35,7 +33,7 @@ Please follow the steps below:
 
 -- Run twitterGapDownload.py and save the result HTML file in folder TwitterGap
 
--- Run twitterGapParse.py on all keywords related to a particular event- say Bridge Failures. Combine all the text files into a single text file. The name of this file should be "infrastructure_failures.txt", where infrastructure can be "bridge", "gas", "highway", "power", "roads", "traffic_lights"
+-- Run twitterGapParse.py on all keywords related to a particular event- say Bridge Failures. Combine all the text files into a single text file. The name of this file should be "infrastructure_failures.txt", where infrastructure can be "bridge", "gas", "highway", "power", "traffic_lights"
 
 -- Run tweetToJSON.py with "infrastructure_failures.txt"  and save its output to infrastructure_JSON.txt to get the data in the required format. Refer sample_test.txt for the required format. Now divide the text file into two files- sample_test.txt and sample_train.txt (1:1 ratio)
 
