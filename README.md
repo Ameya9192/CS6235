@@ -16,13 +16,11 @@ The damages/failures we have looked at, are:
 6) Gas Leaks
 
 
-The keywords are:
+The keywords used for Twitter Search are:
 
 -- Highway Damages: 'highway damaged', 'highway accident', 'highway closed', 'highway mud', 'highway blocked', 'highway pothole', 'highway snow', 'highway gridlock'
 
 -- Bridge Failures: 'bridge collapse', 'bridge damaged', 'bridge closure', 'bridge closed', 'bridge flooded', 'bridge accident'
-
--- Damages to Roads: 'road crack', 'buckled road', 'road potholes'
 
 -- Power Outages: 'power outage'
 
@@ -33,7 +31,7 @@ The keywords are:
 
 Please follow the steps below:
 
--- Modify twitterGapDownload.py and twitterGapParse.py using appropriate keywords
+-- Modify twitterGapDownload.py and twitterGapParse.py using the appropriate keywords
 
 -- Run twitterGapDownload.py and save the result HTML file in folder TwitterGap
 
