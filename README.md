@@ -37,8 +37,8 @@ Please follow the steps below:
 
 -- Run tweetToJSON.py with "infrastructure_failures.txt"  and save its output to infrastructure_JSON.txt to get the data in the required format. Refer sample_test.txt for the required format. Now divide the text file into two files- sample_test.txt and sample_train.txt (1:1 ratio)
 
--- Run geoNLP.java using sample_test.txt and sample_train.txt as input files. The output of this stage will be sample_test_nlp.txt and sample_train_nlp.txt. Run geocode.py on sample_<name>_nlp.txt files after adding your Google Maps Geocode API key in geocode.py. The output of this stage will be "sample_<name>_geo.txt"
+-- Run geoNLP.java using sample_test.txt and sample_train.txt as input files. The output of this stage will be sample_test_nlp.txt and sample_train_nlp.txt. Run geocode.py on sample_train/test_nlp.txt files after adding your Google Maps Geocode API key in geocode.py. The output of this stage will be "sample_train/test_geo.txt"
 
--- Run labeling.py on "sample_<name>_geo.txt" and save its output to labels.txt. In labels.txt, manually label '1' if relevant or '0' if otherwise, at end of each cell. Refer labels.txt for the exact labelling syntax. Add a tab not a space after ']'
+-- Run labeling.py on "sample_train/test_geo.txt" and save its output to labels.txt. In labels.txt, manually label '1' if relevant or '0' if otherwise, at end of each cell. Refer labels.txt for the exact labelling syntax. Add a tab not a space after ']'
 
 -- Run annotation.py on labels.txt and save its output to "<name>_labels.txt"
