@@ -6,4 +6,4 @@ To shuffle lines in a text file:
 shuf example.txt --output=example.txt
 
 To split text file:
-split -l 60000 access.log
+split -l LINECOUNT FILENAME
