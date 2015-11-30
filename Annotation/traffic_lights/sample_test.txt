@@ -1,0 +1,914 @@
+{'text': 'This afternoon. Traffic lights out on Highland, La Brea on Beverly. And apparently Santa Monica Blvd.  I blame the #Mets', 'stream_type': 'Twitter', 'id_str': '652712948750639104'}
+{'text': 'Policeman Why did you stop your car get out and yell coward at the traffic signal? Motorist The light just turned yellow. ok', 'stream_type': 'Twitter', 'id_str': '660463736814219264'}
+{'text': "To the asshole that was weaving in and out of traffic without using his turn signal: you didn't get there any faster than I did, fucker.", 'stream_type': 'Twitter', 'id_str': '654399448160837632'}
+{'text': 'Just pressed the traffic lights and crossed so that cars trying to pull out of a turn could. I am so nice ', 'stream_type': 'Twitter', 'id_str': '649489464109191168'}
+{'text': 'S Wendover & Sharon Rd. is a mess. Tree down, traffic lights out, road blocked. #fox46storm pic.twitter.com/WUNUmzOeU0', 'stream_type': 'Twitter', 'id_str': '650247116447744000'}
+{'text': 'Traffic lights out at Wake Forest road and St. Albans and at Dresser St.', 'stream_type': 'Twitter', 'id_str': '650370810893455361'}
+{'text': 'Traffic lights are all out on A1010 Tottenham High Road at Lordship Lane. Approach with care.', 'stream_type': 'Twitter', 'id_str': '653272552094179328'}
+{'text': 'MARSHALL CO: An earlier ax took out the traffic signal at US 68 and US 641. The intersection is now functioning as a 3-way stop!', 'stream_type': 'Twitter', 'id_str': '658968995417202693'}
+{'text': 'holy cow so the power is out for half the town... and people sure dont know what to do when u dont have traffic lights....', 'stream_type': 'Twitter', 'id_str': '656209675592052737'}
+{'text': "Seems to me they have got #traffic out of the #cityofsydney but haven't reset street #lights to favour #pedestrians #light #rail #traffic", 'stream_type': 'Twitter', 'id_str': '654187578283786242'}
+{'text': '@trafficscotland there\\u2019s a set of traffic lights out at Charing Cross just at the junction on Sauchiehall St eastbound (just past Koh I Noor', 'stream_type': 'Twitter', 'id_str': '652737461089632256'}
+{'text': 'Felony Traffic Stop - 13/MARTHA, OPD out with 2 detained, signal 5 veh.', 'stream_type': 'Twitter', 'id_str': '656367657164279808'}
+{'text': 'He had a huge, rock-hard player traffic signal straight out into the hallway. pic.twitter.com/m8NrfAzooM', 'stream_type': 'Twitter', 'id_str': '656308718586437632'}
+{'text': 'Literally people come out of nowhere and all of a sudden the traffic is sitting through FOUR FUCKING GREEN LIGHTS', 'stream_type': 'Twitter', 'id_str': '650044170204151808'}
+{'text': "Big jam w/traffic lights out Tara Blvd./Hwy. 19/41 at Tara Rd. and Mundy's Mill Rd. in Clayton Co. http://bit.ly/1LAHSEc\\u00a0 #ATLtraffic", 'stream_type': 'Twitter', 'id_str': '659135371113050114'}
+{'text': 'There are several traffic lights out along Front St in Traverse City.  They are without power due to the storm.... http://fb.me/43KnO51jX\\u00a0', 'stream_type': 'Twitter', 'id_str': '656255403119017984'}
+{'text': "As the Mondeo stopped at traffic lights, someone got out the Mitsubishi, went up to the Mondeo's passenger side and fired 3 shots. #starlive", 'stream_type': 'Twitter', 'id_str': '651412577038270464'}
+{'text': 'M-DOT ready with traffic lights. Barricades to be moved out soon. M-231 close to opening. @wzzm13. pic.twitter.com/L5oeOnatQE', 'stream_type': 'Twitter', 'id_str': '660171746503430144'}
+{'text': 'Traffic lights are all out on the A4 at North End Road, near West Kensington station. An engineer is currently sourcing a spare part.', 'stream_type': 'Twitter', 'id_str': '651270098506924033'}
+{'text': 'The OH NO Emoji says to watch out for traffic lights flashing red & green on 4th at Main.Treat it like a 4 way stop. pic.twitter.com/sz1zEFQUjI', 'stream_type': 'Twitter', 'id_str': '650981960676827136'}
+{'text': 'First day on the job, truck driver knocks out lights at Brighton + Stevens #PortlandMe http://bit.ly/1LlMHT7\\u00a0 pic.twitter.com/qFM5I0Kfjb', 'stream_type': 'Twitter', 'id_str': '652503736858841088'}
+{'text': 'Interesting race ahead@weekend RT @johnpostmd How windy is it in Kona?Power, traffic lights out at Palani/Kuakini Hwy pic.twitter.com/72XafeLnNb', 'stream_type': 'Twitter', 'id_str': '651507843976331264'}
+{'text': "We should trust drivers and phase out traffic lights http://www.thetimes.co.uk/tto/opinion/thunderer/article4580537.ece\\u00a0\\u2026 < I'd remove most new sets installed over the last 12/14 years", 'stream_type': 'Twitter', 'id_str': '652552876066107392'}
+{'text': 'Sydney Traffic TRAFFIC LIGHTS BLACKED OUT Power failure - ASHFIELD Liverpool Rd at Milton St #sydtraffic #trafficnetwork', 'stream_type': 'Twitter', 'id_str': '656346496871198721'}
+{'text': 'No single thing- DUI laws, traffic lights, stop signs, speed limits, driver licenses- make driving 100% safe but imagine w/out them. #inners', 'stream_type': 'Twitter', 'id_str': '650101116131258368'}
+{'text': 'Truck cuts corner, knocks out traffic lights at Brighton and Stevens: Traffic is flowing again at the corner o... http://bit.ly/1jj1brT\\u00a0', 'stream_type': 'Twitter', 'id_str': '652619103299997697'}
+{'text': 'DUBLIN: Traffic lights out at Merrion Square/ Clare St Jct. Traffic also very busy in the area so take extreme care. http://theAA.ie/Roadwatch\\u00a0', 'stream_type': 'Twitter', 'id_str': '652169727612076032'}
+{'text': '@ptbo_utilities Traffic Lights are out at Hwy 7 & 115. Some are blinking red, some are yellow. Dangerous intersection @Ptbo_Canada', 'stream_type': 'Twitter', 'id_str': '660571262310305793'}
+{'text': 'North West, N12 Potchefstroom/ Ada Crossing: Traffic lights are out of order. Reckless driving have been reported.\\u2026 http://dlvr.it/CVpw5Q\\u00a0', 'stream_type': 'Twitter', 'id_str': '656693727595880448'}
+{'text': '@delawareonline Lights out at Cleveland Ave & Rt 2. Police are directing traffic. pic.twitter.com/48Cvd7nyIp', 'stream_type': 'Twitter', 'id_str': '649707729381130240'}
+{'text': 'Waco Police say there still are some traffic lights out around town.', 'stream_type': 'Twitter', 'id_str': '657682510881628162'}
+{'text': 'Traffic signals will be out @ 10th Ave & W. Nob Hill Blvd on Sunday, 10-25-15 to upgrade the signal controller. http://ht.ly/TMAkO\\u00a0', 'stream_type': 'Twitter', 'id_str': '658002827516760064'}
+{'text': '@EWNTraffic @TrafficSA @TrafficFreeflow cedar rd and witkoppen traffic lights out. Major gridlock', 'stream_type': 'Twitter', 'id_str': '649570406073008129'}
+{'text': '#JHBTraffic Traffic lights out at Tyrone and Gleneagles in Parkview. @OUTsurance @JMPDSafety @MyJRA via @Alycia_H222', 'stream_type': 'Twitter', 'id_str': '658869739356364800'}
+{'text': 'Sydney Traffic TRAFFIC LIGHTS BLACKED OUT - MANLY VALE Condamine St at Kenneth Rd #sydtraffic #trafficnetwork', 'stream_type': 'Twitter', 'id_str': '660219894407958528'}
+{'text': 'Many @NorthRoyaltonOH traffic lights are out. Most drivers are not treating these like a 4-way stop. #scary @wkyc pic.twitter.com/D79IYQTdQ7', 'stream_type': 'Twitter', 'id_str': '659398636388950016'}
+{'text': 'UPDATE: Power outages possibly due to the overturned vehicle which took down pole and wires. Multiple traffic lights out in the area.', 'stream_type': 'Twitter', 'id_str': '649740333094412288'}
+{'text': 'Traffic lights out in Corinth at 72 and Harper Rd. Police on scene.', 'stream_type': 'Twitter', 'id_str': '655779169356263425'}
+{'text': 'Another traffic signal on 54 and Meadow rook is good for safety, but 54 will be like 19 at build out. Need mass transit or toll road soon.', 'stream_type': 'Twitter', 'id_str': '658349097787748352'}
+{'text': "A4 traffic lights remain out at North End Rd, inbound Q's to Hogarth Rbt. Engineers investigating cable damage, hence the recurring faults.", 'stream_type': 'Twitter', 'id_str': '651311682816503808'}
+{'text': 'First day on job, truck driver knocks out traffic lights at Brighton and Stevens - The Portland... http://fb.me/3hzorPAau\\u00a0', 'stream_type': 'Twitter', 'id_str': '652566256374034432'}
+{'text': 'Traffic lights out at Mallusk and Sandyknowes roundabout!  @TrafficwatchNI @officialcoolfm @PSRebecca', 'stream_type': 'Twitter', 'id_str': '649958255381377025'}
+{'text': '@countykerry @FixYourStreet 1set of traffic lights out at Edward at side of JJ Sheehy rd junction', 'stream_type': 'Twitter', 'id_str': '649521385203736576'}
+{'text': 'Good old @wrexhamcbc traffic dept. Sorting out the farce that is ruthin junction lights @wrexham #useless pic.twitter.com/GOQrhlhc9M', 'stream_type': 'Twitter', 'id_str': '649491719474561024'}
+{'text': 'TRAFFIC LIGHTS: Lights out have been reported at Kenaston/Bison, Kenaston/South Town & Dugald/Plessis. Cadets on scene, please use caution.', 'stream_type': 'Twitter', 'id_str': '653572549075464192'}
+{'text': 'Thx to @HamiltonPolice for directing crazy rush hour traffic at Main & Dundurn this morning when the lights were out!', 'stream_type': 'Twitter', 'id_str': '652471459961524224'}
+{'text': '#ATXTraffic: TRAFFIC ALERT! Signal lights are out on NB Lp 360 at the SB Mopac exit ramp', 'stream_type': 'Twitter', 'id_str': '658620845288484865'}
+{'text': 'Report of traffic lights out all directions at LakeshoreRd/SouthdownRd - #PRP on scene. Use caution, be alert. #SafetyFirst', 'stream_type': 'Twitter', 'id_str': '656622519277846528'}
+{'text': 'SYD traffic TRAFFIC LIGHTS BLACKED OUT Power failure - PENRITH Castlereagh Rd at Peachtree Rd http://ift.tt/1OgN3vf\\u00a0', 'stream_type': 'Twitter', 'id_str': '651165949622554624'}
+{'text': 'All the damn traffic lights and shit are out ', 'stream_type': 'Twitter', 'id_str': '650436665350193153'}
+{'text': 'Captain Cook Highway, Clifton Beach - Hazard Signal fault All directions Traffic lights out, Delays expected, http://131940.com/i=56460941\\u00a0', 'stream_type': 'Twitter', 'id_str': '654466463894519808'}
+{'text': 'Join us at ITS Maryland Annual Meeting in two weeks and find out how we are changing transportation... Session 1A  http://www.eventbrite.com/e/2015-joint-regional-traffic-signal-forum-its-maryland-annual-meeting-tickets-18165854560#m_1_100\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '651488626191171584'}
+{'text': 'Traffic lights out on 1st Both NB/SB at Lomas #traffic http://bit.ly/12qCSuC\\u00a0', 'stream_type': 'Twitter', 'id_str': '651526679429447680'}
+{'text': '@markmartinhere loads of traffic lights out in town meadows and bridges - #dodgums', 'stream_type': 'Twitter', 'id_str': '659055456854384640'}
+{'text': '.@WCCBCharlotte Several traffic lights out along East and South Blvds.  Use caution/common sense.  #FourWayStops', 'stream_type': 'Twitter', 'id_str': '650291475700449280'}
+{'text': 'Lights out Regent/Lag - cops on scene directing traffic #Winnipeg', 'stream_type': 'Twitter', 'id_str': '660449921837854720'}
+{'text': 'TRAFFIC LIGHTS OUT: GREENVILLE\\nCleveland St at E Faris Rd and Haywood Rd at\\nLaurens Rd. Please use as 4 ways stop.', 'stream_type': 'Twitter', 'id_str': '656430798887919616'}
+{'text': 'Lights out at 3 way in Truro at entrance to old teacher college traffic is one per one', 'stream_type': 'Twitter', 'id_str': '649528615084933120'}
+{'text': 'Traffic lights are out in some intersections around Burnhamthorpe Rd in Msga. Officers on point directing traffic. pic.twitter.com/HY9dYrAsSH', 'stream_type': 'Twitter', 'id_str': '656437208392462336'}
+{'text': 'Traffic lights at wellington road 7 and wellington road 21 are out. Drive with care. This becomes a 4way stop @WriteOutHerMind @CWFireChief', 'stream_type': 'Twitter', 'id_str': '659571838348107776'}
+{'text': 'Traffic lights on Clemson Boulevard are out from Ingles to QT heading towards Clemson', 'stream_type': 'Twitter', 'id_str': '651430086311309312'}
+{'text': 'Foggy as hell. Police car comes out of Ashington Police Station, into heavy traffic... No lights on.\\nFantastic job, boys!\\n#ProtectAndServe', 'stream_type': 'Twitter', 'id_str': '659290036974833664'}
+{'text': "y'know when you've put your handbreak on too high at traffic lights & a man in the queue has to get out of his car to take it off for you", 'stream_type': 'Twitter', 'id_str': '649702963305431041'}
+{'text': "@lynndo they just annoy so much when I'm sitting at traffic lights and I see them. Want to jump out and peel them off.", 'stream_type': 'Twitter', 'id_str': '656523199677644802'}
+{'text': 'Traffic lights by Gardners Ferry Rd. are not working. Drive with caution if you must be out on the roads', 'stream_type': 'Twitter', 'id_str': '650696558841831424'}
+{'text': '#PTATraffic @TrafficFreeflow Traffic lights out: Corner of Johannes Ramokhoase St and Paul Kruger St.', 'stream_type': 'Twitter', 'id_str': '654893093079154688'}
+{'text': "Cannot believe at a set of traffic lights I've been told to 'Get your tits out and make my monday'  not what I wanted on my lunch break", 'stream_type': 'Twitter', 'id_str': '656065623374626816'}
+{'text': '#OTTTraffic Alert: And another problem, traffic lights out Alexandria Bridge at MacKenzie. Expect delays. #ottnews', 'stream_type': 'Twitter', 'id_str': '654242066692743168'}
+{'text': '@silk1069 traffic lights out at Monks Heath & end of Alderley Edge bypass', 'stream_type': 'Twitter', 'id_str': '650920299681157120'}
+{'text': '@EWNTraffic @PigSpotter @itrafficgp \\nTraffic lights out! President Fouche & Malibongwe.3 days in a row! No pointsman to be seen #wasteoftime', 'stream_type': 'Twitter', 'id_str': '649528362998829056'}
+{'text': 'JHB - Bryanston:  RT  @Giggling_Lol  Sloane and Main Rd traffic lights out!  @TrafficSA  @MyJRA', 'stream_type': 'Twitter', 'id_str': '649479203272957952'}
+{'text': 'Oddly as one of the cycling people, I love a good roundabout, they are fun and I felt strangely let down about... http://fb.me/7KAdRAk9D\\u00a0', 'stream_type': 'Twitter', 'id_str': '656067660380250112'}
+{'text': 'Courtney Campbell: Traffic lights out near the Ben T Davis Beach and at the boat ramp. Careful driving in the area.', 'stream_type': 'Twitter', 'id_str': '650746376691798018'}
+{'text': '@ourmann Apparently the traffic lights are out on S. Blvd. again. Be careful.', 'stream_type': 'Twitter', 'id_str': '650286899467321344'}
+{'text': '@fi_lines Hi- sorry for the delay, there were temporary traffic lights in Cleeve that caused huge delays on the service- out of our control', 'stream_type': 'Twitter', 'id_str': '651310073365549056'}
+{'text': 'Sydney Traffic TRAFFIC LIGHTS BLACKED OUT Repairs - DULWICH HILL New Canterbury Rd at Constitution Rd #sydtraffic #trafficnetwork', 'stream_type': 'Twitter', 'id_str': '653584923798835200'}
+{'text': '@BougaInDaHouse the traffic lights by my house went out when I was driving on Friday and we still went to school ', 'stream_type': 'Twitter', 'id_str': '650852201653403649'}
+{'text': 'A girl at traffic signal ws checking out through her rear view mirror. Lykwanted to propose her fr marriage bt the signal turned green ', 'stream_type': 'Twitter', 'id_str': '650291229972922368'}
+{'text': 'If you have to go out in a power outage, drive carefully.  Remember traffic lights and street lamps may be affected.', 'stream_type': 'Twitter', 'id_str': '653941306943799296'}
+{'text': '@KentHighways the traffic lights in Lodge Oak Lane are out of sync....cars are meeting in the middle, an accident waiting to happen', 'stream_type': 'Twitter', 'id_str': '658305713995911168'}
+{'text': '@PigSpotter traffic lights cnr Main and William Nicol out. At Grosvenor crossing.', 'stream_type': 'Twitter', 'id_str': '653125616397611008'}
+{'text': 'Sydney Traffic TRAFFIC LIGHTS BLACKED OUT Power failure - MOORE PARK Anzac Pde at Cleveland St #sydtraffic #trafficnetwork', 'stream_type': 'Twitter', 'id_str': '649801616992813056'}
+{'text': 'We are getting reports the traffic signal lights at Bagdad and Crystal Falls are out.  Officers are en route.... http://fb.me/vzrmXAiW\\u00a0', 'stream_type': 'Twitter', 'id_str': '652158632365191168'}
+{'text': '@IllLeaveMyMark @westendtaxi When at traffic lights started looking at their tyres then look at them then at tyres they get out 2 have look.', 'stream_type': 'Twitter', 'id_str': '655435113338150912'}
+{'text': 'Temporary traffic lights have been put in place along the A628 at Tintwistle this afternoon (Thursday 8 October)\\u2026 http://dlvr.it/CP53cl\\u00a0', 'stream_type': 'Twitter', 'id_str': '652405409462902784'}
+{'text': '#CPTTraffic TRAFFIC LIGHTS ARE FAULTY/ OUT\\nIn Marina da Gama at Prince George Drive and Oudevlei Road (vandalised site)', 'stream_type': 'Twitter', 'id_str': '656851506231160832'}
+{'text': 'Traffic lights out at Queen and Glen Manor as crews replace street poles. Use caution and expect delays. #BeachTO pic.twitter.com/189dzKFRCL', 'stream_type': 'Twitter', 'id_str': '651423465724092416'}
+{'text': 'Post Edited: Advisory Message: Multiple traffic lights out http://wmsl.fm/?p=43224\\u00a0', 'stream_type': 'Twitter', 'id_str': '655001455204638720'}
+{'text': 'b careful driving in canal all the traffic lights are out!!!', 'stream_type': 'Twitter', 'id_str': '654361852156231680'}
+{'text': '#jhbtraffic Traffic lights competley out: Rivonia & Centre roads, Morningside CC: @MyJRA @jaca_traffic @EWNTraffic @TrafficSA @Mix938FM', 'stream_type': 'Twitter', 'id_str': '658849921387380736'}
+{'text': 'Traffic lights on York St. at Rutland Dr. out after car crashes into utility pole: AIKEN, S.C. ... http://binged.it/1LD2OdX\\u00a0 #driving #news', 'stream_type': 'Twitter', 'id_str': '659551120193269760'}
+{'text': '*NON-TRUNK* #invtravel Temporary traffic lights at roadworks on Millburn Road are out of service. Traffic is slow  #beaware', 'stream_type': 'Twitter', 'id_str': '654337195474571264'}
+{'text': "Today's run. Ran out and back which meant extra hills. No stopping (except for traffic lights), no\\u2026 https://instagram.com/p/8ZOLDrMC82/\\u00a0", 'stream_type': 'Twitter', 'id_str': '650454165643247616'}
+{'text': 'Croudace Street Lambton still closed after an earlier accident. Wires down, traffic lights blacked out.', 'stream_type': 'Twitter', 'id_str': '651945133076668416'}
+{'text': 'Traffic lights are out from south of Ajo to Valencia & from I-19 to Campbell. Treat all out lights as a 4 way stop. pic.twitter.com/dvypa59Eha', 'stream_type': 'Twitter', 'id_str': '652189673310195712'}
+{'text': 'Traffic lights out at Morgan St.& Channelside Dr. Treat as 4-way stop. #Tampa', 'stream_type': 'Twitter', 'id_str': '656078647640629248'}
+{'text': '@TorontoHydro @TPSOperations @TPS31Div traffic lights out at the intersection of Jane St and Wilson Ave, intersection a mess', 'stream_type': 'Twitter', 'id_str': '652277673943793665'}
+{'text': 'CH annual traffic signal certification process started. Expect flashing red all directions 9pm-5am rotating thru out city, completion 10/22.', 'stream_type': 'Twitter', 'id_str': '654528322106359808'}
+{'text': 'East #Dulwich, traffic lights are out on #A205 at Lordship Lane, congestion to Croxted Road, West Dulwich & Stanstead Road, Forest Hill  bl', 'stream_type': 'Twitter', 'id_str': '652013097817927681'}
+{'text': 'NSW - ST MARYS Great Western Hwy at Sydney St\\nTRAFFIC LIGHTS BLACKED OUT\\nStarted today 11:47am\\nAdvice: Exercise caution', 'stream_type': 'Twitter', 'id_str': '652290133044031488'}
+{'text': 'RT @MerlinRPM: Lights out on Beaver Bank Rd at Stokil.  Traffic backed up beyond Sackville Dr. @sack_vegas @hfxtraffic #t', 'stream_type': 'Twitter', 'id_str': '656228863538802688'}
+{'text': '#JHBTrafic. Traffic lights out in Fourways at Cedar and Fourways Blvd, William Nicol and Fourways Blvd as well as Montecasino and Witkoppen', 'stream_type': 'Twitter', 'id_str': '657176984997507072'}
+{'text': 'Massive jam at borivali as traffic lights not working. A woman proactively gets out of her car and regulates traffic. Hats off!', 'stream_type': 'Twitter', 'id_str': '655467802774667264'}
+{'text': 'Heads up @ACTPol_Traffic @tamsmediaroom, lights out/flashing int Canberra ave/state cir.', 'stream_type': 'Twitter', 'id_str': '658746721954955264'}
+{'text': '#JHBTraffic @TrafficFreeflow Traffic lights out: Corner of Allandale Rd and Alsatian Rd.', 'stream_type': 'Twitter', 'id_str': '659240024685326336'}
+{'text': "'They\\u2019re not all gyratory galacticos' the roundabout debate.... http://gu.com/p/4d5zg/stw\\u00a0", 'stream_type': 'Twitter', 'id_str': '656097106504110080'}
+{'text': 'So I come out of a meeting and get to the traffic lights and look what pulls up. Straight outta 1985\\u2026 https://instagram.com/p/9Gso9sIwmq/\\u00a0', 'stream_type': 'Twitter', 'id_str': '656854351756046336'}
+{'text': 'RHeiti Retweeted Dale Francis', 'stream_type': 'Twitter', 'id_str': '659259398834008065'}
+{'text': '@KnowsleyCouncil appears to be problems with traffic lights dragon lane/windy arbour as out of sync as traffic excessively backed up ..', 'stream_type': 'Twitter', 'id_str': '649683790563033088'}
+{'text': 'Sydney Traffic TRAFFIC LIGHTS BLACKED OUT Power failure - BLAKEHURST King Georges Rd at Terry St #sydtraffic #trafficnetwork', 'stream_type': 'Twitter', 'id_str': '654707824992190464'}
+{'text': 'REMINDER: Traffic lights are out at Beltway and Gessner. #Willowbrook. Stop signs in place. Major delays. Use Perry. pic.twitter.com/suzup3ya6w', 'stream_type': 'Twitter', 'id_str': '652086968998690817'}
+{'text': 'Traffic signal out at 18 and walnut .... People driving rationally, no honking, no chaos. Golly gee, not bad', 'stream_type': 'Twitter', 'id_str': '659722917727633408'}
+{'text': 'Traffic lights out @ OldShellRd & I65 ServiceRd -traffic backing up down Old Shell heading into midtown @LOCAL15NEWS pic.twitter.com/EYIGtvY2Y8', 'stream_type': 'Twitter', 'id_str': '658621728453607425'}
+{'text': 'Traffic Lights out at 32nd Street and Hwy 2 exit. Treat as 4 way stop #ABRoads', 'stream_type': 'Twitter', 'id_str': '654056240868298752'}
+{'text': '#marysvillepolice suv going in out of traffic on state ran two red lights plate starts 740... Turned east on grove Just in case something up', 'stream_type': 'Twitter', 'id_str': '650025832593797120'}
+{'text': 'Opened Roads - Traffic or Pedestrian Light Repair request via iphone at 539 17 AV SW http://spot.cx/1MYM2rS\\u00a0. Loads of lights out on 17th...', 'stream_type': 'Twitter', 'id_str': '657732035390234624'}
+{'text': 'Delays for Pattullo NB, Lights out on Nordel, accident on SFPR in Delta and more traffic details @CTVMorningLive', 'stream_type': 'Twitter', 'id_str': '654663484576149504'}
+{'text': 'Roundabouts v. Traffic Lights. http://www.theguardian.com/cities/2015/oct/19/traffic-lights-roundabouts-way-out\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '656220535798501381'}
+{'text': 'Number of traffic lights up across London up by 5% - find out how many are in your area http://www.itv.com/news/london/2015-10-19/traffic-lights-up-across-the-city-how-many-in-your-area/\\u00a0\\u2026 pic.twitter.com/kS3WAbkZJR', 'stream_type': 'Twitter', 'id_str': '656123623871123456'}
+{'text': 'Photoset: may: so it turns out that traffic lights make for really great lighting in selfies http://tmblr.co/Zs8EVy1wW-qXb\\u00a0', 'stream_type': 'Twitter', 'id_str': '656439576869916672'}
+{'text': 'Traffic lights are out at volunteer Blvd intersection by #hodgeslibrary, @UTKnoxville @UTPolice. Just #fyi', 'stream_type': 'Twitter', 'id_str': '651760990137270272'}
+{'text': 'The Junction 12 lights are now back on after being out of action. http://www.getreading.co.uk/news/reading-berkshire-news/m4-junction-12-roundabout-traffic-10328264\\u00a0\\u2026 #Rdguk', 'stream_type': 'Twitter', 'id_str': '658291284197683204'}
+{'text': 'CLRD: Inc: NCCO - RT 7 THE TRAFFIC LIGHTS ARE OUT FROM MILLTOWN RD TO SKYLINE DR / USE CAUTION IN THIS AREA', 'stream_type': 'Twitter', 'id_str': '650490425556471808'}
+{'text': '6 miles of tailbacks and an extra 1.5 hours on my journey & all for some temporary traffic lights! Sort it out @MonmouthCouncil #a40', 'stream_type': 'Twitter', 'id_str': '650004650679234560'}
+{'text': 'SYD traffic TRAFFIC LIGHTS BLACKED OUT - SYDNEY Clarence St at Druitt St http://ift.tt/1MzBdbb\\u00a0', 'stream_type': 'Twitter', 'id_str': '656182599975575553'}
+{'text': 'Wtf all the traffic lights are out on queen st', 'stream_type': 'Twitter', 'id_str': '650044684279152641'}
+{'text': '@1023WBAB @FingersWBAB All the traffic lights are out on sunrise highway through Bellmore. Traffic is a nightmare', 'stream_type': 'Twitter', 'id_str': '654043737602048001'}
+{'text': '@cbcotttraffic Not sure if you know this already, but traffic lights are out at Preston & Carling. Huge lines of traffic in all directions!', 'stream_type': 'Twitter', 'id_str': '656927636296437760'}
+{'text': 'UPDATE: Aylesford, A20 London Road/ Hermitage Lane: The traffic lights have gone out again. Engineer is reattending: http://moorl.uk/?i3weyy\\u00a0', 'stream_type': 'Twitter', 'id_str': '658968791632752640'}
+{'text': '#JHBTraffic Update: The following traffic lights are out. @Citypower has been notified to restore. pic.twitter.com/Y3SCHib1rZ', 'stream_type': 'Twitter', 'id_str': '660081298892046336'}
+{'text': "Traffic Alert:\\nThe traffic lights are currently out at the intersection of Clear Creek Road and Hwy 190.  (per a FHAE's fan)", 'stream_type': 'Twitter', 'id_str': '658740948470370308'}
+{'text': 'Traffic lights out at Aiea Access Road (by St. Elizabeth school) to turn on to freeway. #hitraffic', 'stream_type': 'Twitter', 'id_str': '656138753195405313'}
+{'text': "Why aren't there Police officers directing traffic on Pine Island & 84 if lights are out? @MyFDOT_SEFL", 'stream_type': 'Twitter', 'id_str': '651380897128808453'}
+{'text': 'TRAFFIC TIP: Traffic lights along 46 from Poplar to at least New Margaret Drive in TH still out and at least one accident has been reported.', 'stream_type': 'Twitter', 'id_str': '650025260138528768'}
+{'text': 'One 4 Orakei Local Board; if you want to kill people on bikes build a roundabout at Tamaki/Ngapipi: http://www.theguardian.com/cities/2015/oct/19/traffic-lights-roundabouts-way-out\\u00a0\\u2026\\n@brewercameron', 'stream_type': 'Twitter', 'id_str': '656933371138846721'}
+{'text': 'Durban - RT @magwitt  Looks like the Tollgate traffic lights go out in the rain - again today @TrafficSA - HEAVY TRAFFIC on N3 Inbound', 'stream_type': 'Twitter', 'id_str': '658873597126144000'}
+{'text': '[@LiveTrafficSyd] #Traffic TRAFFIC LIGHTS BLACKED OUT Power failure - THORNLEIGH Pennant Hills Rd at Wells St http://dlvr.it/CMLt18\\u00a0', 'stream_type': 'Twitter', 'id_str': '651181081945772036'}
+{'text': 'Traffic lights out at South 3rd Street and Dawson, and several on College Road in front of UNCW. #ilm', 'stream_type': 'Twitter', 'id_str': '650765595298787328'}
+{'text': '#PTATraffic @TrafficFreeflow Traffic lights out: Johannes Ramokhoase Str and Paul Kruger Str.', 'stream_type': 'Twitter', 'id_str': '656711198897868801'}
+{'text': '#JHBTraffic. Traffic lights are out in Melrose at Athol Oaklands and Corlett \\u2013 delays on Corlett between the M1 Exit and Wanderers Club', 'stream_type': 'Twitter', 'id_str': '658632102548783108'}
+{'text': '#JHBTraffic Traffic lights competley out: Rivonia & Centre, Morningside. @OUTsurance @JMPDSafety via @Fantafunbus', 'stream_type': 'Twitter', 'id_str': '658850419586809856'}
+{'text': 'Rolling blackouts continue - all traffic lights out on Sepulveda/West LA.  Vehicular mayhem.  Why no traffic officers? #blackout #la', 'stream_type': 'Twitter', 'id_str': '653007587344953344'}
+{'text': 'BX93 traffic for Westervelt College : Thanks to Pam for the text \\"GARY -Traffic lights out at highbury and... http://fb.me/6NlxU5blS\\u00a0', 'stream_type': 'Twitter', 'id_str': '654729577927872512'}
+{'text': 'Roundabouts or traffic lights? The transatlantic road-design debate hots up http://www.theguardian.com/cities/2015/oct/19/traffic-lights-roundabouts-way-out\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '656451149646733312'}
+{'text': "New traffic lights by E. Columbus Ave.,we're working to find out why they're facing the wrong direction @WWLP22News pic.twitter.com/mAPUc4nQet", 'stream_type': 'Twitter', 'id_str': '656116442010619904'}
+{'text': 'Traffic lights out at Noble Road in Milnerton - #CPT (Via @MyAATraffic). Use an alternative to avoid delays', 'stream_type': 'Twitter', 'id_str': '650934716728766464'}
+{'text': "'Traffic lights are so dictatorial' ... but are roundabouts on the way out? http://gu.com/p/4d5zg/stw#img-4\\u00a0\\u2026", 'stream_type': 'Twitter', 'id_str': '656085329007550464'}
+{'text': '@RGandE Contact me with info about power outages on west side. At least 6K, some traffic lights out #ROC @DandC pic.twitter.com/DxgkCBd7TV', 'stream_type': 'Twitter', 'id_str': '654656692735492096'}
+{'text': 'Lights are out at the corner of Victoria & Arcola. Traffic is quite backed up. Remember, treat it as a 4-way stop!', 'stream_type': 'Twitter', 'id_str': '657999625593470976'}
+{'text': "Power out three times today in #guelph including right now. The traffic lights aren't even blinking. What's going on?", 'stream_type': 'Twitter', 'id_str': '656205015678386177'}
+{'text': 'Traffic lights out in #Bernalillo on Carlisle Blvd at Lomas Blvd #traffic http://bit.ly/12qCSuC\\u00a0', 'stream_type': 'Twitter', 'id_str': '655070527631953920'}
+{'text': 'Think humanity will make it? Then watch what happens at an intersection when the traffic lights r out #traffic', 'stream_type': 'Twitter', 'id_str': '651526622428860416'}
+{'text': "@mdaupdates @Teignbridge @BBCTravelSW @bovishomes let's hope they sort out the temp traffic lights before that!", 'stream_type': 'Twitter', 'id_str': '658003837173788673'}
+{'text': 'People in oncoming traffic who flash their lights to tell you a cop is sitting out are the best kind of people', 'stream_type': 'Twitter', 'id_str': '656207494830657536'}
+{'text': 'Policeman: Why did you stop your car, get out, and yell coward at the traffic signal? Motorist: The light just turned yellow.', 'stream_type': 'Twitter', 'id_str': '651538152960602112'}
+{'text': 'Traffic lights out in Merrion Square, sat in traffic for 45 mins- no @GardaTraffic - Germans laughing about it #disgrace', 'stream_type': 'Twitter', 'id_str': '652176746633146369'}
+{'text': "As if Govan wasn't bad enough, they go and stick a shit load of traffic lights in it. Takes longer to get out.", 'stream_type': 'Twitter', 'id_str': '649937809365671937'}
+{'text': '***TRAFFIC*** traffic lights out at Anglers Rest / Straight Rd junction, extra caution advised. #CorkTravel', 'stream_type': 'Twitter', 'id_str': '653607289207828480'}
+{'text': 'Today with the McLaren 650CS: people running out into traffic to pose with the car at stop lights.', 'stream_type': 'Twitter', 'id_str': '652968892025823232'}
+{'text': '#JHBTraffic @TrafficFreeflow Traffic lights out: Corner of M1 and Woodmead Dr.', 'stream_type': 'Twitter', 'id_str': '654167808578859008'}
+{'text': 'The lights are out at the intersection of Stavanger and Aberdeen near the ORR exit. Traffic is backed up both ways. #nltraffic', 'stream_type': 'Twitter', 'id_str': '651776714335387649'}
+{'text': 'Traffic lights out at Castro valley blvd and lake chabot rd.  driver took out light box.slammed into bldg @kron4news pic.twitter.com/JY7wCTcKnv', 'stream_type': 'Twitter', 'id_str': '649975349787295744'}
+{'text': 'Baugh points out that on one roads a traffic signal is being added yet staff is recommending an increased speed', 'stream_type': 'Twitter', 'id_str': '651462418661556224'}
+{'text': 'Power outage in Vaughan around Langstaff, Pine Valley, Rutherford & Hwy 27 - traffic lights may be out. Avenue Rd s/o Eglinton - wires down!', 'stream_type': 'Twitter', 'id_str': '654015398719811585'}
+{'text': 'Oh no! Hot air balled own on Candelaria in ABQ. Looks like everyone is okay, but traffic lights out\\u2026 https://instagram.com/p/8gApMlsCX_/\\u00a0', 'stream_type': 'Twitter', 'id_str': '651409581164335104'}
+{'text': 'SFPD says traffic lights are out at Cerrillos and Airport and to have patience going through the area. #nmwx', 'stream_type': 'Twitter', 'id_str': '656957980353544192'}
+{'text': '#CPTTraffic Traffic lights out in Philippi at New Eisleben and Govan Mbeki http://ewn.co.za/traffic/83094\\u00a0', 'stream_type': 'Twitter', 'id_str': '653830314893119488'}
+{'text': '135th and Millard Ave, traffic lights out, treat as four way stop and expect delays', 'stream_type': 'Twitter', 'id_str': '658982631246331904'}
+{'text': "Click to see traffic flow maps for tomorrow night's rival game. Are you planning to go? Check out these die-hard... http://fb.me/3rH2xVwjq\\u00a0", 'stream_type': 'Twitter', 'id_str': '659142478554091520'}
+{'text': 'RT @EventPhotoMan\\n@London_Traffic lights are out Colonel Talbot Road and Main Street in Lambeth Street. treat it as a four-way stop', 'stream_type': 'Twitter', 'id_str': '659482481301655553'}
+{'text': 'ASHFIELD: Several sets of traffic lights blacked out near Liverpool Rd & Milton St due to power failure. Exercise caution, allow extra time.', 'stream_type': 'Twitter', 'id_str': '656344613695954944'}
+{'text': 'TRAVEL: Traffic lights out at Fiveways- approach with caution #Brighton #Hove #Travel', 'stream_type': 'Twitter', 'id_str': '657082815369105409'}
+{'text': 'Car accident causes traffic lights to go out on 224 in Boardman http://dlvr.it/CcP3NJ\\u00a0 pic.twitter.com/GJZnJ1MVKH', 'stream_type': 'Twitter', 'id_str': '660579057742909440'}
+{'text': 'I thought I had road rage.. Until earlier this woman just got out of her car and started calling me the C word at traffic lights', 'stream_type': 'Twitter', 'id_str': '653952317897744384'}
+{'text': 'Just want to knock everyone out today and a HATE traffic lights. Happy Sunday x', 'stream_type': 'Twitter', 'id_str': '653183219391688704'}
+{'text': 'Anger as traffic lights put out of sync http://j.mp/1WV8Zim\\u00a0 #Devon pic.twitter.com/mPkfpg69X3', 'stream_type': 'Twitter', 'id_str': '653230734551834624'}
+{'text': '#ALERT\\nTraffic Lights Malfunctioning(blacked out- power failure) in Donvale, on Blackburn Rd near Doncaster Rd.\\nUSE CAUTION\\n#victraffic', 'stream_type': 'Twitter', 'id_str': '651195925969305600'}
+{'text': 'Traffic lights out on Kliprivier road near Engen garage, causing backup and lights also out at corner 7th Ave and Barry Hertzog', 'stream_type': 'Twitter', 'id_str': '654668861053145088'}
+{'text': 'Off to werq, watch out for those traffic lights #FilmLovers pic.twitter.com/YTVDrLebSk', 'stream_type': 'Twitter', 'id_str': '656016975307476992'}
+{'text': 'Lights out in Marina Da Gama at Prince George Drive and Oudevlei Road http://ewn.co.za/traffic/85489\\u00a0 #CPTTraffic', 'stream_type': 'Twitter', 'id_str': '654549018496921601'}
+{'text': "'Traffic lights are dictatorial' ... but are roundabouts on the way out?  http://www.theguardian.com/cities/2015/oct/19/traffic-lights-roundabouts-way-out?CMP=fb_a-cities_b-gdncities\\u00a0\\u2026 @urbanexus @leblogdelaville @KevinBarbier_", 'stream_type': 'Twitter', 'id_str': '656128231372902400'}
+{'text': 'Sydney Traffic TRAFFIC LIGHTS BLACKED OUT - ST MARYS Great Western Hwy at Sydney St #sydtraffic #trafficnetwork', 'stream_type': 'Twitter', 'id_str': '652284859512025088'}
+{'text': '#BreakingNews Traffic Alert - Henrico, VA: PD O/S for the traffic lights out in all directions at loc. PD directing\\u2026 http://facebook.com/bnndesk\\u00a0', 'stream_type': 'Twitter', 'id_str': '651055031911710720'}
+{'text': "Traffic: We're getting reports traffic lights are out on Canwick Road/Washingborough Road junction. Engineers are in site.", 'stream_type': 'Twitter', 'id_str': '654540387730751489'}
+{'text': 'Chaos on Bulleen road off freeway traffic lights out @9NewsMelb', 'stream_type': 'Twitter', 'id_str': '651253851945721856'}
+{'text': 'JHB - Greenside: RT @priyapitamber  traffic lights out at Gleneagles/Emmarentia Ave; and Gleneagles/Donegal Ave @TrafficSA @MyJRA', 'stream_type': 'Twitter', 'id_str': '659226908643753984'}
+{'text': 'TfLTrafficNews: Traffic lights remain out on the A4 at North End Rd near West Kensingto... http://bit.ly/1FIl2LT\\u00a0 http://bit.ly/ao75Cp\\u00a0', 'stream_type': 'Twitter', 'id_str': '649606990214270976'}
+{'text': 'Traffic lights out on the way to holidays. Not a great start.', 'stream_type': 'Twitter', 'id_str': '651299442092572672'}
+{'text': "Running out of petrol at the traffic lights on the Main Street and having to get the auld lad to tow me wouldn't be my proudest moment now", 'stream_type': 'Twitter', 'id_str': '653550966764097537'}
+{'text': 'Damn even the traffic lights went out', 'stream_type': 'Twitter', 'id_str': '651930853929447424'}
+{'text': 'Traffic lights are all out on Bayswater Road at Marble Arch. Approach with care.', 'stream_type': 'Twitter', 'id_str': '657201960601415680'}
+{'text': 'Ghost Retweeted B-Reezy.', 'stream_type': 'Twitter', 'id_str': '651107482564214784'}
+{'text': 'Traffic lights out by 77 Mass Ave. No policeman around. Crossing randomly in packs like lemmings is safe, right? #pathways #fail @haa98ar', 'stream_type': 'Twitter', 'id_str': '649585737730519040'}
+{'text': "Lol the electricity is out in HB and the traffic lights are off so I'm super late to work ", 'stream_type': 'Twitter', 'id_str': '649677974577348609'}
+{'text': '#CPTTraffic TRAFFIC LIGHTS ARE FAULTY/ OUT\\nIn Manenberg at Turfhall Road and Manenberg Avenue', 'stream_type': 'Twitter', 'id_str': '658644421194461186'}
+{'text': 'Traffic signal out at S. 17th and Robin Hood Rd. Officers and engineers on scene. Treat as a 4-way stop.', 'stream_type': 'Twitter', 'id_str': '653649206805139457'}
+{'text': 'The Grove (Dulwich) - traffic lights out of order - A205 Dulwich Common / Lordship Lane. Approach with care.', 'stream_type': 'Twitter', 'id_str': '651999465344270336'}
+{'text': 'Hillingdon Circus Traffic Lights are a joke! Delays caused by bad phasing north to south @TfL @Hillingdon pl sort out and make life easier', 'stream_type': 'Twitter', 'id_str': '652575583579279360'}
+{'text': 'Traffic lights out at Kalakaua and Ala Wai/Ala Wai and McCully #hitraffic', 'stream_type': 'Twitter', 'id_str': '654078025638608896'}
+{'text': 'Well that was fun getting to work a 4 way junction traffic lights were out Durring the rush crash bang wallop, #nottingham #ringroad', 'stream_type': 'Twitter', 'id_str': '653827966800166912'}
+{'text': 'Roundaswap. Just when the U.S. Is embracing them, the U.K. is getting rid of them.  http://www.theguardian.com/cities/2015/oct/19/traffic-lights-roundabouts-way-out\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '656084862475046916'}
+{'text': 'Storm knocks out traffic signal at Columbia Ave and West End Ave. #weather', 'stream_type': 'Twitter', 'id_str': '659548486086578176'}
+{'text': "So the power is out which means the traffic lights don't work WHICH MEANS PPL DONT KNOW HOW TO DRIVE AL AND I ALMOST DIED!!!!!", 'stream_type': 'Twitter', 'id_str': '654827704940941314'}
+{'text': 'Traffic lights out of order on Dundalk\\u00a0by-pass http://talkofthetown.ie/2015/10/20/traffic-lights-out-of-order-on-dundalk-by-pass\\u00a0\\u2026 pic.twitter.com/5xof0uWI77', 'stream_type': 'Twitter', 'id_str': '656374539341791232'}
+{'text': 'No end to the traffic woes today #hfxtraffic #lightsout pic.twitter.com/upVIqlCBsU', 'stream_type': 'Twitter', 'id_str': '657600709416853505'}
+{'text': 'GALWAY: No further reports of traffic lights out at jct of Threadneedle Rd &Taylors Hill Rd, (Threadneedle Cross).\\nhttp://TheAA.ie/Roadwatch\\u00a0', 'stream_type': 'Twitter', 'id_str': '659791184831860736'}
+{'text': 'Bit harsh that. All he done was cross at the traffic lights. Wiped out 11 cars. pic.twitter.com/2YEtUqbDwc', 'stream_type': 'Twitter', 'id_str': '652513951310286849'}
+{'text': 'Thank you Zoe Allen. \\n#Norwich. Traffic lights are all out at Mile Cross cross roads near Asda Boundary Road http://fb.me/OTQ3aPrp\\u00a0', 'stream_type': 'Twitter', 'id_str': '658542915891961856'}
+{'text': 'Tree down on Hermit St near Henry in Roxborough. Nearby traffic lights are out. pic.twitter.com/WxGNls8a2r', 'stream_type': 'Twitter', 'id_str': '659657690449321984'}
+{'text': 'RT @AirForceMark\\n@London_Traffic lights out at Colonel Talbot and Main St in Lambeth. Pls remind drivers to treat as 4 way stop.', 'stream_type': 'Twitter', 'id_str': '659483603315748864'}
+{'text': 'TRAFFIC ENGINEERING\\nRoundabouts vs Traffic Signals\\nOr both?\\nhttp://gu.com/p/4d5zg/stw\\u00a0 pic.twitter.com/NxoSoh2Nf8', 'stream_type': 'Twitter', 'id_str': '656063414486351873'}
+{'text': '.@AvistaUtilities reports an outage in central Spokane affecting nearly 500 customers. Hearing multiple reports of traffic lights out. #KXLY', 'stream_type': 'Twitter', 'id_str': '659382441933602820'}
+{'text': 'AM980 LEXUS OF LONDON TRAFFIC: A caller is reporting all traffic lights on Sunset Drive are out due to a power outage in Port Stanley.', 'stream_type': 'Twitter', 'id_str': '650331422712950784'}
+{'text': 'Southside Heritage Retweeted Paul', 'stream_type': 'Twitter', 'id_str': '651689890296516608'}
+{'text': 'Traffic lights out in #Spartanburg on Garner Rd at N Pne St #traffic http://bit.ly/10D09Ih\\u00a0', 'stream_type': 'Twitter', 'id_str': '649542016959774721'}
+{'text': 'Street lights are out and cops are directing traffic at US 22 and Cedar Crest Boulevard', 'stream_type': 'Twitter', 'id_str': '652457383520772097'}
+{'text': 'NSW: TRAFFIC LIGHTS BLACKED OUT Power failure - LAKE HEIGHTS Flagstaff Rd at Lake Ave: Regional NSW - SouthLak... http://bit.ly/1QVqhII\\u00a0', 'stream_type': 'Twitter', 'id_str': '657022496344928256'}
+{'text': '#LIGHTSOUT: Traffic lights not working at Golf Links/Craycroft. Treat as 4-way stop or take Wilmot/22nd Street. pic.twitter.com/8NAXq7SVV7', 'stream_type': 'Twitter', 'id_str': '653565372092682241'}
+{'text': 'Drivers are warned the lights at M4 Junction 12 are still out. http://www.getreading.co.uk/news/reading-berkshire-news/m4-junction-12-roundabout-traffic-10328264\\u00a0\\u2026 #Rdguk', 'stream_type': 'Twitter', 'id_str': '658282704824332288'}
+{'text': 'At least three traffic lights out along  43 near 261. One accident    so far. pic.twitter.com/Gj88Mt7UXm', 'stream_type': 'Twitter', 'id_str': '659359044394721280'}
+{'text': 'The lights are out at Kings Wharf and Alderney Drive. Police are directing traffic. #cbcns', 'stream_type': 'Twitter', 'id_str': '660181301807321088'}
+{'text': 'Lots of lightning and thunder! Expect roads to be slick & many traffic lights out this morning! @TVsJordanSteele tracking rain #LiveonKEYE!', 'stream_type': 'Twitter', 'id_str': '660044746316877824'}
+{'text': 'SGN carrying out gas works on A809 Drymen Road at Station Road, Bearsden, from 8am on Sat 31 Oct-6am on Mon 2 Nov. Temporary traffic lights.', 'stream_type': 'Twitter', 'id_str': '659335239295246336'}
+{'text': '#PTATraffic @TrafficFreeflow Traffic lights out: Corner of Thabo Sehume St and Bloed St.', 'stream_type': 'Twitter', 'id_str': '658890514306043904'}
+{'text': 'All the traffic lights are out on Nicholasville rd ', 'stream_type': 'Twitter', 'id_str': '652173523088240640'}
+{'text': "How windy is it in Kona 2.0? Be glad your car's not under this tree. Power, traffic lights out at Palani/Kuakini Hwy pic.twitter.com/GNjeAdBhEG", 'stream_type': 'Twitter', 'id_str': '651507082500280320'}
+{'text': 'you know when the traffic lights on the way to your SAT \\"test center\\" are out of order bc of the weather that it should PROB be cancelled', 'stream_type': 'Twitter', 'id_str': '650274590401392640'}
+{'text': 'Traffic lights out in Brackenfell at Old Paarl and Kruispad http://ewn.co.za/traffic/89419\\u00a0 #CPTTraffic', 'stream_type': 'Twitter', 'id_str': '655976460113571840'}
+{'text': 'Tractors, road works, hedging cutting, buses, traffic lights, oaps and lorries... driving pleasure in and out of Edinburgh #zero', 'stream_type': 'Twitter', 'id_str': '651400697779474432'}
+{'text': ".@RWCMD might want to tell whoever's using your van tonight not to chuck empty beer bottles out the door when they're at traffic lights...", 'stream_type': 'Twitter', 'id_str': '650355117179424770'}
+{'text': "'Traffic lights are so dictatorial' ... but are roundabouts on the way out? pic.twitter.com/pAoxFTRtc2 http://feeds.theguardian.com/c/34708/f/663871/s/4ac7f091/sc/23/l/0L0Stheguardian0N0Ccities0C20A150Coct0C190Ctraffic0Elights0Eroundabouts0Eway0Eout/story01.htm\\u00a0\\u2026", 'stream_type': 'Twitter', 'id_str': '656171031103721472'}
+{'text': 'Exclusive: the new look traffic lights coming to Perth. Find out why tonight at 6 @7NewsPerth pic.twitter.com/m5G55Kw04i', 'stream_type': 'Twitter', 'id_str': '654597275008692224'}
+{'text': '@IMPD_News would be nice to have an officer directing traffic at 75th and Binford during rush hour since the signal is out.', 'stream_type': 'Twitter', 'id_str': '657666748745981952'}
+{'text': 'Reminder: If a traffic signal is out, please treat the intersection as a four-way stop.', 'stream_type': 'Twitter', 'id_str': '660513523655557120'}
+{'text': 'WILD WEATHER: Power outages across #Bendigo, traffic lights out - updates here: http://bit.ly/1VA1gJl\\u00a0 pic.twitter.com/wK5x5l1X8g', 'stream_type': 'Twitter', 'id_str': '651213431765254144'}
+{'text': "Watch out for the stuck red lights in Tilehurst - tonight's travel round-up. http://www.getreading.co.uk/news/reading-berkshire-news/traffic-travel-round-up-blocked-10355352\\u00a0\\u2026 #Rdguk #Woky #Bracknell", 'stream_type': 'Twitter', 'id_str': '659781846256001024'}
+{'text': 'Between traffic ligths & roundabouts I go for roundabouts. #roundabouts  http://www.theguardian.com/cities/2015/oct/19/traffic-lights-roundabouts-way-out?CMP=twt_gu\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '656082057983086592'}
+{'text': 'Traffic lights remain out on the A4 at North End Road. Inbound is slow from the Hogarth Roundabout, outbound from the V&A Museum.', 'stream_type': 'Twitter', 'id_str': '649636032506425345'}
+{'text': 'Traffic gridlock in downtown Burlington.  Several traffic lights out. Parking garage on Bank Street blocked. People baffled #btv #vt #vtpoli', 'stream_type': 'Twitter', 'id_str': '650362676858781696'}
+{'text': "Was at traffic lights with a #meangirls audio playing, they broke out laughing and I'm sure the guy in the next car started staring", 'stream_type': 'Twitter', 'id_str': '654521027960139776'}
+{'text': 'Traffic lights out on university and old shell #HappyThursday ', 'stream_type': 'Twitter', 'id_str': '649573041354047489'}
+{'text': '@HeartBreakfast  studio traffic news 4 way traffic lights out on the bridge on little bloxwich lane - walsall', 'stream_type': 'Twitter', 'id_str': '658904032824705024'}
+{'text': 'Caught by the traffic police while crossing red signal is kind of \\"Run out \\" :D\\n\\n#rdx', 'stream_type': 'Twitter', 'id_str': '659374151715586050'}
+{'text': 'A4 Talgarth Rd / North End Rd -  traffic lights are out of order again at this junction. Approach with care and expect delays.', 'stream_type': 'Twitter', 'id_str': '655351494095564800'}
+{'text': 'Lewiston drivers already think they own the road, and when the traffic lights go out, the moron factor comes into play.', 'stream_type': 'Twitter', 'id_str': '658777292471074816'}
+{'text': "The lights at Veterans pkwy and St Andrews on 99 are both out. So now there's like 725174 wrecks because no one is directing traffic.", 'stream_type': 'Twitter', 'id_str': '649945438402019328'}
+{'text': "Why is it when I need to sort my life out at the traffic lights they're always on green. #wayoftheworld", 'stream_type': 'Twitter', 'id_str': '656893550819475456'}
+{'text': 'Careful diving around the GRCC campus and surrounding area. Lot of traffic lights out', 'stream_type': 'Twitter', 'id_str': '656171174112710656'}
+{'text': 'Be careful in the area of Preston and SH 121. All traffic lights are out. Officers and signal crews enroute. #poltwt pic.twitter.com/OUtCeXl2cg', 'stream_type': 'Twitter', 'id_str': '650104311490310144'}
+{'text': 'Traffic lights are out at East Main/Main/High Street, East Main/Mill Street, East Main/South Kendall. Crews are... http://fb.me/7QW6gdDgE\\u00a0', 'stream_type': 'Twitter', 'id_str': '660073125271367680'}
+{'text': 'All traffic lights are out along Cedar Rd through to William Nicol.', 'stream_type': 'Twitter', 'id_str': '657190496993955841'}
+{'text': 'My day has been made by the man jamming out to Fleetwood Mac on his motorbike whilst at the traffic lights. #thursdayvibe', 'stream_type': 'Twitter', 'id_str': '649506357088002048'}
+{'text': 'Traffic lights out at Freshwater Rd x Crosbie Rd, near Avalon Mall. Treat intersections as all-way stops. #nltraffic pic.twitter.com/BGN4aryRiX', 'stream_type': 'Twitter', 'id_str': '656102525947482112'}
+{'text': 'Traffic Lights at 25/70 and New Stock Rd are out.', 'stream_type': 'Twitter', 'id_str': '654010607306436609'}
+{'text': 'Traffic lights are out and there are fire trucks everywhere... The world may be ending', 'stream_type': 'Twitter', 'id_str': '655223711797268480'}
+{'text': 'LIMERICK: Traffic lights out of action at the crossroads in Ardagh village. Caution is advised on approach. http://theAA.ie/Roadwatch\\u00a0', 'stream_type': 'Twitter', 'id_str': '658887137895559168'}
+{'text': 'Traffic lights out on st johns bridge. Cops are there directing traffic. Avoid as it is quite congested', 'stream_type': 'Twitter', 'id_str': '651412055635947520'}
+{'text': 'Traffic Lights All Out at the junction where York Road meets with Seacroft Avenue and the Seacroft Shopping Centre in Seacroft.', 'stream_type': 'Twitter', 'id_str': '651280343606140928'}
+{'text': '@AkiAnastasiou Traffic lights out at Witkoppen and Main roads', 'stream_type': 'Twitter', 'id_str': '651283261814087680'}
+{'text': '@EWNTraffic @MyJRA @OUTsurance traffic lights out of order 1st ave an penelope in linden. Very slow approach from west', 'stream_type': 'Twitter', 'id_str': '653457247155154944'}
+{'text': "Brilliant! I pulled up to some traffic lights. The guy in the car next to me spat out his window.\\n\\nThe window wasn't down.", 'stream_type': 'Twitter', 'id_str': '656323870639702020'}
+{'text': 'Port Elizabeth - Traffic Lights Out: Uitenhage Rd/R75 & Dyke Rd Algoa Park. Expect Delays!', 'stream_type': 'Twitter', 'id_str': '657055923622584320'}
+{'text': 'A244 solid North Oxshott to A3... moronic temporary lights for some traffic cones marking out an empty space; turn around buddy!', 'stream_type': 'Twitter', 'id_str': '659636349163675648'}
+{'text': 'Traffic lights out on bay bulls roads just past irving/tim hortons traffic moving slowly @OfficialOZFM', 'stream_type': 'Twitter', 'id_str': '649656123432259584'}
+{'text': 'Newsroom. Traffic signal out at 10th St. E and 16th Ave E. Owen Sound police on scene. pic.twitter.com/RDbH6Ed558', 'stream_type': 'Twitter', 'id_str': '659775019225075712'}
+{'text': 'Junction with 42 sets of lights all go out. Traffic flow, air quality, noise local productivity all IMPROVE http://www.hulldailymail.co.uk/42-traffic-lights-Beverley-s-Grovehill-junction/story-27930746-detail/story.html\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '652076232482398208'}
+{'text': 'With out traffic lights people are just retarded', 'stream_type': 'Twitter', 'id_str': '659839251585044480'}
+{'text': 'Lights are out at the beaverbank/millwood intersection and traffic is backed up all the way to sackville drive @sack_vegas', 'stream_type': 'Twitter', 'id_str': '656219361083039744'}
+{'text': '[CaptCook_Hwy] 131940: Signal fault Hazard All directions\\nTraffic lights out.\\nAll lanes affected\\nDelays e... http://bit.ly/1jBbJmu\\u00a0 #fnq', 'stream_type': 'Twitter', 'id_str': '654473164693504000'}
+{'text': 'I get a kick out of seeing people press the button repeatedly to cross the road, thinking that the traffic lights will change just for them.', 'stream_type': 'Twitter', 'id_str': '654517268752105472'}
+{'text': 'NSW - TRAFFIC LIGHTS OUT - VARIOUS LOCATIONS \\n\\nMARSDEN PARK Richmond Rd at Access Rd\\n\\nPENRITH Great Western Hwy... http://fb.me/7uF3EH38O\\u00a0', 'stream_type': 'Twitter', 'id_str': '656349429604085760'}
+{'text': 'Sloane and Main Rd traffic lights out! Please help! @OUTsurance @TrafficSA @PigSpotter @CityofJoburgZA', 'stream_type': 'Twitter', 'id_str': '649478621732700160'}
+{'text': 'Lights out and Police directing traffic right out front of our office...Stony Plain Rd and 184 St. Be patient. #yegtraffic', 'stream_type': 'Twitter', 'id_str': '649656997604945920'}
+{'text': "'Traffic lights are so dictatorial' ... but are roundabouts on the way out? http://www.theguardian.com/cities/2015/oct/19/traffic-lights-roundabouts-way-out\\u00a0\\u2026 pic.twitter.com/xRvyGSYqaA", 'stream_type': 'Twitter', 'id_str': '656750093983490048'}
+{'text': 'Traffic lights are out at many intersections along Market St. pic.twitter.com/QNjfV8NIG4', 'stream_type': 'Twitter', 'id_str': '658772490349481985'}
+{'text': '#JHBTraffic. Traffic Lights are out in Bryanston at William Nicol and Grosvenor \\u2013 delays on William Nicol Drive North from Ballyclare Drive', 'stream_type': 'Twitter', 'id_str': '658649382296887296'}
+{'text': 'Traffic update : Malibongwe and N1, traffic lights out. \\n\\nGood luck everyone. \\n\\n@Hot919fm @AkiAnastasiou @EWNTraffic #JHBTRAFFIC', 'stream_type': 'Twitter', 'id_str': '654864101215248384'}
+{'text': '@DaviePolice Traffic lights out at 84 and Nob Hill for at least last hour with no traffic direction. Very dangerous', 'stream_type': 'Twitter', 'id_str': '651374322293018624'}
+{'text': 'Fairfax: Lights out/Police Directing Traffic - RT 50/ Lee Rd. Police will be directing traffic at this intersection thru late afternoon', 'stream_type': 'Twitter', 'id_str': '656480650929819649'}
+{'text': '#PTATraffic @TrafficFreeflow Traffic lights out: Johannes Ramokhoase Str and Paul Kruger Str.', 'stream_type': 'Twitter', 'id_str': '649461865265897472'}
+{'text': 'Cartwright - traffic lights out bothways Hoxton Park Rd at Cartwright Ave', 'stream_type': 'Twitter', 'id_str': '653456574682284033'}
+{'text': 'Why traffic gridlock disappeared the day the lights went out http://shr.gs/WhJBvCJ\\u00a0', 'stream_type': 'Twitter', 'id_str': '652247838940889088'}
+{'text': 'Some of services are delayed around Dudley Bus Station due to traffic lights being out of sequence on Castle Street pic.twitter.com/CrcV8bwWyP', 'stream_type': 'Twitter', 'id_str': '649603912799027200'}
+{'text': 'Traffic lights at RIvers Ave and Ashley Phosphate Road are out causing gridlock. Be patient and be safe.', 'stream_type': 'Twitter', 'id_str': '650386360554000384'}
+{'text': 'the traffic lights in the village went out #thanksjoaquin', 'stream_type': 'Twitter', 'id_str': '650438642448601092'}
+{'text': 'Lights out in Belhar at Robert Sobukwe and Amandel Drive http://ewn.co.za/traffic/91696\\u00a0 #CPTTraffic', 'stream_type': 'Twitter', 'id_str': '656790571525238784'}
+{'text': 'Traffic lights out at St-Laurent/Hwy 417 EB off-ramp. Police directing traffic. #it traffic', 'stream_type': 'Twitter', 'id_str': '656065409376997376'}
+{'text': "Awe I  it when the police turn on their lights & sirens just to swerve in & out of traffic & there isn't a real emergency! U da best popo", 'stream_type': 'Twitter', 'id_str': '651519692935426048'}
+{'text': 'DUB: On the Stillorgan Rd, traffic lights are out of action in Donnybrook at the Eglinton Rd jct. Caution advised. http://theAA.ie/Roadwatch\\u00a0', 'stream_type': 'Twitter', 'id_str': '659282662121721856'}
+{'text': 'SYD traffic TRAFFIC LIGHTS BLACKED OUT Power failure - PARRAMATTA Church St at Campbell St http://ift.tt/1GpAN4Z\\u00a0', 'stream_type': 'Twitter', 'id_str': '650225917638365184'}
+{'text': '131940: Signal fault Hazard All directions\\nTraffic lights out.\\nAll lanes affected\\nDelays expected. Proceed with caution. \\nLast edited: 15 O\\u2026', 'stream_type': 'Twitter', 'id_str': '654465932098670592'}
+{'text': "'Traffic lights are so dictatorial' ... but are roundabouts on the way out? | Cities | The Guardian http://www.theguardian.com/cities/2015/oct/19/traffic-lights-roundabouts-way-out\\u00a0\\u2026", 'stream_type': 'Twitter', 'id_str': '656891573972500480'}
+{'text': 'Traffic lights out at major intersection http://bit.ly/1GCbEUV\\u00a0 via @TJProvincial', 'stream_type': 'Twitter', 'id_str': '653027348229541889'}
+{'text': 'Everyone in Pike Creek and Hockessin be careful driving all the traffic lights are out', 'stream_type': 'Twitter', 'id_str': '650428162757816320'}
+{'text': 'Temporary traffic lights, High Road #Guyhirn #Wisbech are stuck on Red.  officers on scene carrying out traffic control. Approach with care', 'stream_type': 'Twitter', 'id_str': '653135246578290689'}
+{'text': "dumbest thing cstat could do on game day is cut out the traffic lights to regulate it.... it doesn't regulate traffic!!", 'stream_type': 'Twitter', 'id_str': '655547061874462720'}
+{'text': '@sfmta_muni traffic lights out at 15th and Castro', 'stream_type': 'Twitter', 'id_str': '652199266341908480'}
+{'text': 'Strip out majority of street furniture and life will run so much smoother. \\nhttp://www.dailymail.co.uk/news/article-3273391/Should-scrap-traffic-light-Britain-42-lights-one-Britain-s-complicated-junctions-fail-flow-improves-critics-call-signal-free-system.html\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '654604870733942784'}
+{'text': '****TRAFFIC LIGHTS OUT @ EASTWOOD AND MILITARY CUT OFF', 'stream_type': 'Twitter', 'id_str': '652105633580359680'}
+{'text': 'Took us like a half hour to get from van hoosen to the village bc all the traffic lights are out ', 'stream_type': 'Twitter', 'id_str': '649984918672551936'}
+{'text': 'NSW - HURSTVILLE Stoney Creek Rd at Patrick St\\nTRAFFIC LIGHTS BLACKED OUT Power failure\\nStarted today 6:48pm... http://fb.me/7M7oHRitJ\\u00a0', 'stream_type': 'Twitter', 'id_str': '652028485347737600'}
+{'text': "LA traffic officers should probably be a bit more active with lights out. Instead of, y'know, just literally standing there.", 'stream_type': 'Twitter', 'id_str': '652986163188203520'}
+{'text': 'NSW - CASTLE HILL Showground Rd at Victoria Ave\\nTRAFFIC LIGHTS BLACKED OUT\\nStarted today 12:21pm\\nImpact: Impact... http://fb.me/4bDHX3W5z\\u00a0', 'stream_type': 'Twitter', 'id_str': '649409463862996993'}
+{'text': 'Traffic lights out on Kilbride Avenue first set of lights, traffic backed up heavily on the right westbound lane. @VOCMNEWS @CBCNL', 'stream_type': 'Twitter', 'id_str': '649672380244168704'}
+{'text': 'HEADS UP: Traffic Lights out at State & Perryville in Rockford. pic.twitter.com/byoVcgnGkH', 'stream_type': 'Twitter', 'id_str': '657585976789868545'}
+{'text': "I'm noticing quite a number of street lights & traffic lights that appear to be damaged due to vehicular accidents", 'stream_type': 'Twitter', 'id_str': '654281701397393409'}
+{'text': 'Durban - RT @magwitt @TrafficSA Traffic lights on Tollgate bridge are out. Always messy.', 'stream_type': 'Twitter', 'id_str': '657059818843340800'}
+{'text': "Shout out to our friends Traffic Signal Controls - they're exhibiting today at ITS NM & IMSA Rocky Mtn Vendor Show http://ow.ly/U0nit\\u00a0", 'stream_type': 'Twitter', 'id_str': '659780316341645313'}
+{'text': 'NYC does not equal USA, which means this otherwise excellent article about roundabouts misunderstands US policies http://www.theguardian.com/cities/2015/oct/19/traffic-lights-roundabouts-way-out\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '656830969652092928'}
+{'text': 'Major set of lights out on A40 and not a traffic policeman in sight. Too busy eating donughts & pulling people over for a broken wing mirror', 'stream_type': 'Twitter', 'id_str': '659410765296881664'}
+{'text': 'UCSD students lack street smarts...you gotta figure out how these traffic lights work instead of jumping in the street when a light changes', 'stream_type': 'Twitter', 'id_str': '654042648970289152'}
+{'text': '\\u201cOur cities designed for middle-aged men driving cars, but of all who need consideration, they\\u2019re not top of list.\\u201d http://gu.com/p/4d5zg/stw\\u00a0', 'stream_type': 'Twitter', 'id_str': '657373124246179841'}
+{'text': '@Jackie_Travel Sunbury Cross is solid . Traffic lights seem to be out of sinc ', 'stream_type': 'Twitter', 'id_str': '651674979986206720'}
+{'text': '#PTATraffic: Traffic lights out on Madiba Street and Paul Kruger Street.', 'stream_type': 'Twitter', 'id_str': '649466694201671680'}
+{'text': 'Oops - #traffic lights outside #Asda in #Yeovil are out of action, take a look at the pics - http://ow.ly/T0WUh\\u00a0', 'stream_type': 'Twitter', 'id_str': '651049789157736448'}
+{'text': 'Traffic lights out due to midtown power outage: Drivers heading out this morning to work or sch... http://binged.it/1GpBnVM\\u00a0 #driving #news', 'stream_type': 'Twitter', 'id_str': '656840417195855872'}
+{'text': 'I love catching people picking their nose at traffic lights n staring them out  yes I saw u knuckle deep in ur left nostril', 'stream_type': 'Twitter', 'id_str': '660170477713928192'}
+{'text': 'NSW: TRAFFIC LIGHTS BLACKED OUT Power failure - WARILLA Shellharbour Rd at Sunset Ave: Regional NSW - SouthWar... http://bit.ly/1jWjyUf\\u00a0', 'stream_type': 'Twitter', 'id_str': '653001574671757312'}
+{'text': 'BLUE HAVEN: Traffic lights blacked out in the area including on #PacificHwy at Doyalson Link Rd after a storm. Exercise caution.', 'stream_type': 'Twitter', 'id_str': '658503440272891904'}
+{'text': 'Via @TotalTrafficELP: Traffic lights out in #ElPaso on Gtwy Blvd N NB at Montana Ave #traffic http://bit.ly/14Tvoo7\\u00a0', 'stream_type': 'Twitter', 'id_str': '651747223601086464'}
+{'text': "'Traffic lights are so dictatorial' ... but are roundabouts on the way out? | The Guardian @MITCities #mitcities http://www.theguardian.com/cities/2015/oct/19/traffic-lights-roundabouts-way-out\\u00a0\\u2026", 'stream_type': 'Twitter', 'id_str': '656445049018912769'}
+{'text': 'Sandra Ram Retweeted TfL Traffic News', 'stream_type': 'Twitter', 'id_str': '651448404585877505'}
+{'text': 'DUBLIN Traffic lights out of action at jct of Ballyfermot Rd & Kennelsfort Rd. Take care on approach http://theaa.ie\\u00a0', 'stream_type': 'Twitter', 'id_str': '656723689463910401'}
+{'text': 'TRAFFIC LIGHTS out  in FOURWAYS - along Cedar Road and Fourways Boulevard routes - traffic pretty slow.', 'stream_type': 'Twitter', 'id_str': '649554957243432961'}
+{'text': '\\u201c\\u201cMost of the time, roundabouts are a very competitive alternative to other forms of intersection, from both an ope\\u2026\\u201d http://gu.com/p/4d5zg/stw\\u00a0', 'stream_type': 'Twitter', 'id_str': '656091260814499840'}
+{'text': 'BELFAST: Traffic lights are out of action at the Botanic Ave/ University St Jct. Take extra care. http://theAA.ie/Roadwatch\\u00a0', 'stream_type': 'Twitter', 'id_str': '659274562887131136'}
+{'text': 'A4, at North End Rd - lights out again - members of public in road trying to direct traffic not helping, approach with care  {BR}', 'stream_type': 'Twitter', 'id_str': '649627606569107456'}
+{'text': 'Penrith - traffic lights out bothways Great Western Hwy at Parker St', 'stream_type': 'Twitter', 'id_str': '656335655291654148'}
+{'text': 'Dakabin - traffic lights out bothways Old Gympie Road at Anzac Avenue - CLEAR', 'stream_type': 'Twitter', 'id_str': '654046521608896512'}
+{'text': 'Ask us anything, Tustin: Traffic signal out? http://www.ocregister.com/articles/tustin-687367-city-signal.html\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '654053363483455489'}
+{'text': 'Power line down at our apartment, all traffic lights out on west michigan, and a car accident on west Mich. Kzoo is chaos right now.', 'stream_type': 'Twitter', 'id_str': '656574722520518657'}
+{'text': 'Traffic Note: Midland County is reporting that there are several traffic lights out in the area of Eastman/Dilloway and Eastman/Wackerly', 'stream_type': 'Twitter', 'id_str': '649980695436136448'}
+{'text': 'Traffic Lights All Out at the junction where Burmantofts Street meets with Beckett Street and Nippet Lane in Burmantofts.', 'stream_type': 'Twitter', 'id_str': '649958716943519744'}
+{'text': "Most ill thought out traffic lights in #newcastle next to the BBC,  if you're at the white line you can see them. pic.twitter.com/rxyEA3g5FR", 'stream_type': 'Twitter', 'id_str': '656057338093289472'}
+{'text': 'SYD traffic TRAFFIC LIGHTS BLACKED OUT - BONNYRIGG Elizabeth Dr at Smithfield Rd http://ift.tt/1Niard9\\u00a0', 'stream_type': 'Twitter', 'id_str': '651294232083333120'}
+{'text': 'Traffic lights out corner Victory road and Barry Hertz-hog. Expect delays.', 'stream_type': 'Twitter', 'id_str': '656469949460926464'}
+{'text': 'Traffic Lights All Out at the junction where the A656 Barnsdale Rd / Ridge Rd meets with the B6137 Longdike Ln and Back Newton Ln.', 'stream_type': 'Twitter', 'id_str': '654613892434382850'}
+{'text': 'NSW - LAKE MUNMORAH Pacific Hwy at Tall Timbers Rd\\nTRAFFIC LIGHTS BLACKED OUT Power failure\\nStarted today 5:54pm... http://fb.me/7NplLpfJK\\u00a0', 'stream_type': 'Twitter', 'id_str': '658537614941683712'}
+{'text': 'Gatineau - traffic lights out bothways Boulevard De La Gappe at 50 #Otttraffic', 'stream_type': 'Twitter', 'id_str': '649565673509752832'}
+{'text': 'Traffic lights out on East Cambridge and Cokesbury. Police directing traffic, please drive carefully.', 'stream_type': 'Twitter', 'id_str': '652578852972138496'}
+{'text': 'Just been driving behind an idiot cutting in an out of the traffic. Got to the lights & the bloke in front of me got out & dragged him 1/2', 'stream_type': 'Twitter', 'id_str': '657551187667984384'}
+{'text': '@CityofJoburgZA greatly contributed to by useless/ bribe-seeking #JMPD, most traffic lights broken or out of sync, potholes and faded lines.', 'stream_type': 'Twitter', 'id_str': '651472667493707776'}
+{'text': 'NSW - LIGHTS OUT - VARIOUS \\nTOUKLEY, WYONG AREA\\nTRAFFIC LIGHTS BLACKED OUT Power failure\\nStarted today 4:43pm,... http://fb.me/2e5x83glL\\u00a0', 'stream_type': 'Twitter', 'id_str': '653086704903983104'}
+{'text': 'Hey, @wsdot_traffic, would it be possible to get some sort of reminder out on highway signs for folks to turn their lights on during rain?', 'stream_type': 'Twitter', 'id_str': '652964470264741889'}
+{'text': '#Balham Traffic lights are out-of-order on the A24 Balham High Road at Bedford Hill. Please approach with care!', 'stream_type': 'Twitter', 'id_str': '651705202702196736'}
+{'text': "You'd think with all the tech geniuses in Seattle they could figure out how to coordinate the traffic lights.", 'stream_type': 'Twitter', 'id_str': '651867389907243008'}
+{'text': 'Omg I was stopped at the traffic lights and the street light next to me went out and I was like \\"WHERES THE SALT\\"', 'stream_type': 'Twitter', 'id_str': '654650835993952256'}
+{'text': 'Car crash on kirkstall road/lights. Very slow traffic heading out of Leeds.', 'stream_type': 'Twitter', 'id_str': '654300942993592320'}
+{'text': '#PTATraffic @TrafficFreeflow Traffic lights out: Es\\u2019kia Mphahlele Dr and WF Nkomo St.', 'stream_type': 'Twitter', 'id_str': '659985381178216449'}
+{'text': 'Temp. traffic lights on Staplers are out of sinc.DTM are aware and attending site.', 'stream_type': 'Twitter', 'id_str': '657092986027823104'}
+{'text': 'VIC - Sydney Road\\nNear: Camp Road, Campbellfield\\n  Traffic Alert Emergency Works\\nTraffic lights out at Camp Rd... http://fb.me/4cHpvQl9c\\u00a0', 'stream_type': 'Twitter', 'id_str': '650804542775427073'}
+{'text': 'Avoid Webster Sq./ Park Ave.  area of #Worcester Traffic lights out causing backups. #MAtraffic', 'stream_type': 'Twitter', 'id_str': '652207859221012481'}
+{'text': '#News #LosAngeles PCH traffic signal out in Malibu: MALIBU >> The traffic signal is out this morning at Pacifi... http://tinyurl.com/pjv69tz\\u00a0', 'stream_type': 'Twitter', 'id_str': '651792504514154498'}
+{'text': 'Robertson - traffic lights out bothways Mains Road at Cosmic St - CLEAR', 'stream_type': 'Twitter', 'id_str': '654938577881554944'}
+{'text': 'A set of traffic lights are out in #Maidstone after a car has crashed into them http://bit.ly/1WgzdK0\\u00a0 pic.twitter.com/xxrSJfhQXL', 'stream_type': 'Twitter', 'id_str': '659050663150821376'}
+{'text': 'Testing out some traffic frustrations tomorrow. Which lights are the most poorly timed in Seattle? #Q13FOX', 'stream_type': 'Twitter', 'id_str': '651120373929381889'}
+{'text': 'traffic lights before braehead are out, what a disaster just took part in a demolotion derby', 'stream_type': 'Twitter', 'id_str': '651045249696071684'}
+{'text': 'parked at traffic lights look to my right and a kids there sticking his tounge out at me the little bastard ', 'stream_type': 'Twitter', 'id_str': '653601196658327552'}
+{'text': 'Careful driving this morning from what I saw starting from Newton street heading downtown, there are traffic lights out and tree debree.', 'stream_type': 'Twitter', 'id_str': '650635724727840768'}
+{'text': '@Trandafir_Ruby the retarded one for driving out into traffic when he clearly was paying attention to the road to turn his turn signal on', 'stream_type': 'Twitter', 'id_str': '651764079724396544'}
+{'text': 'Heads up: Traffic lights may be out on Sunset Blvd & Mineral Springs Rd #beatthetraffic pic.twitter.com/mb3pBBx8RG', 'stream_type': 'Twitter', 'id_str': '653513197727674368'}
+{'text': "With the rain & winds, I'm not surprised to see a traffic signal out on Baltimore Ave at Westwood Northern @WCPO pic.twitter.com/OrnkFgRf2D", 'stream_type': 'Twitter', 'id_str': '659327666760347648'}
+{'text': "Matic really let the team down today. Ramires is in and out of 'form' like traffic lights  Everyone except Willian should slap their faces", 'stream_type': 'Twitter', 'id_str': '657980630433726465'}
+{'text': 'Traffic lights out at garsfontein rd & devillebois road, pretoria east @jacarandafm', 'stream_type': 'Twitter', 'id_str': '657065418616668160'}
+{'text': 'SYD traffic TRAFFIC LIGHTS BLACKED OUT - HURSTVILLE Forest Rd at Croydon Rd http://ift.tt/1McUzaq\\u00a0', 'stream_type': 'Twitter', 'id_str': '651626691916378112'}
+{'text': 'Power outage on the north side...so there could be more traffic lights out.\\n\\n- Pat G.', 'stream_type': 'Twitter', 'id_str': '651019885028483072'}
+{'text': 'In Greensboro power outages around Fleming Rd, Bryan Blvd and New Garden. That means traffic lights out. Treat as 4-way stop. #upwithFOX8', 'stream_type': 'Twitter', 'id_str': '654583701997809664'}
+{'text': '#JHBTraffic Traffic lights out at Beyers Naude and Mountain View Ave. @OUTsurance @JMPDSafety via @CariVH', 'stream_type': 'Twitter', 'id_str': '652339150339842048'}
+{'text': 'Just saw  an #Ub$r almost take out the traffic lights/island in middle of manor house junction-playing with app & driving. #ubered almost', 'stream_type': 'Twitter', 'id_str': '653815973183664128'}
+{'text': 'Port Elizabeth - Traffic Lights Out: Uitenhage Rd & Dyke Rd Algoa Park. Expect Delays!', 'stream_type': 'Twitter', 'id_str': '657422238988292096'}
+{'text': 'Traffic lights out in Cornwall on TCH beside Subway and Pizza Delight . Drive safely .', 'stream_type': 'Twitter', 'id_str': '653312802417975296'}
+{'text': 'Opened Traffic Signal Repair request via Android at 3131 Eastern Ave Baltimore http://spot.cx/1Oa3gE0\\u00a0. Traffic light out.', 'stream_type': 'Twitter', 'id_str': '649558007391612929'}
+{'text': 'Lights out (Traffic light pole down) .. Jubliee Tce at Macgregor Tce - Bardon .  (techs attending and police on site doing traffic control)', 'stream_type': 'Twitter', 'id_str': '659260729149624324'}
+{'text': 'Traffic lights out merry hill bottom pedmore  road carnage! Drive safe folks #merryhill #pedmoreroad', 'stream_type': 'Twitter', 'id_str': '658254504215887872'}
+{'text': "Saw RLJing,  no lights, ninja cyclist come within 6 inches of a car wiping them out from side as they crossed 'green' traffic flow. Scarey.", 'stream_type': 'Twitter', 'id_str': '657624099867512832'}
+{'text': 'Taren Point - traffic lights out bothways Taren Point Road at Holt Road', 'stream_type': 'Twitter', 'id_str': '652987201291091969'}
+{'text': 'Other areas have traffic because of traffic lights being out, road works or congestion. Not Bedfordview. A crime scene on Van Buuren ', 'stream_type': 'Twitter', 'id_str': '653455124883484672'}
+{'text': 'Tuesday Most Read #2 Are Roundabouts on their way out in the UK? http://dtrnsfr.us/1Klvkg2\\u00a0', 'stream_type': 'Twitter', 'id_str': '656843664161771520'}
+{'text': 'CORK: Traffic lights are out of action at Leemount Cross. Take care on approach. http://theaa.ie/Roadwatch\\u00a0', 'stream_type': 'Twitter', 'id_str': '653612267481788417'}
+{'text': '@NewCycling @katsdekker Roundabouts in Newcastle \\u2013 http://www.theguardian.com/cities/2015/oct/19/traffic-lights-roundabouts-way-out\\u00a0\\u2026 @NewcastleCC', 'stream_type': 'Twitter', 'id_str': '656047818923118592'}
+{'text': 'Please be careful as the traffic lights at Webb and Ross Clark and Range and Ross Clark are out', 'stream_type': 'Twitter', 'id_str': '658854434013884416'}
+{'text': 'Traffic lights are out at Thompson & Clark. Thompson & Yates. Be safe & treat it as a 4 way stop!', 'stream_type': 'Twitter', 'id_str': '651064760214155268'}
+{'text': 'Traffic signal modus operandi and example monitoring systems are way out must upon never cease reliable: hPuBGU', 'stream_type': 'Twitter', 'id_str': '652034322161991680'}
+{'text': "'Traffic lights are so dictatorial' ... but are roundabouts on the way out? http://ow.ly/TEHtQ\\u00a0", 'stream_type': 'Twitter', 'id_str': '656678286546903044'}
+{'text': 'Traffic lights out due to power outage in Clarksburg.\\nhttp://bit.ly/1jimzgW\\u00a0 pic.twitter.com/FW87naJw0G', 'stream_type': 'Twitter', 'id_str': '652559695450894336'}
+{'text': '\\"Roundabouts are brilliant at moving car traffic, but not a safe space for people who cycle\\u201d Do you agree? http://ow.ly/TzPzh\\u00a0', 'stream_type': 'Twitter', 'id_str': '656106328415412224'}
+{'text': 'When you break multiple traffic laws including speeding, running lights, and endangering lives just to find out the bride herself was late', 'stream_type': 'Twitter', 'id_str': '650421881783226369'}
+{'text': '#CPTTraffic TRAFFIC LIGHTS ARE FAULTY/ OUT\\nIn Belhar at Robert Sobukwe and Amandel Drive', 'stream_type': 'Twitter', 'id_str': '656847305555976192'}
+{'text': 'Traffic Lights All Out at the junction where Stainbeck Road meets with Stainbeck Lane.', 'stream_type': 'Twitter', 'id_str': '651640099474681856'}
+{'text': 'No turn signal traffic stop.Driver has warrants out of Wise County#tweetalong#tcpd pic.twitter.com/wccWQWK3cl', 'stream_type': 'Twitter', 'id_str': '655935057488547840'}
+{'text': 'We are getting reports the traffic signal lights at Bagdad and Crystal Falls are out.  Officers are en route.... http://fb.me/vzrmXAiW\\u00a0', 'stream_type': 'Twitter', 'id_str': '652158632365191168'}
+{'text': '@PeterisCiemitis @1Andrewbrodie Of all intersections in UK, top 3 causing most injuries to cyclists are roundabouts http://www.theguardian.com/cities/2015/oct/19/traffic-lights-roundabouts-way-out\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '656734280505167873'}
+{'text': 'Thank you Vikki Rogers.\\nTraffic lights out at Station Road and over Bascule Bridge, Lowestoft. http://fb.me/7GRmRaEgL\\u00a0', 'stream_type': 'Twitter', 'id_str': '658947153260388352'}
+{'text': '@WishFmOfficial Just driven up Enfield St and the traffic lights are out  at the junction with Ormskirk Rd', 'stream_type': 'Twitter', 'id_str': '650972182563172352'}
+{'text': 'S. \\u303d\\ufe0fcGlothlin Retweeted WSHH FANS', 'stream_type': 'Twitter', 'id_str': '657196567766695936'}
+{'text': 'Imagine running out of petrol at the front of the traffic lights  only me', 'stream_type': 'Twitter', 'id_str': '652119313990742016'}
+{'text': 'Traffic lights out #Formby bypass tesco junction take care folks', 'stream_type': 'Twitter', 'id_str': '649630625503313920'}
+{'text': 'Traffic lights out at Sandyknowles.... I am so excited for this journey home', 'stream_type': 'Twitter', 'id_str': '649967662982909952'}
+{'text': '@quintenews traffic lights out Sidney street and Bell Blvd.  Wish ppl knew how to drive!', 'stream_type': 'Twitter', 'id_str': '649979106768080897'}
+{'text': 'Traffic lights out at Giel Basson and the N1 http://ewn.co.za/traffic/86801\\u00a0 #CPTTraffic', 'stream_type': 'Twitter', 'id_str': '654959186758017024'}
+{'text': 'And finally, traffic lights at Cuckoo Road/Long Acre - Nechells are out, possible delays to service 66.', 'stream_type': 'Twitter', 'id_str': '652388923663065088'}
+{'text': 'You would think @TravisCoSheriff could help direct traffic when there are traffic lights out on 290E during rush hour. #frustrating', 'stream_type': 'Twitter', 'id_str': '653698096195485696'}
+{'text': 'MIDLAND COUNTY 911: BE ADVISED SEVERAL TRAFFIC LIGHTS OUT IN AREA INCLUDING EASTMAN/DILLOWAY AND WACKERLY/EASTMAN. CONSUMERS AWARE.', 'stream_type': 'Twitter', 'id_str': '649978806581596161'}
+{'text': 'RT @#Alert MelbTraffic #ALERT Traffic Lights Malfunctioning(blacked out- power\\u2026 http://fxmb.info/1WJikdc\\u00a0 via #hng pic.twitter.com/l8ytfKxTX7', 'stream_type': 'Twitter', 'id_str': '651196488790360066'}
+{'text': 'TRAFFIC ALERT #Orlando: Traffic lights are out at Curry Ford Rd at Dean Rd. Treat as a four-way stop.', 'stream_type': 'Twitter', 'id_str': '656059140213747712'}
+{'text': 'Traffic lights out at Norththumberland and Malibongwe...avoid !!!!', 'stream_type': 'Twitter', 'id_str': '652044484407115776'}
+{'text': "I want to sleep but there's mad traffic on the TL and fam the traffic lights don't work. I'mma stay till it's all sorted out ", 'stream_type': 'Twitter', 'id_str': '655876328453967873'}
+{'text': 'Prince/Stone watch for slowing at the intersection due to the traffic lights being out. Unk ETA at this time. pic.twitter.com/NrIKwOqGsc', 'stream_type': 'Twitter', 'id_str': '650396838537768964'}
+{'text': 'RT @Scribble228: @London_Traffic lights are out at Cheapside and Adelaide and Oxford and Gammage.', 'stream_type': 'Twitter', 'id_str': '650470974387847169'}
+{'text': 'Hamilton - bothways Strathearn at Burlington traffic lights out', 'stream_type': 'Twitter', 'id_str': '659716002238869504'}
+{'text': 'Traffic lights out at Montreal and Railway streets, traffic moving well as a four-way stop pic.twitter.com/SAWWuuVNAt', 'stream_type': 'Twitter', 'id_str': '659036197092618240'}
+{'text': 'Traffic lights remain all out on A109 Lordship Lane at Boreham Road. Approach with care.', 'stream_type': 'Twitter', 'id_str': '649674024876961792'}
+{'text': 'RT plymouthborders: Plymouth anger as traffic lights put out of sync #Plymouth\\nhttp://ift.tt/1VEJf7C\\u00a0 \\u2026 http://goo.gl/MdyiIs\\u00a0', 'stream_type': 'Twitter', 'id_str': '651799136723968000'}
+{'text': 'as if the all the traffic lights just went out in Auburn???', 'stream_type': 'Twitter', 'id_str': '659826483922403329'}
+{'text': '@MelanieHunterTV Traffic lights are out at Golf Links/Craycroft..if this was a regular duty day at D-M...Yikes!', 'stream_type': 'Twitter', 'id_str': '653571960614424576'}
+{'text': 'Power Outage Downtown Knocks Out Traffic Signal | Discover Ferndale http://fb.me/7tE8Mruia\\u00a0', 'stream_type': 'Twitter', 'id_str': '656629155866394625'}
+{'text': 'Sydney Traffic TRAFFIC LIGHTS BLACKED OUT Power failure - POTTS POINT Macleay St at Challis Ave #sydtraffic #trafficnetwork', 'stream_type': 'Twitter', 'id_str': '659074092151144448'}
+{'text': '@TorontoPolice ETOBICOKE TRAFFIC LIGHTS DOWN, please get officers out on major intersections,  four-way stops are a debacle!', 'stream_type': 'Twitter', 'id_str': '659738992750034944'}
+{'text': '@EWNTraffic @MyJRA\\nFourways: Traffic lights at William Nicol / N1 intersection out since Monday!\\n#JHBTraffic @susanmottram66', 'stream_type': 'Twitter', 'id_str': '654198031177371648'}
+{'text': 'A warning: yesterday while standing by traffic lights, motorbike mounted pavement and pillion rider tried to grab phone out of my hand!', 'stream_type': 'Twitter', 'id_str': '654373479312134145'}
+{'text': '#PTATraffic: Traffic lights out on the corner of Thabo Sehume Street and Bloed Street.', 'stream_type': 'Twitter', 'id_str': '656716060612136960'}
+{'text': 'Joburg metro pathetic!!!! Witkoppen and Malibongwe traffic lights out and traffic heavily backed up!', 'stream_type': 'Twitter', 'id_str': '649865832718299137'}
+{'text': 'Sydney Traffic TRAFFIC LIGHTS BLACKED OUT Power failure - PUNCHBOWL Punchbowl Rd at The Boulevarde #sydtraffic #trafficnetwork', 'stream_type': 'Twitter', 'id_str': '656399229410127872'}
+{'text': '#Traffic lights out at Ravenhurst and Dugald. Ravenhurst backed up to Pandora #Winnipeg Thanks @FAB943FM tipster', 'stream_type': 'Twitter', 'id_str': '659114310665269248'}
+{'text': 'Check out this #job: #Electrician #- Traffic signal experience at Select Recruitment in #Christchurch #jobs http://neuvoo.co.nz/job.php?id=vjczap7fd9&source=twitter&lang=EN&client_id=1026&l=Christchurch%2C+Canterbury%2C+NZ&k=Electrician+-+Traffic+signal+experience\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '650890001316753408'}
+{'text': '#CPTTraffic Traffic lights out in the Airport Industria at Robert Sobukwe and Borcherds Quarry http://ewn.co.za/traffic/99625\\u00a0', 'stream_type': 'Twitter', 'id_str': '659961900172734464'}
+{'text': 'Stay away from palm desert the traffic lights are out and traffic is horrible', 'stream_type': 'Twitter', 'id_str': '654021888121827328'}
+{'text': "Sandton traffic is a joke, ecomobility nonsense, plus traffic lights are out. LIKE WTF.. I'm a little hacked!", 'stream_type': 'Twitter', 'id_str': '659005550458503168'}
+{'text': 'Help, intersection of 23rd / Classen and the traffic lights are out.', 'stream_type': 'Twitter', 'id_str': '657595595993935872'}
+{'text': '@HeatherHolmesFi IKR! At the traffic lights he was next to a cop but they were turning,wondered why he eyed out the cop once cop leftTA KOE', 'stream_type': 'Twitter', 'id_str': '657669216653328384'}
+{'text': 'What was your traffic situation like on the way home? \\nTLO - Traffic Lights Out, \\nMVA - Motor vehicle accidents \\nMT - Mobile Traps', 'stream_type': 'Twitter', 'id_str': '656136029909463041'}
+{'text': 'SYD traffic TRAFFIC LIGHTS BLACKED OUT - BANKSTOWN Hume Hwy at Meredith St http://ift.tt/1LHEJDT\\u00a0', 'stream_type': 'Twitter', 'id_str': '656389368857403392'}
+{'text': "#TRAFFICALERT: CAUTION if you're traveling through #FARMINGTON...Traffic lights out at Rt. 177 & Rt. 6 intersection. pic.twitter.com/xbnl52ppR6", 'stream_type': 'Twitter', 'id_str': '656809265240363008'}
+{'text': 'TRAFFIC ALERT ** Lights out Albert St at least from 14th to 25th ** Regina radar list is on Facebook', 'stream_type': 'Twitter', 'id_str': '657270610553278464'}
+{'text': 'Traffic lights out in Philippi at Govan Mbeki and Sheffield Roads http://ewn.co.za/traffic/92450\\u00a0 #CPTTraffic', 'stream_type': 'Twitter', 'id_str': '657076674857668608'}
+{'text': 'SYD traffic TRAFFIC LIGHTS BLACKED OUT - PENRITH Castlereagh Rd at Lugard St http://ift.tt/1H3M2k2\\u00a0', 'stream_type': 'Twitter', 'id_str': '658489825935364096'}
+{'text': 'The traffic lights are out at bridge and Main streets. Police are directing traffic.', 'stream_type': 'Twitter', 'id_str': '650078461944537089'}
+{'text': 'Petoskey area drivers: Hearing reports that the traffic lights at U.S. 131 and Sheridan and Anderson are out because of a power outage.', 'stream_type': 'Twitter', 'id_str': '651381503037865984'}
+{'text': 'Retweeted Netstar Traffic (@netstartraffic):\\n\\n#JHBTraffic Traffic lights out: Witkoppen Rd and Cedar Rd. Please approach with caution.', 'stream_type': 'Twitter', 'id_str': '657411720843956224'}
+{'text': 'Traffic lights are out at the junction of Alphington Road and Marsh Barton Road in Exeter, approach with care. @hughHocc', 'stream_type': 'Twitter', 'id_str': '658890853201657856'}
+{'text': 'Traffic signal at Rucker and Wills out.  Crews in route.', 'stream_type': 'Twitter', 'id_str': '653689983782494208'}
+{'text': "traffic lights out on south blvd & somebody gon' die #clt #4waystop #yeahright", 'stream_type': 'Twitter', 'id_str': '650307022328569856'}
+{'text': 'Traffic lights out at McNeese and Common, avoid the area - Oct 17 @ 12:45 PM ET  http://pulpnews.com/c/i.php?id=1659569913\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '655424370270216192'}
+{'text': '@CharlestonPD Is it possible to find out why an officer is controlling traffic at 61 and Wesley when lights are working?  Thx for any info!', 'stream_type': 'Twitter', 'id_str': '651746366390181888'}
+{'text': 'An absurd testament to the bike boom myth, there. \\"there\'s more cycling now than when we were building roundabouts\\" http://www.theguardian.com/cities/2015/oct/19/traffic-lights-roundabouts-way-out\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '656965444318928896'}
+{'text': 'Retweeted Netstar Traffic (@netstartraffic):\\n\\n#JHBTraffic @TrafficFreeflow Traffic lights out: Montecasino Blvd and Witkoppen Rd.', 'stream_type': 'Twitter', 'id_str': '656698672281812992'}
+{'text': '@Sambrondanw stock have right of way but out of courtesy I stop them 4 traffic, signs and hazard lights recommended too.', 'stream_type': 'Twitter', 'id_str': '655311207654551552'}
+{'text': 'Traffic lights out again at Lawrence and Leslie.', 'stream_type': 'Twitter', 'id_str': '659473937982726144'}
+{'text': 'Traffic lights and power out on John B White Sr Blvd towards Reidville Rd. Repair expected at 9:30am.', 'stream_type': 'Twitter', 'id_str': '649905548037652480'}
+{'text': 'Pedestrians dodge cars downtown with traffic lights out http://on.freep.com/1RtWpnr\\u00a0 via @freep', 'stream_type': 'Twitter', 'id_str': '651849292722896896'}
+{'text': '- 7:41am, Gettraffic WA\\nWilletton - traffic lights out bothways Burrendah Boulevard at Pinetree Gully Road - CLEAR', 'stream_type': 'Twitter', 'id_str': '654804412825628672'}
+{'text': 'Shout out to @DCPoliceDept for great job directing #traffic thru broken lights at 15th & Const this AM. Kept us moving! @DCPoliceTraffic', 'stream_type': 'Twitter', 'id_str': '649947428720918529'}
+{'text': 'A628 - if u r a Manchester to Sheffield driver this may affect you http://ow.ly/TcS2G\\u00a0', 'stream_type': 'Twitter', 'id_str': '652446082878865408'}
+{'text': 'Buses traveling through Hurstville may be delayed with some traffic lights blacked out in the area including on Forest, Croydon & Queens Rds', 'stream_type': 'Twitter', 'id_str': '651635716397637632'}
+{'text': 'Sydney Traffic - TRAFFIC LIGHTS BLACKED OUT Power failure - CAMPBELLTOWN Broughton St at Waminda Ave', 'stream_type': 'Twitter', 'id_str': '653525958213828608'}
+{'text': 'Reports of several traffic lights out around Bendigo. Also several power outages. Full details on KLFM.', 'stream_type': 'Twitter', 'id_str': '651207399815024640'}
+{'text': "I'm the douche bag that weaves in and out of traffic while on my phone and not using my turn signal", 'stream_type': 'Twitter', 'id_str': '654729230752702464'}
+{'text': 'Traffic lights are out at Church Road and #Sooke Road. Please use caution and obey traffic control personnel.', 'stream_type': 'Twitter', 'id_str': '651874893038927872'}
+{'text': 'TRAFFIC ALERT: Lights are out at Alex Rd & SR 725 - treat as 4-way stop. FOX45News pic.twitter.com/iWL3nI38gX', 'stream_type': 'Twitter', 'id_str': '652463565572456448'}
+{'text': 'Traffic lights out at Clarendon and St. James Ave. @universalhub  @BOS311 pic.twitter.com/2IwsPtz9zx', 'stream_type': 'Twitter', 'id_str': '652594648389668864'}
+{'text': '@DevonAlert @ExeterTurnAroun @hughHocc odd how the traffic flows better when the lights are out... ', 'stream_type': 'Twitter', 'id_str': '658895619235434496'}
+{'text': "All the lights are out on 50W/River Rd. traffic backed up like crazy. No one directing traffic! It's a mess! @WCPO @WLWT @WKRQ", 'stream_type': 'Twitter', 'id_str': '659341651308118016'}
+{'text': 'Avoid nicholasville rd from lex green to Pasadena transformer exploded traffic lights are out', 'stream_type': 'Twitter', 'id_str': '652167651641286656'}
+{'text': "It's a Friday traffic nightmare. Traffic lights out in Midtown & 2 fire trucks shut down Piedmont by the park. #Atlantatraffic", 'stream_type': 'Twitter', 'id_str': '652574885659676672'}
+{'text': "I said street, but meant traffic lights at 22 and Cedar Crest are out and directing traffic. I'm going to go get my caffeine now.", 'stream_type': 'Twitter', 'id_str': '652457785561608193'}
+{'text': 'FYI ,...traffic lights are out on s queen st and Pauline dr York twp..(113)', 'stream_type': 'Twitter', 'id_str': '650036941975629824'}
+{'text': 'Street & traffic lights were blown out due to the rain. I thank God I made it home safe ', 'stream_type': 'Twitter', 'id_str': '655957986804895744'}
+{'text': 'Traffic lights shattered. Shop windows blew out & scattered goods far and wide.  The Wabbit & the Sneeze on Wheels http://buff.ly/1Ls2jkE\\u00a0', 'stream_type': 'Twitter', 'id_str': '655605499656826880'}
+{'text': 'Traffic: Be alert that the traffic signal is out at Kenwood & Montgomery Roads, this is a busy intersection! @WCPO pic.twitter.com/HzbV3CL2jH', 'stream_type': 'Twitter', 'id_str': '654982555502927872'}
+{'text': 'I spy some traffic lights out in Center City, on Broad St & Lombard St! Be careful out there! @NBCPhiladelphia', 'stream_type': 'Twitter', 'id_str': '653722483133153280'}
+{'text': 'Traffic lights still out at intersection of Clifton at West Shoreway. 4 way stop please!!', 'stream_type': 'Twitter', 'id_str': '654236155400069121'}
+{'text': "42 traffic lights go out at Beverley's Grovehill junction \\u2013 and flow improves | Hull Daily Mail - http://go.shr.lc/1Z8ojdx\\u00a0", 'stream_type': 'Twitter', 'id_str': '651491895936450564'}
+{'text': 'Traffic Alert: Signal at La Brea & Lexington is out due to a traffic collision. Avoid the area until signal repairs can be made. @WehoCity', 'stream_type': 'Twitter', 'id_str': '659854110544429056'}
+{'text': 'Power & Traffic lights out at Bancroft & Holland-Sylvania area. @13abc', 'stream_type': 'Twitter', 'id_str': '650478631945379840'}
+{'text': 'Cops that break traffic laws to call me out for running lights http://tmblr.co/ZujFYy1vdW2zk\\u00a0', 'stream_type': 'Twitter', 'id_str': '651200211595890688'}
+{'text': 'Traffic signal at 107 & Raul Longoria out.  Treat as 4-way stop.  Be careful.', 'stream_type': 'Twitter', 'id_str': '658030122449039360'}
+{'text': 'Beenleigh Town Square is OPEN ! - Come down and check it out , great grassy areas, and now we have Traffic Lights... http://fb.me/7DLsUwpUZ\\u00a0', 'stream_type': 'Twitter', 'id_str': '651341688959594496'}
+{'text': 'Crash this morning took out traffic controls for the lights at the airport connector on Post Road: http://warwickpost.com/crash-damages-traffic-signals-on-post-road/9260/\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '650354075675049984'}
+{'text': 'Baggot St: Traffic lights are out of action on Baggot St at Waterloo Road junction.', 'stream_type': 'Twitter', 'id_str': '649602825689956353'}
+{'text': '@CityofJoburgZA please fix traffic lights at Ontdekkers and Princess Crossing centre...been out over a week now', 'stream_type': 'Twitter', 'id_str': '651321244231561216'}
+{'text': 'People break traffic laws too but imagine driving w/out lights, stop signs, speed limits, licensed drivers, DUI laws-wd be gun level deaths.', 'stream_type': 'Twitter', 'id_str': '650057752388104192'}
+{'text': '#JHBTraffic @TrafficFreeflow Traffic lights out: Corlett Dr and Oxford Rd.', 'stream_type': 'Twitter', 'id_str': '649456898253656064'}
+{'text': 'Opened Traffic Signal Repair request via Android at 1100-1102 S Conkling St Baltimore http://spot.cx/1K8Flgs\\u00a0. Traffic signals out at conk...', 'stream_type': 'Twitter', 'id_str': '654292201426550784'}
+{'text': 'Trying to drive with the traffic lights out ', 'stream_type': 'Twitter', 'id_str': '650315592432549888'}
+{'text': 'Traffic lights out on Rt 31F due to tree branch landing on wires and causing a short pic.twitter.com/3V2SmiBdnB', 'stream_type': 'Twitter', 'id_str': '659722515921661953'}
+{'text': '@WTOP Traffic lights out at NY Ave and Bladensburg Road', 'stream_type': 'Twitter', 'id_str': '651019046247395328'}
+{'text': 'Got checked out by a reasonably attractive woman at some traffic lights tonight. Women love tractors', 'stream_type': 'Twitter', 'id_str': '650030140655845376'}
+{'text': 'Traffic Incident. Fairview Twp Limekiln Rd at Sheraton Dr- Traffic lights out- Fire Police directing traffic- Use Caution.', 'stream_type': 'Twitter', 'id_str': '652588932463378433'}
+{'text': 'Traffic lights remain all out on A312 The Parkway at A30 Great South-West Road. North<>south traffic is forced left for safety reasons.', 'stream_type': 'Twitter', 'id_str': '651271254406791168'}
+{'text': 'Post Edited: Advisory Message: Traffic lights are out in the area of the Mall, Huntington Rd, and Crane Dr. Please http://wmsl.fm/?p=43188\\u00a0', 'stream_type': 'Twitter', 'id_str': '654999833334411265'}
+{'text': 'HEADS UP! Traffic lights out at Nazereth House, all directions. #Bexhill @esccroads', 'stream_type': 'Twitter', 'id_str': '650953732088311808'}
+{'text': '@LaughatAl yeah but when you think about it he cut all the traffic lights out', 'stream_type': 'Twitter', 'id_str': '656787984373653504'}
+{'text': '.@trafficscotland @policescotland newbridge roundabout is a accident waiting to happen with traffic lights being out #takeiteasy', 'stream_type': 'Twitter', 'id_str': '656513979540492288'}
+{'text': 'Coorparoo - traffic lights out bothways Cavendish Road at Chatsworth Rd - CLEAR', 'stream_type': 'Twitter', 'id_str': '651269551305330688'}
+{'text': 'Boise outage still affecting parts of Franklin Rd. If traffic lights are out, treat intersections as 4-way stops. http://www.Idahopower.com/outage\\u00a0', 'stream_type': 'Twitter', 'id_str': '659134298000261120'}
+{'text': 'LOFTUS: Six sets of traffic lights blacked out in the area including on #PrincesHwy at Farnell Ave. Exercise caution.', 'stream_type': 'Twitter', 'id_str': '653416255404253184'}
+{'text': 'DUBLIN: Traffic lights are out of action at the jct of Clontarf Rd and Bull Wall. Extra care is needed. http://theAA.ie/Roadwatch\\u00a0', 'stream_type': 'Twitter', 'id_str': '656334032557494273'}
+{'text': '#LovelandScanner: Traffic lights out at 29th & Custer -- 20th & Taft are being powered by back ups. @reporterherald pic.twitter.com/TJPakiugKS', 'stream_type': 'Twitter', 'id_str': '656160830413664256'}
+{'text': 'Traffic lights out at Golf Club Terrace - Florida Park #JHB (Via @MyAATraffic). Add additional time to your journey.', 'stream_type': 'Twitter', 'id_str': '656375583337762816'}
+{'text': 'Randy Rains Retweeted Atlanta Braves', 'stream_type': 'Twitter', 'id_str': '654364079910461440'}
+{'text': 'Utah G Ryan Faragher has been lights out so far this series. Nothing soft gets thru him. Eagles need more traffic to score. #eagleshockey', 'stream_type': 'Twitter', 'id_str': '655556165485490177'}
+{'text': 'All of these traffic lights are out and I am totally cool with the every man for them self thing. ', 'stream_type': 'Twitter', 'id_str': '658682934761754628'}
+{'text': "Traffic lights are out on Rothesay Avenue at Ritchie's", 'stream_type': 'Twitter', 'id_str': '659779909712281600'}
+{'text': '@5sexofRach Louis met fans? They were at the the culloden and then when they drove out they stopped at traffic lights and Louis opened the', 'stream_type': 'Twitter', 'id_str': '656935437206974464'}
+{'text': "Traffic and street lights on highway 61 seem to be out. If I make it to the interstate, I'm golden. Unless the marshes are in the streets.", 'stream_type': 'Twitter', 'id_str': '650393872468733952'}
+{'text': 'Traffic Lights All Out where the eastbound A64 York Road meets with the slip road coming from Torre Road.', 'stream_type': 'Twitter', 'id_str': '651693113896009728'}
+{'text': 'Traffic signal out Fairoaks / Sunrise Blvd., crews on scene @CBSSacramento @GoodDaySac @TinaMacuha @GoodDayCourtney pic.twitter.com/0OCJDQGtKP', 'stream_type': 'Twitter', 'id_str': '654695961390772224'}
+{'text': 'Northumberland Road: Traffic Lights are out on Northumberland Road at Pembroke Road junction.', 'stream_type': 'Twitter', 'id_str': '649604911454359552'}
+{'text': 'Traffic Lights All Out at the junction where the A61 Scott Hall Road meets with Stainbeck Road.', 'stream_type': 'Twitter', 'id_str': '651707868673089536'}
+{'text': 'Police still searching for Madora Bay crash driver. @WA_Roads fixing damaged traffic lights http://tinyurl.com/olqaoam\\u00a0 pic.twitter.com/3hrvd9w8Et', 'stream_type': 'Twitter', 'id_str': '656975058892513280'}
+{'text': 'UPDATE: Accident on Orange Ave. knocks out power to 4,200. The power outage and accident is impacting traffic lights. http://www.wdbj7.com/news/local/roanoke/nearly-4500-appalachian-power-customers-without-power-in-roanoke/35663942?utm_medium=social&utm_source=twitter_WDBJ7\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '651107012349063168'}
+{'text': 'Power outage in town has affected traffic lights. Please be careful driving.  Where power is out, treat intersections as four way stops!', 'stream_type': 'Twitter', 'id_str': '659762556421152768'}
+{'text': 'All the traffic lights were out at the cross roads to head towards the airport this morning... Was a massive free for all #norwich #madness', 'stream_type': 'Twitter', 'id_str': '658596747426594816'}
+{'text': 'Traffic update - Lights are out at Portage Ave and St. James', 'stream_type': 'Twitter', 'id_str': '653609629377630209'}
+{'text': 'PCH traffic signal out in Malibu http://dlvr.it/CNFXX7\\u00a0', 'stream_type': 'Twitter', 'id_str': '651786569934770176'}
+{'text': 'ICYMI:  Truck cuts corner, knocks out traffic lights at Brighton and Stevens Ave.\\nhttp://bit.ly/1LlMHT7\\u00a0 pic.twitter.com/LrfswXldwt', 'stream_type': 'Twitter', 'id_str': '652888838579355649'}
+{'text': '@destn2win @CP24 try living here was bound to happen no lights no crew slowing traffic no care on the construction workers just zoom out', 'stream_type': 'Twitter', 'id_str': '651454609546977280'}
+{'text': 'Traffic lights out on Prince and Oracle in #tucson. Traffic is backed up for about half a mile. pic.twitter.com/tj9QPJNgU5', 'stream_type': 'Twitter', 'id_str': '657975440292753409'}
+{'text': '@AdrianGail: @trafficscotland traffic lights are out on the newbridge roundabout 06:51', 'stream_type': 'Twitter', 'id_str': '656347888021348352'}
+{'text': '\\u2018Traffic lights are so dictatorial\\u2019 ... but are roundabouts on the way out? http://gu.com/p/4d5zg/stw\\u00a0', 'stream_type': 'Twitter', 'id_str': '656011174690070528'}
+{'text': 'Photo: Traffic lights are out on Main St. in Bloomsburg, PA (BloomUToday/FB) pic.twitter.com/W4kqShvcUJ', 'stream_type': 'Twitter', 'id_str': '659443241931161600'}
+{'text': 'Richmond - traffic lights out bothways Bridge Road at Church Street', 'stream_type': 'Twitter', 'id_str': '659467208980983809'}
+{'text': '@BBCLeeds can you please shout out a massive \\"thanks\\" to the bright spark who\'s put the temporary traffic lights in horseforth! #dingbats!!', 'stream_type': 'Twitter', 'id_str': '652019077217677312'}
+{'text': '@PigSpotter just cleared up but backed up HEAVILY and traffic lights out too. Fuuunnnn', 'stream_type': 'Twitter', 'id_str': '649624664843661312'}
+{'text': 'Edmonton - bothways 118 Ave between 97 St traffic lights out', 'stream_type': 'Twitter', 'id_str': '652573382886719488'}
+{'text': "I'm that girl in the car when you stop at traffic lights and see them pure singing their heart out ", 'stream_type': 'Twitter', 'id_str': '651829888043876352'}
+{'text': '@EWNTraffic traffic lights out Cnr witkoppen and  malibongwe.  Major backup', 'stream_type': 'Twitter', 'id_str': '649439792510443520'}
+{'text': '@bobkellytraffic Traffic lights out at 15th and Arch.Police directing traffic. pic.twitter.com/NoDcYyIM6j', 'stream_type': 'Twitter', 'id_str': '649926334228074496'}
+{'text': '@KravenLupei pinebrook/parsipanny they hang out near traffic lights and in the middle of the road looking for it :I', 'stream_type': 'Twitter', 'id_str': '659116182407094273'}
+{'text': 'Ski just pulled up at the traffic lights on his bike and scared the shot out of me', 'stream_type': 'Twitter', 'id_str': '656487857545154560'}
+{'text': '@CtrafficUK traffic lights out on parts of tollbar', 'stream_type': 'Twitter', 'id_str': '659638730723082240'}
+{'text': 'I was sat at the traffic lights in my new Daewoo when a policeman tapped on my window and told me to get my microwave out of the road.', 'stream_type': 'Twitter', 'id_str': '654634962717646848'}
+{'text': 'Update: #yycNE traffic lights are out on McCall Way at Pegasus Rd NE (not on McKnight) #yyc #yyctraffic', 'stream_type': 'Twitter', 'id_str': '657178600400158724'}
+{'text': '?@jeremycorbyn LowerTamesSt, Lon, 11 yest? Tried int him traffic lights headphone out but went green n he cycled off pic.twitter.com/eS5rkbUqTC', 'stream_type': 'Twitter', 'id_str': '655451475519369216'}
+{'text': 'Australian News Retweeted Live Traffic Sydney', 'stream_type': 'Twitter', 'id_str': '651293588496732160'}
+{'text': 'Police just said big power outage in central Aurora affecting 4K people will last for another 30 mins at least. Lots of traffic lights out.', 'stream_type': 'Twitter', 'id_str': '655036332914307073'}
+{'text': 'Always awkward when you end up next to the car at the traffic lights that just watched you sing your heart out for 10 mins', 'stream_type': 'Twitter', 'id_str': '649686493049552896'}
+{'text': 'Police have arrived to direct traffic at Clifton @ West Shoreway. Trf lights out.', 'stream_type': 'Twitter', 'id_str': '654243273217835008'}
+{'text': 'Traffic lights are out in all directions at 14th and Main', 'stream_type': 'Twitter', 'id_str': '651106154790129665'}
+{'text': 'Newshour is like a traffic signal on a busy junction in India w/out a police constable. Any1 can come & go from anywhere, anytime.\\n#timesnow', 'stream_type': 'Twitter', 'id_str': '649615974409240577'}
+{'text': 'RUTHERFORD: Traffic lights are working again around #NewEnglandHwy and John St after an earlier power failure - they had been blacked out.', 'stream_type': 'Twitter', 'id_str': '657100080361684992'}
+{'text': 'Traffic lights out in Belhar at Robert Sobukwe and Amandel Drive http://ewn.co.za/traffic/92386\\u00a0 #CPTTraffic', 'stream_type': 'Twitter', 'id_str': '657062262956519424'}
+{'text': 'Traffic lights complete out at ashley river and savage.', 'stream_type': 'Twitter', 'id_str': '650368624755126272'}
+{'text': 'Candy Holmstrom Retweeted Regina Police', 'stream_type': 'Twitter', 'id_str': '657281554167824385'}
+{'text': 'Dear veteran in the red truck, you need to learn how to drive. Weaving in & out of traffic with neither signal not regard is dangerous.', 'stream_type': 'Twitter', 'id_str': '659794450562977792'}
+{'text': '@lindsymack Yep all, lights out this morning, and traffic was flowing much easier..Would have been fun come 4pm and 5pm..lol. \\n\\n#switchoff', 'stream_type': 'Twitter', 'id_str': '651409550944374784'}
+{'text': 'TRAFFIC ALERT FORSYTH- Due to a power outage, the lights at Rt. 51 and Marion Av. are completely out causing some... http://fb.me/4JZElGTSg\\u00a0', 'stream_type': 'Twitter', 'id_str': '658047251361599488'}
+{'text': "Parked on a double yellow line, just after a bend and traffic lights, making out - but all good, he's not a cyclist! pic.twitter.com/Fa3ito3pu2", 'stream_type': 'Twitter', 'id_str': '649603074978357248'}
+{'text': "CAUTION Most traffic lights in Baldivis aren't working this morning as power is out and isn't expected to be back on until 9am #perthtraffic", 'stream_type': 'Twitter', 'id_str': '658416510621384704'}
+{'text': 'Stuck in traffic? Simply sideswipe a cop car. He will turn on his lights and everyone will then get out of your way. #noregrets', 'stream_type': 'Twitter', 'id_str': '651385003134308352'}
+{'text': "SEEN IN CIVIC: \\nHi-viz shirt emblazoned with 'Stand Up. Speak Out. Come Home. CFMEU' crossing six lanes of traffic on Don't Walk signal ...", 'stream_type': 'Twitter', 'id_str': '660575529595109376'}
+{'text': 'GALWAY: Traffic lights are out of action at the Newcastle Rd/ Quincentenary Bridge jct. Care is needed. http://theAA.ie/Roadwatch\\u00a0', 'stream_type': 'Twitter', 'id_str': '657141508362080256'}
+{'text': '@JMPDSafety  traffic lights out at Malibongwe and Witkoppen Road  and at Malibongwe and President Fouche. No points men! ! Pathetic!!!!', 'stream_type': 'Twitter', 'id_str': '649866990501371904'}
+{'text': '*Traffic Advisory*\\n North 5th St Highway and Bellevue Avenue - Traffic Lights Out\\n\\nA03', 'stream_type': 'Twitter', 'id_str': '659843259590569984'}
+{'text': 'Traffic lights out & troopers directing traffic on 378 starting at Hebron by LexMedCntr over I-26 then forcing EB traffic onto 26 E. #WLTX', 'stream_type': 'Twitter', 'id_str': '651387020556824576'}
+{'text': "It's funny how bad I am at driving, can't park for shit took a bush out other day and stall when I set off from every set of traffic lights", 'stream_type': 'Twitter', 'id_str': '655826974808612864'}
+{'text': '131940: Signal fault Hazard All directions\\nTraffic lights out.\\nAll lanes affected\\nDelays expected. Proceed with caution. \\nLast edited: 15 O\\u2026', 'stream_type': 'Twitter', 'id_str': '654465932098670592'}
+{'text': 'Few traffic lights out at the moment including reports of Don and Barnard St intersection, View Street near the... http://fb.me/45ifaydeE\\u00a0', 'stream_type': 'Twitter', 'id_str': '651205889815281668'}
+{'text': 'Traffic lights out at intersection of hope road, trafalgar road and waterloo road. Traffic backed up in all directions', 'stream_type': 'Twitter', 'id_str': '649374748300804096'}
+{'text': 'Looks like power outages around City Park/Delgado and int he Lower 9th ward. Traffic lights out in those areas. Use caution.', 'stream_type': 'Twitter', 'id_str': '658580871155466240'}
+{'text': 'Oh fuck, traffic lights are out at 34th and Walnut', 'stream_type': 'Twitter', 'id_str': '649983606375452672'}
+{'text': 'Planned power outage @downtownPtbo means some traffic lights out Oct 12  9pm - Oct 13 7am. Treat as 4-way stop - http://www.peterborough.ca/Assets/City+Assets/Media+Releases/2015/2015-10-07+Traffic+Signals+Interrupted+Downtown.pdf\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '651796293812101120'}
+{'text': '#WXIITraffic: Traffic Lights out in the Cherry St, Marshall St, 8th St, Trade St area of Winston-Salem.', 'stream_type': 'Twitter', 'id_str': '649860369280856064'}
+{'text': 'Traffic lights out....dams bursting...buildings collapsing...homes flooding....its Cray cray right niii', 'stream_type': 'Twitter', 'id_str': '650687921608093696'}
+{'text': 'this clown come out of cremer st onto kingsland rd tonight and smashed traffic lights. was pob, left punters shocked pic.twitter.com/ccaILesCmv', 'stream_type': 'Twitter', 'id_str': '649800040702197762'}
+{'text': 'Lights still out at Portage/Main? Heard that police are there directing traffic like pros! (Thanks!). Let FAB know what ya see (_Scott)', 'stream_type': 'Twitter', 'id_str': '657914200027566080'}
+{'text': '@btfreel Thank you for making us aware. Appreciate your reaching out. We will continue to monitor this particular traffic signal.', 'stream_type': 'Twitter', 'id_str': '657184023559675904'}
+{'text': 'TSK, disco lights beaming out of Maplin while I was sitting at the traffic lights. Thought I was being pulled over by the rozzers ', 'stream_type': 'Twitter', 'id_str': '657616968468570112'}
+{'text': 'The power is out at Walmart and all the traffic lights...HOW DO I FUNCTION?!', 'stream_type': 'Twitter', 'id_str': '656913576142069760'}
+{'text': 'Severe #weather warning in place for central Vic. Traffic lights out across #Bendigo: http://bit.ly/1VA1gJl\\u00a0 pic.twitter.com/dTQVTivOrx', 'stream_type': 'Twitter', 'id_str': '651206999389003776'}
+{'text': 'AM980 LEXUS OF LONDON TRAFFIC: Lights out at Wonderland Rd and Lawson Rd. Police directing traffic, expect delays. #LDNont', 'stream_type': 'Twitter', 'id_str': '651778511896748032'}
+{'text': '@c8aloo traffic lights were out at the 12 and John r intersection', 'stream_type': 'Twitter', 'id_str': '656243255168909312'}
+{'text': 'East St @ 8th St: red traffic signal is burned out; when you do not see a light on, assume that it is red until repairs can be made.', 'stream_type': 'Twitter', 'id_str': '650044935375331328'}
+{'text': '@WireFM traffic lights out on pink eye roundabout', 'stream_type': 'Twitter', 'id_str': '652791046468960256'}
+{'text': "If you're trying to pull out into traffic but don't have a turn signal on I do NOT feel bad for not letting you out. #useyourblinker", 'stream_type': 'Twitter', 'id_str': '657512747182243840'}
+{'text': 'Last time a driver tried to kill me at traffic lights, I dodged out of the way at the last moment & they rammed into pedestrian railings.', 'stream_type': 'Twitter', 'id_str': '655034931727507457'}
+{'text': '\\"@TremorAudioSA: Traffic lights out at William Nicol, Malibongwe and Beyers Naud\\u00e9 on N1 - AVOID\\" @PigSpotter', 'stream_type': 'Twitter', 'id_str': '654664491288756224'}
+{'text': '.@NightmareNights peeps, be careful venturing away from the hotel, some traffic lights in the area are knocked out.', 'stream_type': 'Twitter', 'id_str': '657593706774593536'}
+{'text': 'Street lights are out on W. Gretzky Dr. going south From 118ave to the river. No one is directing traffic. #yegtraffic', 'stream_type': 'Twitter', 'id_str': '652570229172600832'}
+{'text': 'Exeter, Alphington Rd/Marsh Barton Road traffic lights out. Very difficult out of Marsh Barton. Alphington Rd very slow due to the volume', 'stream_type': 'Twitter', 'id_str': '657881458875441152'}
+{'text': '3 blocks of traffic lights are out on South Blvd. starting at Tremont Rd. Heading into uptown', 'stream_type': 'Twitter', 'id_str': '650283132529344512'}
+{'text': 'Traffic lights are out at junction of the A638 and the A655 at health common. Northern Powergrid engineers on their way, delays expected.', 'stream_type': 'Twitter', 'id_str': '652159230435180544'}
+{'text': 'Check out this #job: #Senior #Traffic Signal Engineer at Atkins Global in #Birmingham #jobs http://neuvoo.com/job.php?id=6c4r7tjccw&source=twitter&lang=EN&client_id=1097&l=Birmingham%2C+Alabama%2C+US&k=Senior+Traffic+Signal+Engineer\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '660278907195760642'}
+{'text': 'Traffic lights v. roundabouts http://gu.com/p/4d5zg/stw\\u00a0', 'stream_type': 'Twitter', 'id_str': '656673419401023492'}
+{'text': 'Lights out in Macassar at Zandvliet and Macassar Road http://ewn.co.za/traffic/85397\\u00a0 #CPTTraffic', 'stream_type': 'Twitter', 'id_str': '654540207535058944'}
+{'text': 'Lacy Deniz Retweeted Charice Q.', 'stream_type': 'Twitter', 'id_str': '656139125272113152'}
+{'text': "@AMSchellenberg @VisitTampaBay Try reaching out to @CityofTampa, since they handle the traffic lights on most city roads. You're not alone.", 'stream_type': 'Twitter', 'id_str': '653995304421826560'}
+{'text': 'Traffic Lights are out near the Esso on the Gondola Point arterial due to a power outage', 'stream_type': 'Twitter', 'id_str': '649682508594941952'}
+{'text': '@PigSpotter @TrafficFreeflow Traffic lights out c/o Corlett & Oxford. Thank you to the pointsmen on duty! ', 'stream_type': 'Twitter', 'id_str': '649918417768738816'}
+{'text': '*Traffic Lights out - South Pine Rd/Albany Creek Rd - Albany Creek.Heavy delays Sth Pine Rd thru Brendale & Eatons Crossing Rd b2 Lilley Rd)', 'stream_type': 'Twitter', 'id_str': '654414115239104512'}
+{'text': 'Vancouver - bothways Oak St at Park Dr traffic lights out - CLEAR', 'stream_type': 'Twitter', 'id_str': '657691573312987136'}
+{'text': "42 traffic lights go out at #Beverley's Grovehill junction \\u2013 and flow improves\\n http://www.hulldailymail.co.uk/42-traffic-lights-Beverley-s-Grovehill-junction/story-27930746-detail/story.html\\u00a0\\u2026", 'stream_type': 'Twitter', 'id_str': '651659500533993472'}
+{'text': 'Traffic lights out on main in front of Mcmaster. Traffic is total disaster @cityofhamilton @TheSpec @HamiltonPolice', 'stream_type': 'Twitter', 'id_str': '659699802876186624'}
+{'text': 'Hangin out with the fellas around the water cooler talkin bout traffic. Lights, signals, closing speeds, congestion. All the good shit.', 'stream_type': 'Twitter', 'id_str': '654707961005150208'}
+{'text': "This accident happnd last night on Ozumba,coming out of 1g4,opposite civic centre.The traffic lights weren't working. pic.twitter.com/l41W6Iw1Ol", 'stream_type': 'Twitter', 'id_str': '650289188026339329'}
+{'text': 'Always interesting to see how BG drivers react when traffic lights are out. At one everyone is stopping. At next one they blow on through.', 'stream_type': 'Twitter', 'id_str': '659119151227772928'}
+{'text': '.@WINTERSGILL Looks like he took out one of the traffic lights at Bishop and Arnold too. pic.twitter.com/PEYUfWkHrn', 'stream_type': 'Twitter', 'id_str': '660080964421423105'}
+{'text': 'A4 traffic lights remain out at North End Road causing congestion all the way to Chiswick Roundabout. Reports of engineers investigating.', 'stream_type': 'Twitter', 'id_str': '651313968234016768'}
+{'text': 'All these traffic lights being out n all this traffic is annoying as hell', 'stream_type': 'Twitter', 'id_str': '650035106078400512'}
+{'text': 'Power is out downtown, including traffic lights.', 'stream_type': 'Twitter', 'id_str': '651755867457617920'}
+{'text': 'Seems the traffic lights are out at Meadowbrook & Frontage Rd. in #Fondren. Use caution!', 'stream_type': 'Twitter', 'id_str': '658660081635082240'}
+{'text': 'Brumby corner traffic lights are completely out, what a disaster', 'stream_type': 'Twitter', 'id_str': '659102114820575237'}
+{'text': "When all the traffic lights go out in rvc ... Idk if that's a good thing or bad thing", 'stream_type': 'Twitter', 'id_str': '654302494097584128'}
+{'text': '@ShelbyRadioChic traffic lights out in front of Dreamland Old Shell and I65 overpass', 'stream_type': 'Twitter', 'id_str': '658608034990657536'}
+{'text': 'More on the #driverless bus that traveled 20 miles thru busy city, thru #traffic lights, changing lanes: http://ow.ly/Tatfg\\u00a0 @CityLab', 'stream_type': 'Twitter', 'id_str': '652442343833006080'}
+{'text': '@1045CHUMFM And pedestrians, please look out from under your angled umbrellas to watch traffic and to see if you have a walk signal too.', 'stream_type': 'Twitter', 'id_str': '659370777050009600'}
+{'text': '.@LiveTrafficSyd LEUMEAH: traffic lights @ #Pembroke Rd/#RosePayten Dr out again, flashing yellow', 'stream_type': 'Twitter', 'id_str': '653350939315716096'}
+{'text': 'In Haliburton traffic lights are out Highland at Maple causing delays. OPP and Roads responding', 'stream_type': 'Twitter', 'id_str': '651911391268499456'}
+{'text': 'Sydney Rd, Campbellfield - Traffic Alert, Traffic lights out at Camp Rd due to a power fault. Police\\u2026 http://bit.ly/1L9f1Uc\\u00a0 #victraffic', 'stream_type': 'Twitter', 'id_str': '650803515661533185'}
+{'text': '#JHBTraffic Traffic lights out at Tana & Rustenburg in Greenside. @OUTsurance @JMPDSafety @MyJRA Via @Alycia_H222', 'stream_type': 'Twitter', 'id_str': '658869580098641920'}
+{'text': 'If you spot any of our temp traffic lights are stuck on red or a bulb is out, report it here so we can sort it out', 'stream_type': 'Twitter', 'id_str': '652091094486773760'}
+{'text': '- 3:53pm, Gettraffic WA\\nBibra Lake - traffic lights out bothways Phoenix Road at Sudlow Road', 'stream_type': 'Twitter', 'id_str': '652391570696638464'}
+{'text': '@softsuho its good to get out sometimes!! you can get some fresh air and sunlight and mad at traffic lights', 'stream_type': 'Twitter', 'id_str': '651149789422219265'}
+{'text': 'Guys??!? may: so it turns out that traffic lights make for really great lighting in selfies \\u2026 http://tmblr.co/ZzN0fw1x0-2qe\\u00a0', 'stream_type': 'Twitter', 'id_str': '659396636381081600'}
+{'text': 'When traffic lights are out its a 4-way stop. Go back to your kindergarten lessons about taking turns!', 'stream_type': 'Twitter', 'id_str': '651863580938141697'}
+{'text': 'Shout out @tombeaumont11 jumping in my car at traffic lights almost giving me a heart attack ', 'stream_type': 'Twitter', 'id_str': '653978836611256321'}
+{'text': '@WGRZTraffic avoid transit all traffic lights are out as well as businesses from Sheridan going North', 'stream_type': 'Twitter', 'id_str': '649959762197659649'}
+{'text': "Everything u ever wanted to know about roundabouts: 'Traffic lights are so dictatorial'...but are rbs on t way out? http://gu.com/p/4d5zg/stw\\u00a0", 'stream_type': 'Twitter', 'id_str': '657116798974828544'}
+{'text': "Lights are out in this entire area and I'm finally starting to understand what madness would ensue without traffic lights. #dogeatdogworld", 'stream_type': 'Twitter', 'id_str': '654280268401000448'}
+{'text': '#PTATraffic: Traffic lights out on the corner of Struben Street and Sophie De Bruyn Street.', 'stream_type': 'Twitter', 'id_str': '650916297992081408'}
+{'text': 'One person was taken to the hospital after a crash on Robinson and Metarie this afternoon. http://on.wjtv.com/1LXNlqn\\u00a0 pic.twitter.com/at3YArT1q3', 'stream_type': 'Twitter', 'id_str': '658719137708011520'}
+{'text': 'Traffic lights are out at the Boundary junction Norwich @norwich999 @EDP24 @NSRoadsPolicing @BBCNorfolk', 'stream_type': 'Twitter', 'id_str': '658193745893044224'}
+{'text': "#Glasgow - #A8 Edinburgh Rd - traffic lights out at Easterhouse Rd following an accident yesterday - they'll be out through rush hour. T.T", 'stream_type': 'Twitter', 'id_str': '650903628342009856'}
+{'text': 'Closed Traffic Signal Repair request at 1100-1102 S Conkling St Baltimore http://spot.cx/1K8Flgs\\u00a0. Fq-begin: all lights out - traffic fq-end.', 'stream_type': 'Twitter', 'id_str': '654302382730424320'}
+{'text': 'LIGHTS OUT: Traffic signals flashing at Sunnyside & Riverdale. Crews awoken and dispatched at 5 a.m. Treat as all-ways stop, @RobynBresnahan', 'stream_type': 'Twitter', 'id_str': '658941679257415680'}
+{'text': 'Storm damage - more likely this afternoon: The power outage also caused chaos for commuters with traffic lights out\\u2026 http://dlvr.it/CVkb8j\\u00a0', 'stream_type': 'Twitter', 'id_str': '656612998211964928'}
+{'text': '@burgess_steven http://www.theguardian.com/cities/2015/oct/19/traffic-lights-roundabouts-way-out\\u00a0\\u2026 \\"Cyclists have a demonstrably harder time with roundabouts\\"', 'stream_type': 'Twitter', 'id_str': '656014801823383552'}
+{'text': '@KideroEvans Your county must sort out the traffic mess! FIX THE TRAFFIC LIGHTS & REMOVE THE POLICE!! Nairobi is turning into another Lagos!', 'stream_type': 'Twitter', 'id_str': '653943439227252736'}
+{'text': '#twittergong alert Lake Illawarra - Shellharbour Road at Pur Pur Avenue: Traffic lights blacked out - Power failure', 'stream_type': 'Twitter', 'id_str': '658448924752138241'}
+{'text': 'Power out in parts of Mandurah, Coodanup, Dudley Park. Traffic lights also out on Pinjarra Rd. Est. restoration 2.30PM #wanews @coastfmlive', 'stream_type': 'Twitter', 'id_str': '656312095298859009'}
+{'text': '@liezelv traffic lights out at mooiberge farmstall on R44 between sbosch and swest.', 'stream_type': 'Twitter', 'id_str': '653439662913155072'}
+{'text': 'Lostock hall traffic is a complete joke at the moment - temporary lights out of sync, queuing traffic and no sign of any work happening.', 'stream_type': 'Twitter', 'id_str': '654707809657843716'}
+{'text': 'Roundabouts or intersections? ....but are roundabouts on the way out?  http://buff.ly/1M2G1vt\\u00a0', 'stream_type': 'Twitter', 'id_str': '656316679304138752'}
+{'text': 'Traffic lights are still out on A312 The Parkway at the A30. North & South traffic are being forced left for safety reasons. Expect delays', 'stream_type': 'Twitter', 'id_str': '651406526800920577'}
+{'text': 'Traffic lights on Buckley went out, is the worst', 'stream_type': 'Twitter', 'id_str': '653642246525460480'}
+{'text': "anyone traveling in the ease side of Youngstown, be careful. the powers out and all lights/traffic signals aren't working.", 'stream_type': 'Twitter', 'id_str': '659203825316864000'}
+{'text': 'How many cyclists will I almost hit today who don\\u2019t stop, pull out into traffic, no lights, no helmet. We\\u2019re at 5.', 'stream_type': 'Twitter', 'id_str': '660602011268747264'}
+{'text': 'Traffic signal out at Van Dorn and Edsall....as if that intersection needed any help being trash.', 'stream_type': 'Twitter', 'id_str': '650076955925172224'}
+{'text': 'Sever touching the signup hand-out software applications now vicinity in re the traffic signal hammer dulcimer ...', 'stream_type': 'Twitter', 'id_str': '656560559794458624'}
+{'text': '#CPTTraffic TRAFFIC LIGHTS OUT/FAULTY\\nIn Somerset West at the N2 and Victoria', 'stream_type': 'Twitter', 'id_str': '656106640517787648'}
+{'text': 'RT keyetv \\"Injury crash on Fm 620 Rd at Lohmans Crossing Rd. Traffic lights out on Oltorf St/ Willow Creed St. Crash on Decker Ln/Daffin Ln\\u2026', 'stream_type': 'Twitter', 'id_str': '658956700704227328'}
+{'text': '.@MGEMadison @madisonpolice are the traffic lights still out at Raymond Rd and McKenna Ave? pic.twitter.com/mfGmlrGfER', 'stream_type': 'Twitter', 'id_str': '649900497760088064'}
+{'text': 'TRAFFIC ALERT: Lights out near Bergfeld Park http://ow.ly/TLX8y\\u00a0', 'stream_type': 'Twitter', 'id_str': '657608497945821184'}
+{'text': "When you're out for a quiet Sunday stroll and 4 young seagull fans spot @kazenga30 waiting at traffic lights!!!! Crazy excited chaos!!!", 'stream_type': 'Twitter', 'id_str': '655750063633932289'}
+{'text': 'Getting reports of traffic lights out on MLK and Estes. Be careful one the roadways.', 'stream_type': 'Twitter', 'id_str': '649994233642905600'}
+{'text': "@WCPSS it's really hard to drive to school when the traffic lights are flickering and going out((:", 'stream_type': 'Twitter', 'id_str': '649900914938118144'}
+{'text': '@PatAndRonOnWBBM dudes your AM signal went out and e traffic gal came n. what is up?', 'stream_type': 'Twitter', 'id_str': '657004116963667968'}
+{'text': 'AVOID 41st Ave @ Clares, Signal Lights Out Traffic Congestion,  Collision from Capitola Police Department : Nixle https://shar.es/1u4AJp\\u00a0', 'stream_type': 'Twitter', 'id_str': '655130864741777408'}
+{'text': 'Traffic - @ESBNetworks are carrying out works at the Xerox junction in Dundalk,Traffic lights are currently out of order,Approach with care.', 'stream_type': 'Twitter', 'id_str': '652420756945637377'}
+{'text': "EAT MORE PORKY PIG Traffic lights out? No problem for these two heroes: In today's trending... http://bit.ly/1LBaSfj\\u00a0 #manchester #leeds", 'stream_type': 'Twitter', 'id_str': '659227305655447552'}
+{'text': '@afloralcrown @peeriegemgem @EclecticCake @CastleClimbing haha! Just laughed out loud at this, stood at the traffic lights', 'stream_type': 'Twitter', 'id_str': '659004810436440064'}
+{'text': "Traffic lights in Monroe are out and I'm a bad driver so that's not a good mix ", 'stream_type': 'Twitter', 'id_str': '660501629314072576'}
+{'text': 'TRAFFIC ALERT:  Several traffic lights are out on Orange Avenue in Roanoke City after a flatbed truck hit a... http://fb.me/HugfsvRz\\u00a0', 'stream_type': 'Twitter', 'id_str': '651109145555402753'}
+{'text': 'At a bus stop where the traffic lights are out. No lights means stop, not YOLO. Saw a few near-collisions. #ldnont', 'stream_type': 'Twitter', 'id_str': '654000985413713924'}
+{'text': 'NSW - MANLY VALE Condamine St at Kenneth Rd\\nTRAFFIC LIGHTS BLACKED OUT\\nStarted today 9:13am, last checked today... http://fb.me/6TvRnuTiu\\u00a0', 'stream_type': 'Twitter', 'id_str': '660252131748769792'}
+{'text': '#LIGHTSOUT: Traffic lights out at three intersections, due to power outage in midtown. Treat as 4-way stop. #Tucson pic.twitter.com/cmt1rzwKNW', 'stream_type': 'Twitter', 'id_str': '656812080641671169'}
+{'text': 'Wairere/River road traffic lights out, use alternate route #hamilton', 'stream_type': 'Twitter', 'id_str': '652974215868452864'}
+{'text': 'Linda Foster Retweeted Perth Traffic', 'stream_type': 'Twitter', 'id_str': '658946058832257024'}
+{'text': "- 2:55pm, Holly Marie O'Brien\\nTraffic lights are out Phoenix Rd and Sudlow Rd, Bibra Lake", 'stream_type': 'Twitter', 'id_str': '652376972345999360'}
+{'text': 'Several traffic lights out on South Blvd in @SouthEndCLT, many businesses appear to be without power, or just closed. #WCNCrain @wcnc', 'stream_type': 'Twitter', 'id_str': '650314475766214656'}
+{'text': 'Reports of the traffic lights out at 22nd and Taylor Southbound.', 'stream_type': 'Twitter', 'id_str': '657254827794264064'}
+{'text': '@trafficscotland FYI the traffic lights have been out at Hillington roundabout at M8 on and off slips for the last 2 days, care needed!', 'stream_type': 'Twitter', 'id_str': '651314434128936960'}
+{'text': 'Why is every set of traffic lights in Melbourne out though? ', 'stream_type': 'Twitter', 'id_str': '656455388305317888'}
+{'text': 'Traffic lights are out and Fratville has no power', 'stream_type': 'Twitter', 'id_str': '656574034054922244'}
+{'text': '@BedfordTweets needs to sort out traffic lights at #interchange took 30 mins 2 get out of carpark today. Needs more than one way into shops!', 'stream_type': 'Twitter', 'id_str': '652889665545084928'}
+{'text': 'A483 A55 traffic is still not being managed right. Still queues. Come on @HighwaysEngland sort these lights out. Only cost \\u00a36m..much to ask?', 'stream_type': 'Twitter', 'id_str': '649490311580938240'}
+{'text': "Busses don't fit into the bus lanes traffic lights out of sync at the new hospital @GlasgowCC pic.twitter.com/4Ur2oeTrS8", 'stream_type': 'Twitter', 'id_str': '652538669979561984'}
+{'text': 'Hi @MyJRA Traffic lights out at Gleneagles/Emmarentia Ave; and Gleneagles/Donegal Ave in Greenside. @EWNTraffic  @TrafficSA  #JHBTraffic', 'stream_type': 'Twitter', 'id_str': '659034321752334337'}
+{'text': '@TfLTrafficNews the temp lights gloucester place and York St are massively out of synch and nb traffic is getting worse', 'stream_type': 'Twitter', 'id_str': '652461260039159808'}
+{'text': 'ALERT: Multiple traffic lights out due to power outage in Clarion. pic.twitter.com/0WmXcBy2ig', 'stream_type': 'Twitter', 'id_str': '653995086049583105'}
+{'text': 'If your power is out in liguan, its because of the accident at Mobil gas station. There are Traffic lights and streetlights out', 'stream_type': 'Twitter', 'id_str': '653141911000092672'}
+{'text': 'Lights out could prove fatal: THE pedestrian traffic lights opposite Bargain Buys in King Street heading across to\\u2026 http://dlvr.it/CK7p0Y\\u00a0', 'stream_type': 'Twitter', 'id_str': '649520019051687936'}
+{'text': 'Just went through Webster square all the traffic lights are out traffic is a mess', 'stream_type': 'Twitter', 'id_str': '652205961726283776'}
+{'text': "It's taken me over 2 hours to reach home. Traffic lights out of order for days in William Nicol and N1- someone fire the @CityofJoburgZA", 'stream_type': 'Twitter', 'id_str': '653981938227769344'}
+{'text': "Finally!!! Sum1 wit half a brain found out that the traffic lights at #applejunction #mile2 doesn't make sense.@beat_traffik @Gidi_Traffic", 'stream_type': 'Twitter', 'id_str': '651153912410456064'}
+{'text': "Uranium and Bushwillow Broadacres traffic lights out for weeks, what's going on? @MyJRA", 'stream_type': 'Twitter', 'id_str': '653447086466289664'}
+{'text': 'Ottawa - bothways Innes Rd at Tenth Line Rd traffic lights out #Otttraffic', 'stream_type': 'Twitter', 'id_str': '654045521594712064'}
+{'text': 'I was staring out the window in the car when I realised I was staring directly at someone at the traffic lights #lol #awkward', 'stream_type': 'Twitter', 'id_str': '653225193293393921'}
+{'text': 'A caller to the CHSJ Newsroom (648-3000)telling us the traffic lights are out at Hampton Road and the Gondola Point Arterial.#chsjnews', 'stream_type': 'Twitter', 'id_str': '659744695979937792'}
+{'text': 'Traffic lights out at major #Moncton intersection: use caution, Codiac RCMP says http://bit.ly/1P6ggKP\\u00a0', 'stream_type': 'Twitter', 'id_str': '652844433680035842'}
+{'text': 'Traffic lights along Ed Carey Dr in Harlingen are out. Drive carefully! @kgbt #rgv pic.twitter.com/PbNsl4DGEY', 'stream_type': 'Twitter', 'id_str': '660117452173348864'}
+{'text': "@ljroadmadness The traffic lights are out at the junction of Fiveways, Lilford road and Loughborough road. It's going to be crazy tomorrow!", 'stream_type': 'Twitter', 'id_str': '654782229357309954'}
+{'text': 'Traffic Lights Out Due to Power Outage in Clarksburg - WBOY-TV: WBOY-TVTraffic Lights Out Due to ... http://bit.ly/1P4pGqk\\u00a0 #poweroutage', 'stream_type': 'Twitter', 'id_str': '652572688356012036'}
+{'text': 'Traffic lights out, lots of mud on North Pine  but traffic moving. #shjsc @DanieljGross', 'stream_type': 'Twitter', 'id_str': '649554405159751680'}
+{'text': 'Opened Traffic Signal Repair request via Android at 6105 Harford Rd Baltimore http://spot.cx/1Gjf5F6\\u00a0. Green light out.. heading north in...', 'stream_type': 'Twitter', 'id_str': '655403759275782145'}
+{'text': 'Opened Traffic Signal - Timing Concern request via android at 23 ST NE http://spot.cx/1iRH3gn\\u00a0. Sensors glitched out, 23 street light turn...', 'stream_type': 'Twitter', 'id_str': '650021398086201344'}
+{'text': 'TRAFFIC: Several sets of traffic lights are blacked out around Penrith, including the Great Western Highway &... http://fb.me/3P76EmQ8F\\u00a0', 'stream_type': 'Twitter', 'id_str': '656321953540648961'}
+{'text': 'Downed tree took out traffic lights at Henry and Hermit. Police positioned here in Roxborough for safety. pic.twitter.com/Q5XeASfiEi', 'stream_type': 'Twitter', 'id_str': '659643779444580353'}
+{'text': "Hull Daily Mail published 42 traffic lights go out at Beverley's Grovehill junction &amp;ndash;... #Hull http://www.newslocker.com/en-uk/region/hull/hull-daily-mail-published-42-traffic-lights-go-out-at-beverleys-grovehill-junction-ampndash/\\u00a0\\u2026", 'stream_type': 'Twitter', 'id_str': '651370901833936897'}
+{'text': 'In Randburg traffic lights out at Press Fouche and Malibongwe Drive\\u2013there are delays in both directions http://ewn.co.za/traffic/70602\\u00a0 #JHBTraffic', 'stream_type': 'Twitter', 'id_str': '649577544795193344'}
+{'text': 'Traffic lights out at Hwy 27 & Kirby road #Vaughan - reminder to treat as a 4 way stop and use caution. Police will attend. LD', 'stream_type': 'Twitter', 'id_str': '657155768580354048'}
+{'text': '\\u00c1lbum de fotos: may: so it turns out that traffic lights make for really great lighting in selfies http://tmblr.co/Z07Tuk1wipEWt\\u00a0', 'stream_type': 'Twitter', 'id_str': '657560550105333762'}
+{'text': "DUBLIN: Traffic lights are out of action on St John's Rd West at the jcts of Military Rd and Steeven's Lane. Extra care is needed.", 'stream_type': 'Twitter', 'id_str': '659749656705048576'}
+{'text': 'OKC- Traffic signal is out at SH-74 (Portland Ave) and NW 164th due to an accident. Expect delays or seek an alternate route.', 'stream_type': 'Twitter', 'id_str': '651477914358317056'}
+{'text': 'In Winston Salem traffic lights out on many downtown streets. NC law says they must be treated as 4-way stop. #upwithFOX8', 'stream_type': 'Twitter', 'id_str': '649862428109373440'}
+{'text': 'Nothing worse than when someone clocks you singing your heart out at the traffic lights ', 'stream_type': 'Twitter', 'id_str': '658681594094465024'}
+{'text': 'Traffic lights out in #Austin on S Congress Ave at W Live Oak St #ATXtraffic http://bit.ly/10BGKax\\u00a0', 'stream_type': 'Twitter', 'id_str': '657694090964828160'}
+{'text': 'Traffic lights or roundabouts, which is preferred for the future of roadways? | @guardian http://gu.com/p/4d5zg/stw\\u00a0 pic.twitter.com/Km8pH8eAw8', 'stream_type': 'Twitter', 'id_str': '656168449043906560'}
+{'text': '@lucyallan by refusing a ban? Or does it not really matter as long as you can sort traffic lights out?', 'stream_type': 'Twitter', 'id_str': '654195748763004928'}
+{'text': '.@EWNTraffic @OUTsurance William Nicol and Comartie/Stirling traffic lights out', 'stream_type': 'Twitter', 'id_str': '658507477873467393'}
+{'text': 'Traffic lights are out at Central Ave. and Douglas Rd. Treat these intersections as 4-way stops. @NLangley13abc pic.twitter.com/G0BlEiSMv0', 'stream_type': 'Twitter', 'id_str': '659333624236404736'}
+{'text': 'About 20 minutes ago we heard the lights at Kings Wharf and Alderney Drive went out. Police have been directing traffic. #cbcns', 'stream_type': 'Twitter', 'id_str': '660185047681470464'}
+{'text': 'AM980 LEXUS OF #LdnOnt TRAFFIC: Lights are out at Adelaide and Sunningdale, expect delays and treat the intersection as a four-way stop.', 'stream_type': 'Twitter', 'id_str': '649895991034802176'}
+{'text': 'Traffic lights are out from Southdale line in #sttont all the way to Port on Hwy 4', 'stream_type': 'Twitter', 'id_str': '650336882874826752'}
+{'text': 'Traffic lights are out at the intersection of Dixie and Dundas. #Mississaugatraffic', 'stream_type': 'Twitter', 'id_str': '652304564721422337'}
+{'text': 'Bristol has too many traffic lights, too many cyclists who cycle on pavements & who disobey red lights. Sort it out @GeorgeFergusonx', 'stream_type': 'Twitter', 'id_str': '651425094795927554'}
+{'text': 'Traffic lights shattered. Shop windows blew out & scattered goods far and wide.   The Wabbit & the Sneeze on Wheels http://buff.ly/1NMhFGw\\u00a0', 'stream_type': 'Twitter', 'id_str': '655236556979118080'}
+{'text': 'Traffic lights out on Hwy 27 at Major Mackenzie and Nashville. No police on point duty. Hvy back up southbound @metromorning', 'stream_type': 'Twitter', 'id_str': '657171139878330368'}
+{'text': 'If you spot any of our temp traffic lights are stuck on red or a bulb is out, report it here so we can sort it out', 'stream_type': 'Twitter', 'id_str': '658946243964497924'}
+{'text': 'Bexley - traffic lights out bothways Forest Road at Croydon Road', 'stream_type': 'Twitter', 'id_str': '651628218676441088'}
+{'text': 'Please remember that when traffic lights are out, please treat intersection as a four-way stop. Stay safe!', 'stream_type': 'Twitter', 'id_str': '651060142109126656'}
+{'text': '#TRAFFICJAMS- Lights out at these #OroValley intersections. Watch for @OroValleyPD directing traffic there. pic.twitter.com/jXU5EH9O4U', 'stream_type': 'Twitter', 'id_str': '651763398363844610'}
+{'text': 'NSW - TRAFFIC LIGHTS BLACKED OUT Various areas \\nTAREN POINT Taren Point Rd at Holt Rd \\nWARILLA Shellharbour Rd at... http://fb.me/2jYaVcSbb\\u00a0', 'stream_type': 'Twitter', 'id_str': '652993133475598337'}
+{'text': 'Check out our first video! Lights, camera, action! The fight against traffic continues w/ more routes coming soon! https://goo.gl/nN2LLp\\u00a0', 'stream_type': 'Twitter', 'id_str': '655073559329398784'}
+{'text': "'Traffic lights are so dictatorial' ... but are roundabouts on the way out? http://trib.al/1NaMGqv\\u00a0", 'stream_type': 'Twitter', 'id_str': '656334207086690304'}
+{'text': 'But you can count on the #busdriver who got out to direct traffic #lightsout #busdriver saves the morning #png pic.twitter.com/XXpt8iNOM5', 'stream_type': 'Twitter', 'id_str': '659847630806126592'}
+{'text': "You know it's too early to be out when the traffic lights haven't even started working yet.", 'stream_type': 'Twitter', 'id_str': '649880227699490816'}
+{'text': 'NORFOLK: Traffic lights out outside of Gates 1 & 5 at JEB Little Creek-Fort Story, backups on Shore Dr near Independence & Little Creek!', 'stream_type': 'Twitter', 'id_str': '659319141988442112'}
+{'text': "I'm stuck in traffic on 35 and the car in front of me break lights are out so that's great", 'stream_type': 'Twitter', 'id_str': '656904499575939072'}
+{'text': 'Lights out in Zonnebloem at Tennant and Constitution Streets http://ewn.co.za/traffic/90918\\u00a0 #CPTTraffic', 'stream_type': 'Twitter', 'id_str': '656443776148328448'}
+{'text': 'Update: generators in place, providing temp power. RT @ArlingtonDES Traffic signal at Henderson Rd @ Rt 50 is temp out due to a power outage', 'stream_type': 'Twitter', 'id_str': '655097784304058369'}
+{'text': '@disifensham traffic lights still out on Witkoppen and Cedar roads in Fourways. Chaos!', 'stream_type': 'Twitter', 'id_str': '651764363376898049'}
+{'text': 'Scattered power outages with the biggest clusters about 1,500 near City Park and 900 in St. Roch. Expect traffic lights out', 'stream_type': 'Twitter', 'id_str': '658588269781893121'}
+{'text': 'Sitting at traffic lights beltin ma heart out to Hey Jude next thing the police pull up next to me and start laughing, no shame whatsoever', 'stream_type': 'Twitter', 'id_str': '656880350736556032'}
+{'text': 'Pretoria - RT @QueenNdlovu  @TrafficSA all traffic lights out of order at Fountains Circle - HEAVY TRAFFIC', 'stream_type': 'Twitter', 'id_str': '649814124210323456'}
+{'text': 'Traffic lights out in Valhalla Park at Valhalla Drive and Owen Road http://ewn.co.za/traffic/86848\\u00a0 #CPTTraffic', 'stream_type': 'Twitter', 'id_str': '654973087268675584'}
+{'text': 'Traffic lights out at Main Street entrance. Police directing traffic. Please use caution in the area.', 'stream_type': 'Twitter', 'id_str': '659706981578616832'}
+{'text': "@covtelegraph @coventrycc I'll soon be hitting Tollbar Island, I wonder if the traffic lights are still out?! #wishmeluck #deathtrap #havoc", 'stream_type': 'Twitter', 'id_str': '659778629543555072'}
+{'text': 'Traffic lights out of power at Cone Blvd. & N. Church St. in #Greensboro. Treat as a 4 way stop! @WFMY @GSO_Police pic.twitter.com/fhNOkeHdV3', 'stream_type': 'Twitter', 'id_str': '650274222330236928'}
+{'text': 'Electricity out, traffic jam as no lights working.  What a mess and I look up to this beautiful\\u2026 https://instagram.com/p/9Tg5vdKND9/\\u00a0', 'stream_type': 'Twitter', 'id_str': '658658126535761920'}
+{'text': '@CityofJoburgZA @CityPowerJhb \\nAll the traffic lights are out in Fourways causing chaos! @PigSpotter', 'stream_type': 'Twitter', 'id_str': '649519039560163328'}
+{'text': 'HEATHCOTE: Traffic lights are blacked out on #PrincesHwy at #HeathcoteRd due to a local power failure. Exercise caution.', 'stream_type': 'Twitter', 'id_str': '653418335460282369'}
+{'text': "The UK is moving away from roundabouts because they're tougher on cyclists, while the US finally embraces them. http://bit.ly/1RmbXJe\\u00a0", 'stream_type': 'Twitter', 'id_str': '656574609953857536'}
+{'text': '#cpttraffic #pointsmen have arrived at 15th & Strandfontein - all traffic lights out @KFMza', 'stream_type': 'Twitter', 'id_str': '649459091895644161'}
+{'text': "When half the traffic lights on route 43 on campus are out of power and people don't know how to drive \\ud83d\\ude43", 'stream_type': 'Twitter', 'id_str': '659349832725852160'}
+{'text': 'Traffic lights out in #OldTown on Central Ave Both EB/WB west of Lomas Blvd NW #traffic http://bit.ly/12qCSuC\\u00a0', 'stream_type': 'Twitter', 'id_str': '656598419440431105'}
+{'text': 'NSW - WETHERILL PARK The Horsley Dr\\nTRAFFIC LIGHTS BLACKED OUT Power failure\\nStarted today 3:51pm\\nAdvice: Reduce... http://fb.me/4XCUtU2cn\\u00a0', 'stream_type': 'Twitter', 'id_str': '650899218844925952'}
+{'text': 'Traffic lights out intersection of Church and Pakington streets, g west @VicRoads @geelongaddy', 'stream_type': 'Twitter', 'id_str': '651633323509329921'}
+{'text': 'WCHL & Chapelboro Retweeted Clendening Mom', 'stream_type': 'Twitter', 'id_str': '650022770051534848'}
+{'text': 'On College Street power is back. With traffic lights out, all of downtown #btv is one big City Market parking lot. pic.twitter.com/MBkNHGxcAV', 'stream_type': 'Twitter', 'id_str': '650385021170241538'}
+{'text': '@EWNTraffic Traffic Lights out: Lonehill, Main & Witkoppen. Main Rd backed up to Lonehill Blvd.', 'stream_type': 'Twitter', 'id_str': '651990189015965696'}
+{'text': "car ran out of gas (maybe actually just died idk) and now I'm holding up traffic on south ave also a cop is behind me w all his lights on", 'stream_type': 'Twitter', 'id_str': '660304677389606913'}
+{'text': 'Traffic lights out on College drive east of Preston Avenue. Treat intersections as 2-way/3-way/4-way. #YXE #yxeTraffic', 'stream_type': 'Twitter', 'id_str': '651846472854470656'}
+{'text': 'Everton Park - traffic lights out bothways Old Northern Road at Dargie St - CLEAR', 'stream_type': 'Twitter', 'id_str': '656253160114143232'}
+{'text': "LMAOOO this picture of me driving in Nigeria is so embarrassing. Bra it's like 2 stop signs or traffic lights out there. I was so scared ", 'stream_type': 'Twitter', 'id_str': '658794178797768704'}
+{'text': 'NSW - RUSHCUTTERS BAY Craigend St at Mclachlan Ave\\nTRAFFIC LIGHTS BLACKED OUT Repairs\\nStarted today 9:54pm... http://fb.me/24Kipxq21\\u00a0', 'stream_type': 'Twitter', 'id_str': '650626952282267648'}
+{'text': "If people actually merged to let people out, it wouldn't be such a dangerous place. Sadly, it's a requirement... http://fb.me/1Th6nD4ey\\u00a0", 'stream_type': 'Twitter', 'id_str': '659123850701967360'}
+{'text': 'Just witnessed someone turn their emergency lights on for literally 5 mins just to get out of traffic. ', 'stream_type': 'Twitter', 'id_str': '656096466147147776'}
+{'text': "The fact that there's still traffic on 75 from buckhead makes me want to punch my lights out like bye bye Tay", 'stream_type': 'Twitter', 'id_str': '654803513503911936'}
+{'text': 'Lights out in Belgravia at Belgravia Road and Repulse Road http://ewn.co.za/traffic/93598\\u00a0 #CPTTraffic', 'stream_type': 'Twitter', 'id_str': '657437823335845888'}
+{'text': 'Hume Hwy, Campbellfield - Traffic Alert, Traffic lights out at Barry Rd due to a fault. Slow down and\\u2026 http://bit.ly/1Rhfd9j\\u00a0 #victraffic', 'stream_type': 'Twitter', 'id_str': '649453645797265408'}
+{'text': '@joeimel lights out Nashville Rd and Dishman. Crews on site. 4 way stop. Traffic backing up.', 'stream_type': 'Twitter', 'id_str': '655750285260820485'}
+{'text': 'Multiple traffic lights out in Ephrata as well due to power outage. @LancasterSports @LancasterOnline pic.twitter.com/ORZSA2kvQg', 'stream_type': 'Twitter', 'id_str': '652607513376985088'}
+{'text': 'SGN carrying out gas works on A809 Drymen Road at Station Road, Bearsden, from 8am on Sat 31 Oct-6am on Mon 2 Nov. Temporary traffic lights.', 'stream_type': 'Twitter', 'id_str': '660120470059139072'}
+{'text': '@SmartCityBSP possibilities of road under bridge on agrasen square should be find out so that traffic becomes smooth and no traffic signal.', 'stream_type': 'Twitter', 'id_str': '651097676767825920'}
+{'text': 'Amber Gero Retweeted Markham Today', 'stream_type': 'Twitter', 'id_str': '659358020875501568'}
+{'text': 'Traffic lights out at Decatur & Pennwood & Edna. #flood #vegas #Storm @ktnv pic.twitter.com/qOXZg7fFwM', 'stream_type': 'Twitter', 'id_str': '651230077233991680'}
+{'text': 'I-15 NB is finally at speed from Point of the Mountain to the South Interchange. But Bangerter Hwy is a mess due to traffic lights out.', 'stream_type': 'Twitter', 'id_str': '654686615953014784'}
+{'text': '3 lots of traffic lights out on Topsail Road', 'stream_type': 'Twitter', 'id_str': '650663318265401344'}
+{'text': 'Inc: NCCO - RT 7 THE TRAFFIC LIGHTS ARE OUT FROM MILLTOWN RD TO SKYLINE DR ... http://deldot.gov/public.ejs?command=PublicTrafficIncidentDisplay&id=78060\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '650436251879907328'}
+{'text': 'The countdown thingy at the traffic lights for pedestrians slightly stresses me out.', 'stream_type': 'Twitter', 'id_str': '653922436845539328'}
+{'text': "Should we scrap every traffic light in Britain? http://www.dailymail.co.uk/news/article-3273391/Should-scrap-traffic-light-Britain-42-lights-one-Britain-s-complicated-junctions-fail-flow-improves-critics-call-signal-free-system.html\\u00a0\\u2026 < At least half. A41 around here runs better when they're out/down.", 'stream_type': 'Twitter', 'id_str': '654764461501231104'}
+{'text': 'The view pretty. The traffic ugly. Folks need stop lights inside & out. @ Lenox Mall ATL, GA https://instagram.com/p/8q15zpS3NZ/\\u00a0', 'stream_type': 'Twitter', 'id_str': '652934071656542208'}
+{'text': 'Power outage in the vicinity of St Norbert. Traffic lights out Grandmont & Pembina.', 'stream_type': 'Twitter', 'id_str': '653582172897480708'}
+{'text': 'A substitute driver had stopped at a traffic signal, unaware that part of her bus was hanging out over the tracks. pic.twitter.com/j9C0qYRrzE', 'stream_type': 'Twitter', 'id_str': '658317687878107137'}
+{'text': 'Traffic on Ben White/360 heading west backed up like crazy bad. Signal lights out on Cap of TX maybe?', 'stream_type': 'Twitter', 'id_str': '660080587240116225'}
+{'text': "Effing hate the traffic lights at Tesco Baguley it's like a suicide mission every time you come out. I just play... http://fb.me/3ZFuosNbL\\u00a0", 'stream_type': 'Twitter', 'id_str': '652849091219693568'}
+{'text': 'Retweeted City of Miami Beach  (@MiamiBeachNews):\\n\\nTraffic lights are out at 17 Street and Alton Road SB. @MiamiBeachPD on the scene', 'stream_type': 'Twitter', 'id_str': '659686950866030592'}
+{'text': 'The Guardian looks at traffic lights vs. roundabouts: \\n http://ow.ly/TU3zc\\u00a0', 'stream_type': 'Twitter', 'id_str': '659024886652882944'}
+{'text': "'Traffic lights are so dictatorial' ... but are roundabouts on the way out? http://gu.com/p/4d5zg/stw\\u00a0", 'stream_type': 'Twitter', 'id_str': '658711712644931584'}
+{'text': 'Nothing quite like belting out \\"and iiiiiii will always love you\\" when you\'re at the traffic lights and the man next you clapping  #killme', 'stream_type': 'Twitter', 'id_str': '654201452269842432'}
+{'text': 'Turns out several traffic lights defaulting to four way stops is pretty inconvenient in the morning', 'stream_type': 'Twitter', 'id_str': '653541325216854016'}
+{'text': "'Traffic lights are so dictatorial' ... but are roundabouts on the way out? http://bit.ly/1RkiZOt\\u00a0", 'stream_type': 'Twitter', 'id_str': '657810517025771520'}
+{'text': '#twittergong alert Marrickville - Illawarra Road at Warren Road: Traffic lights blacked out - Power failure', 'stream_type': 'Twitter', 'id_str': '650490481260892160'}
+{'text': 'Several traffic lights out on Hurstbourne Pkwy between I64 & Shelbyville Rd. #WHAS #Louisville pic.twitter.com/8g4usq8FaQ', 'stream_type': 'Twitter', 'id_str': '656608607786651648'}
+{'text': 'Traffic lights out in Bendigo CBD, Ironbark and Golden Square.', 'stream_type': 'Twitter', 'id_str': '651205833091452928'}
+{'text': 'Boundary junction traffic lights out in #Norwich and the traffic is flowing better than normal... #Win', 'stream_type': 'Twitter', 'id_str': '657521932968050688'}
+{'text': 'Traffic lights out at intersection of Vineyard & Punchbowl.HPD on scene #hitraffic pic.twitter.com/dYN8TdUgOv', 'stream_type': 'Twitter', 'id_str': '651795470075981826'}
+{'text': '#KYWTraffic Roxborough: Henry Av at Walnut La, lights totally out http://cbsloc.al/15Df9Od\\u00a0', 'stream_type': 'Twitter', 'id_str': '660083792787464193'}
+{'text': 'RT @MjMjh4\\n@London_Traffic lights out on highbury one block south of Fanshawe. Traffic backed up due to now four way stop', 'stream_type': 'Twitter', 'id_str': '654626146194092032'}
+{'text': 'Been advised traffic lights out by the Green Man in #Buckshaw Village. Further issues on A49 Wigan Road as well. pic.twitter.com/NpWlyZ4Nfy', 'stream_type': 'Twitter', 'id_str': '651780510423887872'}
+{'text': "RT PlymouthUKNews: Plymouth Herald commented 'Crazy' Plymouth traffic lights have gone out of sync, council... #Pl\\u2026 http://goo.gl/MdyiIs\\u00a0", 'stream_type': 'Twitter', 'id_str': '651610358889754624'}
+{'text': 'I love when people cut in-and-out of traffic with no signal. ', 'stream_type': 'Twitter', 'id_str': '654000204073566208'}
+{'text': 'HAZARD:\\nFinch Ave and Willowdale Ave\\n-Traffic lights are out\\n-Crews responding\\n-Until they are restored follow rules of the road\\n^dh', 'stream_type': 'Twitter', 'id_str': '654779620978356225'}
+{'text': 'Hey #Winnipeg! Avoid Notre dame/Isabel, lights are out and have been for a while! WPS is directing traffic but still moving slow!', 'stream_type': 'Twitter', 'id_str': '657259378886754304'}
+{'text': 'Bitch needs to figure out how the traffic lights work. Green means GO.', 'stream_type': 'Twitter', 'id_str': '657762087997829120'}
+{'text': 'Why is there a guy by the traffic lights in holmfirth making a dog out of sand', 'stream_type': 'Twitter', 'id_str': '657567345792151552'}
+{'text': 'Traffic Alert\\n\\nTraffic lights reported out on WLH.... http://fb.me/7LOj17SC5\\u00a0', 'stream_type': 'Twitter', 'id_str': '652616617092734976'}
+{'text': "ADVISORY: Traffic lights in Kea'au are out. Intersections near Kea'au Shopping Center and Kamehameha schools.", 'stream_type': 'Twitter', 'id_str': '653611439941361664'}
+{'text': '#LIGHTSOUT: Traffic lights out at Oracle/Rancho Vistoso & Oracle/Tangerine in #OroValley. Treat as 4-way stop. pic.twitter.com/iesFZX3dtb', 'stream_type': 'Twitter', 'id_str': '651761418925027329'}
+{'text': 'Vancouver - bothways Main St at Keefer St. traffic lights out', 'stream_type': 'Twitter', 'id_str': '656185212016136193'}
+{'text': 'Traffic lights are out at the intersection of Skibo and Yadkin Rd. Officers are directing traffic and motorists should use caution.', 'stream_type': 'Twitter', 'id_str': '650301290854133760'}
+{'text': 'Sydney Traffic TRAFFIC LIGHTS BLACKED OUT - CAMDEN Old Hume Hwy at Camden By-pass #sydtraffic #trafficnetwork', 'stream_type': 'Twitter', 'id_str': '650110530556788736'}
+{'text': 'Sydney Traffic TRAFFIC LIGHTS BLACKED OUT - DUNDAS Park Rd at Calder Rd #sydtraffic #trafficnetwork', 'stream_type': 'Twitter', 'id_str': '656253757290713088'}
+{'text': 'absolutely jammin out at the traffic lights to yonce, turn around and the guy next to me is pissing himself hahhaha #noshame', 'stream_type': 'Twitter', 'id_str': '659852171870105600'}
+{'text': 'TRAFFIC NOTE: Numerous intersections between McGee/Balmoral & Ellice/Notre Dame may have traffic lights out for 2-3 hrs. Please use caution.', 'stream_type': 'Twitter', 'id_str': '653666268738940928'}
+{'text': 'Matty Retweeted ', 'stream_type': 'Twitter', 'id_str': '651822197225336832'}
+{'text': '@cardiffcouncil manor way crossroads - traffic lights are out!', 'stream_type': 'Twitter', 'id_str': '651860306172448768'}
+{'text': 'Traffic lights are out on S. college as of 3:19 p.m. #HurricaneJoaquin #wilmingtonnc @WWAY pic.twitter.com/EQEXSHD7mU', 'stream_type': 'Twitter', 'id_str': '650752476744970240'}
+{'text': 'Thought a military jet was flying over just then, turns out it was 16 motorbikes stopped at the traffic lights.', 'stream_type': 'Twitter', 'id_str': '652199334491082752'}
+{'text': 'Kingston - traffic lights out bothways Kingston Road at Clare Road - CLEAR', 'stream_type': 'Twitter', 'id_str': '651556857773867008'}
+{'text': 'DUBLIN: The traffic lights at the jct of Clontarf Rd and Bull Wall are out of action this afternoon. http://theAA.ie/Roadwatch\\u00a0', 'stream_type': 'Twitter', 'id_str': '656109175513161728'}
+{'text': '@wxbrad tree down on powerlines in front of Charlotte Christian school on Sardis Road.  Several traffic lights out on Sardis Road.', 'stream_type': 'Twitter', 'id_str': '650733066395082752'}
+{'text': 'Are roundabouts on the way out? - http://www.theguardian.com/cities/2015/oct/19/traffic-lights-roundabouts-way-out\\u00a0\\u2026 via @guardiancities pic.twitter.com/Nmlwxhv0Kh', 'stream_type': 'Twitter', 'id_str': '656101000768393217'}
+{'text': 'Traffic lights out in #Bernalillo on Candelaria Rd Both EB/WB from 2nd St to 12th St #traffic http://bit.ly/12qCSuC\\u00a0', 'stream_type': 'Twitter', 'id_str': '651410768638816256'}
+{'text': '@TheABD it is always the same when the lights go out; traffic flow improves & drivers proceed safely through potential hazards', 'stream_type': 'Twitter', 'id_str': '651660077011705856'}
+{'text': "There's a lot of beauty and whimsy in the world. Just squint your eyes to make fireworks out of traffic lights, sillybilly.", 'stream_type': 'Twitter', 'id_str': '653033137279270912'}
+{'text': '@pompomtom You just reminded me that I called it last night: traffic lights out at Camberwell Junction, police waving rave sticks. Obv heat', 'stream_type': 'Twitter', 'id_str': '650985228924686336'}
+{'text': '@CtrafficUK morning the traffic lights at toll bar roundabout in Coventry are out. Have a safe day #Tweetusdontmeetus', 'stream_type': 'Twitter', 'id_str': '659624554634092544'}
+{'text': 'Van with creepy cat calling men stopped at the traffic lights and stuck their arms out the window whistling at me VILE', 'stream_type': 'Twitter', 'id_str': '654596272997990400'}
+{'text': 'The Traffic Lights are out at the intersection of Nelson St and Cook St. Please take extra care and follow give-way rules. ^LC', 'stream_type': 'Twitter', 'id_str': '651234795998048256'}
+{'text': '@rowan_county_wx @DukeEnergy Do you know if traffic lights at Jake Alexander and Julian Rd are still out?', 'stream_type': 'Twitter', 'id_str': '649893505364574208'}
+{'text': "popwer outage in an area roughly islington to royal york, bloor to burnamthorpe. remember- if traffic lights  are out it's a four way stop!", 'stream_type': 'Twitter', 'id_str': '659711808773750784'}
+{'text': 'Ashfield - traffic lights out bothways Liverpool Road at Milton Street', 'stream_type': 'Twitter', 'id_str': '656344306395930625'}
+{'text': '@MayorofLondon in the age of #IOT how can so many traffic lights be out in West London?', 'stream_type': 'Twitter', 'id_str': '651823116344291328'}
+{'text': 'Surrey - bothways 160 St at 100 Ave traffic lights out - CLEAR', 'stream_type': 'Twitter', 'id_str': '654049337077538816'}
+{'text': "@JessiDreamer17 No it probably wasn't me unless you were hanging out near broken traffic lights or at the tattoo shop", 'stream_type': 'Twitter', 'id_str': '654099319839195136'}
+{'text': 'Plymouth anger as traffic lights put out of sync - BBC News http://buff.ly/1ZfeIld\\u00a0', 'stream_type': 'Twitter', 'id_str': '652039746160586753'}
+{'text': 'A few traffic lights out on hwy 72 in Killen. Also one on Coxs Creek Parkway in http://Florence.Drive\\u00a0 carefully through the area. @whnt', 'stream_type': 'Twitter', 'id_str': '658738520798924800'}
+{'text': 'The traffic lights are out on the #Formby Bypass at Tesco junction. Please be careful @MerPolFormby @seftoncouncil pic.twitter.com/9RYOgD0Wj8', 'stream_type': 'Twitter', 'id_str': '649589392697348096'}
+{'text': 'Melanie Hunter Retweeted Jeff Beamish', 'stream_type': 'Twitter', 'id_str': '656807611832991744'}
+{'text': "Should we scrap every traffic light in Britain? http://www.dailymail.co.uk/news/article-3273391/Should-scrap-traffic-light-Britain-42-lights-one-Britain-s-complicated-junctions-fail-flow-improves-critics-call-signal-free-system.html\\u00a0\\u2026 < At least half. A41 around here runs better when they're out/down.", 'stream_type': 'Twitter', 'id_str': '654764461501231104'}
+{'text': 'Traffic lights out at Bowling Avenue in Sunninghill - #JHB (Via @MyAATraffic). Use an alternate route to avoid delays.', 'stream_type': 'Twitter', 'id_str': '651667041028583425'}
+{'text': 'MIRANDA: Traffic lights are blacked out at #PresidentAve and Sylvania Rd, along with three other nearby intersections. Local power failure.', 'stream_type': 'Twitter', 'id_str': '656392647632953344'}
+{'text': 'Epping - traffic lights out bothways Midson Road at Carlingford Rd', 'stream_type': 'Twitter', 'id_str': '656964481126264832'}
+{'text': '#CPTTraffic traffic lights out in Goodwood at Giel Basson and the N1', 'stream_type': 'Twitter', 'id_str': '651990565425389568'}
+{'text': '@cjocfm @RyanMennie Staff have been on site to check this out and report traffic lights are operating.', 'stream_type': 'Twitter', 'id_str': '654057031586856960'}
+{'text': '#LIGHTSOUT: Traffic lights out at Broadway/Pantano on the east side. Treat as 4-way stop or take Speedway/Kolb. pic.twitter.com/aUXaNHsCci', 'stream_type': 'Twitter', 'id_str': '659030205864869888'}
+{'text': "Traffic lights going out is single handedly my biggest fear and I'm panicking", 'stream_type': 'Twitter', 'id_str': '659098817313161216'}
+{'text': 'Traffic lights out William Nicol & N1, Fourways. HEAVY delays! Please assist @MyJRA @TrafficFreeflow @DavidCOJ102 - @EWNTraffic @KayaTraffic', 'stream_type': 'Twitter', 'id_str': '657522017151930370'}
+{'text': 'about 1hr ago traffic lights out at hwy7/emilyparkrd . ppl treating as 4way not sure if theyare back on. @kawarthalakes', 'stream_type': 'Twitter', 'id_str': '654755878898282500'}
+{'text': 'Looks like @MLGW has restored power out in Cordova.  Still be careful as the traffic lights come back up.', 'stream_type': 'Twitter', 'id_str': '652538757950869504'}
+{'text': 'Learned a new \\"technical\\" term today - SMIDSY... as in an accident caused by \\"Sorry mate, I didn\'t see you!\\"\\nhttp://www.theguardian.com/cities/2015/oct/19/traffic-lights-roundabouts-way-out\\u00a0\\u2026', 'stream_type': 'Twitter', 'id_str': '656555499823853568'}
+{'text': 'Box Hill - traffic lights out bothways Whitehorse Rd at Nelson Road - CLEAR', 'stream_type': 'Twitter', 'id_str': '657267128777572352'}
+{'text': "A4 Talgarth Rd at N End Rd - Traffic lights out. A4 W'bnd Qs frm Knightsbridge, E'bnd frm Hammersmith + on North End Rd to Fulham B'way", 'stream_type': 'Twitter', 'id_str': '651061558290857985'}
+{'text': "Worcester main @ Cambridge st all traffic lights out major traffic  backed up to Webster square.  Police advise it's a mess", 'stream_type': 'Twitter', 'id_str': '652207970164568064'}
+{'text': "A4 Talgarth Rd j/w North End Rd- traffic lights are not working (all-out). Q's remain from Warwick Rd w/bound and Hammersmith Flyover e/b.", 'stream_type': 'Twitter', 'id_str': '650316680384671744'}
+{'text': 'Watch out, broken down Uno bus nr mile house traffic lights on London Road, Traffic moving fine though.....', 'stream_type': 'Twitter', 'id_str': '653991905706004480'}
+{'text': 'Traffic lights reportedly out at 41st and Kiwanis.', 'stream_type': 'Twitter', 'id_str': '659433774527201286'}
+{'text': '@PigSpotter William Nicol and N1 interchange - traffic lights out. No pointsmen', 'stream_type': 'Twitter', 'id_str': '653791390183329792'}
+{'text': 'Temporary traffic lights out junction of Cardigan Rd/Victoria Rd, Leeds - causing disruptions and queues.', 'stream_type': 'Twitter', 'id_str': '659081193795801088'}
+{'text': 'TRAVEL: Reports that the traffic lights are still out at the Boundary junction', 'stream_type': 'Twitter', 'id_str': '658548640718393344'}
+{'text': '@PigSpotter Traffic lights out at William Nicolas and Mattie Ave, extra lane used by taxi. pic.twitter.com/hZcjpxKXLx', 'stream_type': 'Twitter', 'id_str': '656096485663207425'}
+{'text': 'HPD says traffic lights are out near Halawa District Park/ Ulune St. Drive with caution #hitraffic', 'stream_type': 'Twitter', 'id_str': '656131134015692800'}
+{'text': '35 minutes to get from Worcester to holt fleet all because of some pissing traffic lights  #worcestertraffic sort it out ', 'stream_type': 'Twitter', 'id_str': '656510515531915264'}
+{'text': "Many traffic lights are out in #Sudbury. Avoid driving if you can. It's a nightmare.", 'stream_type': 'Twitter', 'id_str': '654726288159014912'}
+{'text': 'How come they have not figured out that until now? no traffic lights needed,so simple,yet not obvious http://fb.me/7wv6f1OFM\\u00a0', 'stream_type': 'Twitter', 'id_str': '650390741550780416'}
+{'text': 'Traffic lights out on Brachman Ave at Beechmont Ave. Watch for delays @Local12', 'stream_type': 'Twitter', 'id_str': '656795596087537664'}
+{'text': "You know what stresses me out? people who stand at traffic lights, at a busy road, and don't press the button... Wtf", 'stream_type': 'Twitter', 'id_str': '650940632400285696'}
+{'text': 'Traffic lights out throughout midtown. @whatsuptucson', 'stream_type': 'Twitter', 'id_str': '656819745174360064'}
+{'text': 'RT @LeedsTravelInfo: Traffic Lights All Out at the junction where the A639 Leeds Road meets with First Avenue and Styebank Lane in Rothwell.', 'stream_type': 'Twitter', 'id_str': '654981774565580800'}
+{'text': 'AVOID 41st Ave @ Clares, Signal Lights Out Traffic Congestion,  Collision from Capitola Police Department : Nixle https://shar.es/1u4AJp\\u00a0', 'stream_type': 'Twitter', 'id_str': '655130864741777408'}
+{'text': 'Check out Light Up One Way Sign Traffic Signal Game Room Man Cave Billiard Pool White Wall  http://www.ebay.com/itm/Light-Up-One-Way-Sign-Traffic-Signal-Game-Room-Man-Cave-Billiard-Pool-White-Wall-/161856046063?roken=cUgayN&soutkn=kbjuXn\\u00a0\\u2026 via @eBay', 'stream_type': 'Twitter', 'id_str': '653661301944754176'}
+{'text': 'TRAFFIC ALERT: Traffic lights out in area of Legion Rd, Camden Rd Natal Rd because of power failure, says @FAYPWC', 'stream_type': 'Twitter', 'id_str': '650381057355722752'}
+{'text': 'Traffic lights still out Pierre Koneig with gans out early  traffic mess and backed up in Talpiot.', 'stream_type': 'Twitter', 'id_str': '653162893677080576'}
+{'text': '#JHBTraffic. Traffic lights are out at William Nicol and Sloane \\u2013 delays on William Nicol Drive between Main Road and the N1 exit.', 'stream_type': 'Twitter', 'id_str': '659356700122722304'}
+{'text': 'The traffic lights in Claregalway seem to be out of sync. Going green from 18 Direction and coming from Galway at the same time.', 'stream_type': 'Twitter', 'id_str': '660186507110690816'}
+{'text': 'Traffic lights out: on the offramp to Blackfoot Trail from EB Glenmore Trail SE - backing up NB Blackfoot & EB Glenmore: use 4-way stop #yyc', 'stream_type': 'Twitter', 'id_str': '649952134667051009'}
+{'text': 'Traffic lights out. St James & Portage.', 'stream_type': 'Twitter', 'id_str': '653597621315985408'}
+{'text': 'From @NorfolkRecovery: Traffic lights are out at the Boundary junction #Norwich http://fb.me/7MTRP7bev\\u00a0', 'stream_type': 'Twitter', 'id_str': '658194515245858816'}
+{'text': 'Use care driving in areas of North Avenue+North Main Street in Anderson. Tree down, some power outages& traffic lights out @independentmail', 'stream_type': 'Twitter', 'id_str': '651456704266145793'}
+{'text': 'From SONiC-Girl Mandy \\"Traffic lights are out at 118 and 75th/Gretzky.\\"\\n\\n#yegtraffic', 'stream_type': 'Twitter', 'id_str': '652573942591434752'}
+{'text': 'Truck comes careening around the corner. Two big steel girders fly off, taking out the traffic lights.', 'stream_type': 'Twitter', 'id_str': '651960329866313728'}
+{'text': 'St Marys - traffic lights out bothways Forrester Road at Glossop Street North', 'stream_type': 'Twitter', 'id_str': '654562778645008384'}
+{'text': 'All the traffic lights on 25 are out ', 'stream_type': 'Twitter', 'id_str': '653962080534548480'}
+{'text': '#JHBTraffic. In Victory Park traffic lights are out at Barry Hertzog and Tana \\u2013 delays on Barry Hertzog North from Greenhill Road', 'stream_type': 'Twitter', 'id_str': '654673525039431680'}
+{'text': 'Artarmon - traffic lights out bothways Abbott Road at Jersey Road', 'stream_type': 'Twitter', 'id_str': '656941197194215424'}
+{'text': 'Traffic lights out in Oranjezicht at Camp Road and Hof Street http://ewn.co.za/traffic/89417\\u00a0 #CPTTraffic', 'stream_type': 'Twitter', 'id_str': '655984115624321024'}
+{'text': 'We should trust drivers and phase out traffic lights http://www.thetimes.co.uk/tto/opinion/thunderer/article4580537.ece\\u00a0\\u2026 via @thetimes', 'stream_type': 'Twitter', 'id_str': '652423185632219136'}
+{'text': 'Aberdeen - traffic lights are out of action on A944 Westburn Road at A978 Argyll Place. Take care precious ones. T.T.', 'stream_type': 'Twitter', 'id_str': '651632291228315648'}
+{'text': "Traffic lights remain out on the A4 at North End Rd near West Kensington station. Inbound Q's to Hammersmith. Engineer and police on scene.", 'stream_type': 'Twitter', 'id_str': '649588344444317696'}
+{'text': 'Signal & power outages continue in #Malibu due to wind. @CHPSouthern is posting which traffic signals R out. Deputies are directing traffic', 'stream_type': 'Twitter', 'id_str': '660186178969317376'}
+{'text': 'The traffic lights are out of action at the Shore in #Leith beside the Granary but engineers are currently working on them :) #edintravel', 'stream_type': 'Twitter', 'id_str': '654616244411334660'}
+{'text': 'Riverton Drivers!  Traffic lights out due to crash & power outage along Bangerter Hwy btwn I-15 & 2700 West. pic.twitter.com/6ON4VT2EbK', 'stream_type': 'Twitter', 'id_str': '656963040768757764'}
+{'text': '#A4 Talgarth Road in West Kensington, traffic lights are out at the junction with North End Road.', 'stream_type': 'Twitter', 'id_str': '650305566968037376'}
+{'text': 'Traffic lights out in Bellville at Uys Krige Drive and Lincoln Street http://ewn.co.za/traffic/99158\\u00a0 #CPTTraffic', 'stream_type': 'Twitter', 'id_str': '659733161446871041'}
+{'text': '@BBCTravelAlert @metpoliceuk traffic lights out A4-North End Rd.', 'stream_type': 'Twitter', 'id_str': '649554732638408704'}
+{'text': 'All the traffic lights are out on Polaris, how does that happen', 'stream_type': 'Twitter', 'id_str': '650336769859264512'}
+{'text': "It's been 101 years since the first traffic signal was used and Indians still haven't figured out which color means what.", 'stream_type': 'Twitter', 'id_str': '657437506384863232'}
+{'text': 'Cars halt at red traffic lights & I step out nearly colliding with cyclist who mutters abuse as he sails across junction. Class.', 'stream_type': 'Twitter', 'id_str': '654633594502148096'}
+{'text': "It's all fun and games singing your heart out to Justin Biebs til the men in the van at the traffic lights are watching & laughing ", 'stream_type': 'Twitter', 'id_str': '658703006897172481'}
+{'text': '#PTATraffic: Traffic lights out on the corner of Marais and R55 in Centurion. Heavy peak time delays.', 'stream_type': 'Twitter', 'id_str': '651975141816180736'}
+{'text': 'U  stop at the traffic lights, out of nowhere a guy just comes and start spraying your windscreen and start wiping it , I was so pissed off', 'stream_type': 'Twitter', 'id_str': '651379426802966528'}
+{'text': '@TrafficSA are the traffic lights still out at William Nicol and N1 ramp????', 'stream_type': 'Twitter', 'id_str': '653555833784152064'}
+{'text': 'Traffic lights are currently out at the corner of McNeese and Common streets, avoid the area. http://shout.lt/bf47r\\u00a0', 'stream_type': 'Twitter', 'id_str': '655420603432878080'}
+{'text': 'The traffic signal at Henderson Rd at Rt 50 is temporarily out of service due to a power outage. County crews are working on restoration.', 'stream_type': 'Twitter', 'id_str': '655090386172563456'}
+{'text': '@WCHLChapelboro traffic lights out at MLK and Piney Mt and Estes', 'stream_type': 'Twitter', 'id_str': '650022480359366657'}
+{'text': 'was shouting \\"COAT\\" out the car window at ppl wearing coats, did it to a kid at traffic lights n he goes \\"ITS LUNAR C\\" n took a pic of me HA', 'stream_type': 'Twitter', 'id_str': '651821043879964672'}
+{'text': '@MyWakefield need someone to come sort temp lights out on the A638. absolute nightmare. 20 mins in traffic', 'stream_type': 'Twitter', 'id_str': '649878060444045312'}
+{'text': 'Traffic lights out both ways at D F Malherbe Avenue  - Bloemfontein #FS (Via @MyAATraffic). Use an alternate route to avoid delays.', 'stream_type': 'Twitter', 'id_str': '658556551892963328'}
+{'text': 'Traffic signal out at Coral Cyn and PCH. Expect delays this morning', 'stream_type': 'Twitter', 'id_str': '651750768307892224'}
+{'text': '..1841 BST also street lights have gone out, though interestingly enough, traffic light sequence still operating on Preston Rd side.', 'stream_type': 'Twitter', 'id_str': '656889909463138304'}
+{'text': 'HEADS UP: Traffic lights on #SH1 in Levin are currently out due to a power outage. Take extra care ^NA', 'stream_type': 'Twitter', 'id_str': '651844102825332736'}
+{'text': '#JHBTrafficlights Please note that the following traffic lights are out #JHBTraffic ^NB pic.twitter.com/aEvusBwkbT', 'stream_type': 'Twitter', 'id_str': '656707097397035008'}
+{'text': 'Is the power out in your area or have you seen traffic lights down? Let us know #Bendigo http://bit.ly/1VA1gJl\\u00a0 pic.twitter.com/046NkLbhUT', 'stream_type': 'Twitter', 'id_str': '651214681701416960'}
+{'text': 'Hearing that the traffic lights are out in Kitchener at the intersection of Fischer Hallman at Westmount/Max Becker. Use caution.', 'stream_type': 'Twitter', 'id_str': '653897603868966912'}
+{'text': 'Traffic Lights out in Zonnebloem at Tennant and Constitution Streets http://ewn.co.za/traffic/90918\\u00a0 #CPTTraffic', 'stream_type': 'Twitter', 'id_str': '656460556354920448'}
+{'text': 'NSW - MARRICKVILLE Illawarra Rd at Warren Rd\\nTRAFFIC LIGHTS BLACKED OUT Power failure\\nStarted today 12:39pm, last... http://fb.me/457UpYucJ\\u00a0', 'stream_type': 'Twitter', 'id_str': '650503862290288640'}
+{'text': 'When all the traffic lights are out nobody knows when to fucking go.', 'stream_type': 'Twitter', 'id_str': '660240891622232064'}
+{'text': 'Traffic lights out on #NewbridgeRoundabour and no queues! @trafficscotland', 'stream_type': 'Twitter', 'id_str': '656031835458260994'}
+{'text': "Anybody who's planning on going to Polaris FYI all of the traffic lights are out and power is out in a lot of places", 'stream_type': 'Twitter', 'id_str': '650343249387892736'}
+{'text': 'Back to the future week - Is the UK phasing out roundabouts for traffic lights? http://goo.gl/dkNxO9\\u00a0', 'stream_type': 'Twitter', 'id_str': '656225439044751360'}
+{'text': 'Queen St, Melbourne - Traffic Alert, Traffic lights out at Lonsdale St due to a fault. Technician on\\u2026 http://bit.ly/1LYpqTe\\u00a0 #victraffic', 'stream_type': 'Twitter', 'id_str': '655928199281422336'}
+{'text': 'MT @fairfaxpolice: Officers directing traffic at Rt 50\\u00a0& Lee Road. Lights out through the afternoon. pic.twitter.com/C3dtrW3sen', 'stream_type': 'Twitter', 'id_str': '656476397024755716'}
+{'text': 'Traffic signal is out at PCH & Coastline, not Topanga. Deputies are directing traffic. Expect delays http://dlvr.it/CbrDPH\\u00a0', 'stream_type': 'Twitter', 'id_str': '660137476183355394'}
+{'text': 'Traffic lights are OUT on 360 NB at Mopac and that is causing extensive delays on 360 and Ben White #ATXTraffic', 'stream_type': 'Twitter', 'id_str': '658633493950296064'}
+{'text': 'BX93 Traffic for Westervelt College : Another traffic text \\"Lights out at Col. Talbot and Warncliffe and accident... http://fb.me/7p2LUygOQ\\u00a0', 'stream_type': 'Twitter', 'id_str': '659454446204813313'}
+{'text': 'Who is in charge of JHB traffic? Lights out on key routes, no JMPD?!', 'stream_type': 'Twitter', 'id_str': '654355970911535104'}
+{'text': 'No wind, now lightning...wth are traffic lights out on 61?', 'stream_type': 'Twitter', 'id_str': '650377620882853889'}
+{'text': "Traffic lights are out at Vernor and Chene. Be careful y'all.", 'stream_type': 'Twitter', 'id_str': '650136184102985729'}
+{'text': 'Made eye contact with a girl while singing my heart out at some traffic lights, so decided to sing the rest of the song to her. She loved it', 'stream_type': 'Twitter', 'id_str': '649974502105948160'}
+{'text': 'Grays Inn Rd/York Way - traffic lights remain out of order. No entry to York Way from Grays Inn Rd for safety. Engineer dealing @ASAPBus', 'stream_type': 'Twitter', 'id_str': '653176911686955008'}
+{'text': '@RMS Hi the traffic lights are out - flashing orange - at the corner of Ocean & Trelawney Sts in Woollahra. Could you please send someone?', 'stream_type': 'Twitter', 'id_str': '649374358775820289'}
+{'text': 'Power cut up by Summerhall / Meadows. Traffic lights out. Traffic all way round Meadows too. #edintravel pic.twitter.com/wolWa3q56D', 'stream_type': 'Twitter', 'id_str': '659055856634449920'}

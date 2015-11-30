@@ -1,0 +1,20 @@
+import os
+import json
+
+rootdir = '/home/ameya/twitter_bridge_collapse_2015'
+
+'for subdir, dirs, files in os.walk(rootdir):
+    for file in files:
+        print os.path.join(subdir, file)
+
+        
+'''with open('data.txt','r') as f:
+	lines = f.readlines()
+	lines = json.loads(lines)
+	print lines
+
+	with open(lines,'r') as d_file:
+		file_name = d_file.readlines()
+		file_name = json.loads(file_name)
+		with open(output.txt, 'w') as x:
+			print file_name'''
