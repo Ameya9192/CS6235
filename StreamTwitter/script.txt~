@@ -1,7 +1,0 @@
-To iterate through subdirectories and concatenate all text files:
-
-find . -type f -exec cat {} \; > out.txt
-
-
-To shuffle lines in a text file:
-shuf example.txt --output=example.txt
