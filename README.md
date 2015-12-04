@@ -27,7 +27,9 @@ The keywords used for Twitter Search are:
 -- Gas Leaks: 'gas leak', 'gas line'
 
 
-Please follow the steps below:
+Steps to be followed:
+
+***Folder name: StreamTwitter***
 
 -- Modify twitterGapDownload.py and twitterGapParse.py using the appropriate keywords
 
