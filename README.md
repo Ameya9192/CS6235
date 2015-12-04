@@ -1,6 +1,9 @@
 ***ReadMe***
 
-This is the repository for the CS 6235 Class Project- LITMUS for Public Infrastructure Damage.
+This is the repository for 
+***CS 6235 Class Project- LITMUS for Public Infrastructure Damage***
+***Team members: Ameya Ghadi and David Benas***
+
 The damages/failures we have looked at, are:
 
 1) Highway Damages
@@ -14,7 +17,7 @@ The damages/failures we have looked at, are:
 5) Gas Leaks
 
 
-The keywords used for Twitter Search are:
+The ***keywords*** used for Twitter Search are:
 
 -- Highway Damages: 'highway damaged', 'highway accident', 'highway closed', 'highway mud', 'highway blocked', 'highway pothole', 'highway snow', 'highway gridlock'
 
