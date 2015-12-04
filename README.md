@@ -46,14 +46,14 @@ The ***keywords*** used for Twitter Search are:
 
 -- Run tweetToJSON.py with "infrastructure_failures.txt"  and save its output to infrastructure_JSON.txt to get the data in the required format. Refer sample_test.txt for the required format. Now divide the text file into two files- sample_test.txt and sample_train.txt (1:1 ratio)
 
-
+***Folder name: Geocoding***
 
 -- Run geoNLP.java using sample_test.txt and sample_train.txt as input files. The output of this stage will be sample_test_nlp.txt and sample_train_nlp.txt. Run geocode.py on sample_train/test_nlp.txt files after adding your Google Maps Geocode API key in geocode.py. The output of this stage will be "sample_train/test_geo.txt"
 
 
 ***For grouping together tweets and calculating weight of each cell***
 
-***Folder name: JSON_Formatting***
+***Folder name: Annotation***
 
 --- Run textID.py and save its output to infrastructureTextID.txt. This file will have the tweet text and the corresponding tweet id
 
