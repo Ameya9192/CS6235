@@ -40,7 +40,7 @@ Please follow the steps below:
 -- Run geoNLP.java using sample_test.txt and sample_train.txt as input files. The output of this stage will be sample_test_nlp.txt and sample_train_nlp.txt. Run geocode.py on sample_train/test_nlp.txt files after adding your Google Maps Geocode API key in geocode.py. The output of this stage will be "sample_train/test_geo.txt"
 
 
-*** For grouping together tweets and calculating weight of each cell:***
+*** For grouping together tweets and calculating weight of each cell ***
 
 --- Run textID.py with infrastructure_JSON.txt and save its output to infrastructureTextID.txt. This file will have the tweet text and the corresponding tweet id
 
