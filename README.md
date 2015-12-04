@@ -39,7 +39,7 @@ The ***keywords*** used for Twitter Search are:
 
 -- Run twitterGapDownload.py and save the result HTML file in folder TwitterGap
 
--- Run twitterGapParse.py on all keywords related to a particular event- say Bridge Failures. Combine all the text files into a single text file. The name of this file should be "infrastructure_failures.txt", where infrastructure can be "bridge", "gas", "highway", "power", "traffic_lights". The shell scripts to concatenate the data in all folders, subdirectories is given in script.txt
+-- Run twitterGapParse.py on all keywords related to a particular event- say Bridge Failures. Combine all the text files into a single text file. The name of this file should be "infrastructure_failures.txt", where infrastructure can be "bridge", "gas", "highway", "power", "traffic_lights". The shell script to concatenate the data in all folders, subdirectories is given in script.txt
 
 
 ***Folder name: JSON_Formatting***
