@@ -41,4 +41,8 @@ Please follow the steps below:
 
 -- Run labeling.py on "sample_train/test_geo.txt" and save its output to sample_train/test_templab.txt. In sample_train/test_templab.txt, manually label '1' if relevant or '0' if otherwise, at end of each cell. Add a tab not a space after ']'
 
--- Run annotation.py on sample_train/test_templab.txt and save its output to "sample_train/test_labels.txt"
+*** For calculating weight of each cell:***
+
+--- Run textID.py with infrastructure_JSON.txt and save its output to infrastructureTextID.txt. This file will have the tweet text and the corresponding tweet id
+
+--- Run labeling.py using sample_train/test_geo.txt and corresponding infrastructureTextID.txt and save its output to infrastructure_label.txt
