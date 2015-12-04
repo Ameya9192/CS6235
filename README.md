@@ -42,6 +42,6 @@ Please follow the steps below:
 
 *** For grouping together tweets and calculating weight of each cell ***
 
---- Run textID.py with infrastructure_JSON.txt and save its output to infrastructureTextID.txt. This file will have the tweet text and the corresponding tweet id
+--- Run textID.py and save its output to infrastructureTextID.txt. This file will have the tweet text and the corresponding tweet id
 
 --- Run labeling.py using sample_train/test_geo.txt and corresponding infrastructureTextID.txt and save its output to infrastructure_label.txt
