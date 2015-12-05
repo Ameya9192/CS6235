@@ -1,6 +1,6 @@
 ***ReadMe***
 
-This is the repository for 
+This is the ***code repository*** for 
 ***CS 6235 Class Project- LITMUS for Public Infrastructure Damage***
 
 ***Team members: Ameya Ghadi and David Benas***
