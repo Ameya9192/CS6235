@@ -55,7 +55,7 @@ The ***keywords*** used for Twitter Search are:
 
 ***Folder name: Annotation***
 
---- Run textID.py. The input of this stage is  and save its output to infrastructureTextID.txt. This file will have the tweet text and the corresponding tweet id
+--- Run textID.py. The input of this stage is infrastructure_JSON.txt, where infrastructure can be "bridge", "gas", "highway", "power", "traffic_lights". Save its output to infrastructureTextID.txt. This file will have the tweet text and the corresponding tweet id
 
 --- Run labeling.py. The input of this stage is sample_train-OR-test_geo.txt and corresponding infrastructureTextID.txt. The output should be written to infrastructure_train-OR-test_label.txt. The last column in infrastructure_train-OR-test_label.txt will be an indication of the intensity of the event, since the tweets mapped to the cell are higher, some of them could also possibly contain the keywords related to human casualties.
 
