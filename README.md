@@ -48,7 +48,7 @@ The ***keywords*** used for Twitter Search are:
 
 ***Folder name: Geocoding***
 
--- Run geoNLP.java. The input of this stage is sample_test.txt and sample_train.txt as input files. The output of this stage will be sample_test_nlp.txt and sample_train_nlp.txt. Run geocode.py on sample_train/test_nlp.txt files after adding your Google Maps Geocode API key in geocode.py. The output of this stage will be "sample_train/test_geo.txt"
+-- Run geoNLP.java. The input of this stage is sample_test.txt and sample_train.txt as input files. The output of this stage will be sample_test_nlp.txt and sample_train_nlp.txt. Run geocode.py on sample_train-OR-test_nlp.txt files after adding your Google Maps Geocode API key in geocode.py. The output of this stage will be "sample_train-OR-test_geo.txt"
 
 
 ***For grouping together tweets and calculating weight of each cell***
@@ -57,7 +57,7 @@ The ***keywords*** used for Twitter Search are:
 
 --- Run textID.py. The input of this stage is  and save its output to infrastructureTextID.txt. This file will have the tweet text and the corresponding tweet id
 
---- Run labeling.py. The input of this stage is sample_train-OR-test_geo.txt and corresponding infrastructureTextID.txt. The output should be written to infrastructure_train-OR-test_label.txt. The last column in infrastructure_train/test_label.txt will be an indication of the intensity of the event, since the tweets mapped to the cell are higher, some of them could also possibly contain the keywords related to human casualties.
+--- Run labeling.py. The input of this stage is sample_train-OR-test_geo.txt and corresponding infrastructureTextID.txt. The output should be written to infrastructure_train-OR-test_label.txt. The last column in infrastructure_train-OR-test_label.txt will be an indication of the intensity of the event, since the tweets mapped to the cell are higher, some of them could also possibly contain the keywords related to human casualties.
 
 Keywords used in this stage include: 
 'killed', 'kills', 'died', 'dead', 'deadly', 'fatal', 'injured', 'hurts', 'hurt'
