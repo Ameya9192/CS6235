@@ -58,3 +58,6 @@ The ***keywords*** used for Twitter Search are:
 --- Run textID.py. The input of this stage is  and save its output to infrastructureTextID.txt. This file will have the tweet text and the corresponding tweet id
 
 --- Run labeling.py. The input of this stage is sample_train/test_geo.txt and corresponding infrastructureTextID.txt. The output should be written to infrastructure_train/test_label.txt. The last column in infrastructure_train/test_label.txt will be an indication of the intensity of the event, since the tweets mapped to the cell are higher, some of them could also possibly contain the keywords related to human casualties.
+
+Keywords used in this stage include: 
+'killed', 'kills', 'died', 'dead', 'deadly', 'fatal', 'injured', 'hurts', 'hurt'
